@@ -1,0 +1,3421 @@
+qid,lang,query,image_id,relevant,labeler
+0,en,red sports car at night in the rain,22867781,1,assistant_30k_reused
+0,en,red sports car at night in the rain,22907213,1,assistant_30k_reused
+0,en,red sports car at night in the rain,22907397,1,assistant_30k_reused
+0,en,red sports car at night in the rain,47817537,0,assistant_100k
+0,en,red sports car at night in the rain,58273011,0,assistant_100k
+0,en,red sports car at night in the rain,70468772,0,assistant_100k
+0,en,red sports car at night in the rain,94414839,0,assistant_100k
+0,en,red sports car at night in the rain,94415048,0,assistant_100k
+0,en,red sports car at night in the rain,110923612,0,assistant_100k
+0,en,red sports car at night in the rain,113944870,1,assistant_100k
+0,en,red sports car at night in the rain,115516198,0,assistant_30k_reused
+0,en,red sports car at night in the rain,115969279,0,assistant_100k
+0,en,red sports car at night in the rain,122279375,0,assistant_100k
+0,en,red sports car at night in the rain,123447094,0,assistant_100k
+0,en,red sports car at night in the rain,126788639,0,assistant_100k
+0,en,red sports car at night in the rain,130444099,1,assistant_100k
+0,en,red sports car at night in the rain,131416788,0,assistant_30k_reused
+0,en,red sports car at night in the rain,137593467,0,assistant_100k
+0,en,red sports car at night in the rain,138006049,1,assistant_100k
+0,en,red sports car at night in the rain,141600686,0,assistant_100k
+0,en,red sports car at night in the rain,141815151,0,assistant_100k
+0,en,red sports car at night in the rain,142580061,1,assistant_100k
+0,en,red sports car at night in the rain,142792313,0,assistant_100k
+0,en,red sports car at night in the rain,142792314,0,assistant_100k
+0,en,red sports car at night in the rain,142792319,0,assistant_100k
+0,en,red sports car at night in the rain,142792320,0,assistant_100k
+0,en,red sports car at night in the rain,143678355,0,assistant_100k
+0,en,red sports car at night in the rain,144572468,1,assistant_30k_reused
+0,en,red sports car at night in the rain,145565963,0,assistant_30k_reused
+0,en,red sports car at night in the rain,145655970,1,assistant_100k
+0,en,red sports car at night in the rain,145693393,1,assistant_30k_reused
+0,en,red sports car at night in the rain,145790471,0,assistant_30k_reused
+0,en,red sports car at night in the rain,145927450,0,assistant_100k
+0,en,red sports car at night in the rain,145930357,1,assistant_30k_reused
+0,en,red sports car at night in the rain,146156011,0,assistant_100k
+1,en,cat sleeping on a windowsill,45128190,1,assistant_100k
+1,en,cat sleeping on a windowsill,47790081,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,49921729,1,assistant_100k
+1,en,cat sleeping on a windowsill,101187667,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,122743861,0,assistant_100k
+1,en,cat sleeping on a windowsill,124670146,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,124670153,0,assistant_100k
+1,en,cat sleeping on a windowsill,128503836,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,134758955,0,assistant_100k
+1,en,cat sleeping on a windowsill,138049800,1,assistant_100k
+1,en,cat sleeping on a windowsill,138477474,1,assistant_100k
+1,en,cat sleeping on a windowsill,140405097,1,assistant_100k
+1,en,cat sleeping on a windowsill,141507060,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,141738041,1,assistant_100k
+1,en,cat sleeping on a windowsill,142100419,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,142790575,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,143285104,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,144265815,1,assistant_100k
+1,en,cat sleeping on a windowsill,144975414,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,145223590,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,145493484,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,145591962,1,assistant_100k
+1,en,cat sleeping on a windowsill,145800619,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,145844099,1,assistant_30k_reused
+1,en,cat sleeping on a windowsill,145931988,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,146030816,0,assistant_30k_reused
+1,en,cat sleeping on a windowsill,146061796,1,assistant_100k
+2,en,foggy forest at dawn,31282558,0,assistant_30k_reused
+2,en,foggy forest at dawn,31318854,0,assistant_30k_reused
+2,en,foggy forest at dawn,31805456,0,assistant_30k_reused
+2,en,foggy forest at dawn,31805607,0,assistant_100k
+2,en,foggy forest at dawn,47239819,0,assistant_30k_reused
+2,en,foggy forest at dawn,58226493,1,assistant_100k
+2,en,foggy forest at dawn,100145426,1,assistant_100k
+2,en,foggy forest at dawn,108413945,0,assistant_100k
+2,en,foggy forest at dawn,110244584,0,assistant_30k_reused
+2,en,foggy forest at dawn,116518631,1,assistant_100k
+2,en,foggy forest at dawn,119165947,1,assistant_100k
+2,en,foggy forest at dawn,127559867,0,assistant_100k
+2,en,foggy forest at dawn,134662255,1,assistant_30k_reused
+2,en,foggy forest at dawn,134863071,1,assistant_30k_reused
+2,en,foggy forest at dawn,137699662,1,assistant_100k
+2,en,foggy forest at dawn,138526335,1,assistant_30k_reused
+2,en,foggy forest at dawn,138884922,1,assistant_100k
+2,en,foggy forest at dawn,140787064,0,assistant_100k
+2,en,foggy forest at dawn,141418126,0,assistant_100k
+2,en,foggy forest at dawn,141764023,1,assistant_100k
+2,en,foggy forest at dawn,141891453,1,assistant_100k
+2,en,foggy forest at dawn,142062243,1,assistant_100k
+2,en,foggy forest at dawn,142344003,1,assistant_100k
+2,en,foggy forest at dawn,143526765,0,assistant_100k
+2,en,foggy forest at dawn,144183911,1,assistant_100k
+2,en,foggy forest at dawn,144387824,1,assistant_100k
+2,en,foggy forest at dawn,145219642,1,assistant_100k
+2,en,foggy forest at dawn,145219658,1,assistant_100k
+2,en,foggy forest at dawn,145842840,1,assistant_30k_reused
+2,en,foggy forest at dawn,145988872,1,assistant_30k_reused
+2,en,foggy forest at dawn,146063469,1,assistant_30k_reused
+3,en,astronaut on an alien planet,30484435,1,assistant_100k
+3,en,astronaut on an alien planet,56810591,1,assistant_100k
+3,en,astronaut on an alien planet,98935051,1,assistant_100k
+3,en,astronaut on an alien planet,98935052,1,assistant_100k
+3,en,astronaut on an alien planet,106433642,0,assistant_100k
+3,en,astronaut on an alien planet,118346393,1,assistant_30k_reused
+3,en,astronaut on an alien planet,122364686,1,assistant_100k
+3,en,astronaut on an alien planet,123514687,1,assistant_100k
+3,en,astronaut on an alien planet,125688067,1,assistant_30k_reused
+3,en,astronaut on an alien planet,125992483,0,assistant_100k
+3,en,astronaut on an alien planet,136017754,1,assistant_100k
+3,en,astronaut on an alien planet,136030146,1,assistant_100k
+3,en,astronaut on an alien planet,139786213,1,assistant_30k_reused
+3,en,astronaut on an alien planet,140018587,1,assistant_100k
+3,en,astronaut on an alien planet,140018599,1,assistant_100k
+3,en,astronaut on an alien planet,140432753,0,assistant_100k
+3,en,astronaut on an alien planet,140598489,1,assistant_30k_reused
+3,en,astronaut on an alien planet,140819666,1,assistant_100k
+3,en,astronaut on an alien planet,141995680,1,assistant_100k
+3,en,astronaut on an alien planet,142089860,1,assistant_100k
+3,en,astronaut on an alien planet,142309611,1,assistant_30k_reused
+3,en,astronaut on an alien planet,143126482,1,assistant_100k
+3,en,astronaut on an alien planet,143126483,1,assistant_100k
+3,en,astronaut on an alien planet,143126485,1,assistant_100k
+3,en,astronaut on an alien planet,143296230,0,assistant_100k
+3,en,astronaut on an alien planet,143362912,1,assistant_30k_reused
+3,en,astronaut on an alien planet,143429413,1,assistant_100k
+3,en,astronaut on an alien planet,143525947,1,assistant_100k
+3,en,astronaut on an alien planet,143634770,0,assistant_30k_reused
+3,en,astronaut on an alien planet,143672769,1,assistant_30k_reused
+3,en,astronaut on an alien planet,144123835,0,assistant_30k_reused
+3,en,astronaut on an alien planet,144370712,0,assistant_100k
+3,en,astronaut on an alien planet,144677563,1,assistant_100k
+3,en,astronaut on an alien planet,145283254,1,assistant_30k_reused
+3,en,astronaut on an alien planet,145559126,1,assistant_30k_reused
+3,en,astronaut on an alien planet,145772819,0,assistant_30k_reused
+3,en,astronaut on an alien planet,146077982,1,assistant_30k_reused
+3,en,astronaut on an alien planet,146143504,1,assistant_100k
+4,en,cozy cafe interior with warm light,24605955,1,assistant_100k
+4,en,cozy cafe interior with warm light,92193815,0,assistant_100k
+4,en,cozy cafe interior with warm light,103006443,1,assistant_100k
+4,en,cozy cafe interior with warm light,109549618,1,assistant_30k_reused
+4,en,cozy cafe interior with warm light,111669791,1,assistant_30k_reused
+4,en,cozy cafe interior with warm light,116991884,0,assistant_100k
+4,en,cozy cafe interior with warm light,129846139,1,assistant_100k
+4,en,cozy cafe interior with warm light,135895609,1,assistant_100k
+4,en,cozy cafe interior with warm light,136175417,0,assistant_100k
+4,en,cozy cafe interior with warm light,139579945,1,assistant_100k
+4,en,cozy cafe interior with warm light,139584866,0,assistant_100k
+4,en,cozy cafe interior with warm light,142580589,1,assistant_100k
+4,en,cozy cafe interior with warm light,142787194,1,assistant_100k
+4,en,cozy cafe interior with warm light,143397381,1,assistant_30k_reused
+4,en,cozy cafe interior with warm light,144074699,1,assistant_100k
+4,en,cozy cafe interior with warm light,144192358,1,assistant_100k
+4,en,cozy cafe interior with warm light,144471025,0,assistant_30k_reused
+4,en,cozy cafe interior with warm light,144513537,0,assistant_30k_reused
+4,en,cozy cafe interior with warm light,144653765,0,assistant_100k
+4,en,cozy cafe interior with warm light,144763974,1,assistant_100k
+4,en,cozy cafe interior with warm light,144763975,1,assistant_100k
+4,en,cozy cafe interior with warm light,144763976,1,assistant_100k
+4,en,cozy cafe interior with warm light,144763977,1,assistant_100k
+4,en,cozy cafe interior with warm light,145329877,0,assistant_30k_reused
+4,en,cozy cafe interior with warm light,145331779,0,assistant_30k_reused
+4,en,cozy cafe interior with warm light,145404810,1,assistant_100k
+4,en,cozy cafe interior with warm light,145464101,1,assistant_100k
+4,en,cozy cafe interior with warm light,145695750,1,assistant_30k_reused
+4,en,cozy cafe interior with warm light,145727804,1,assistant_30k_reused
+4,en,cozy cafe interior with warm light,145881763,1,assistant_100k
+4,en,cozy cafe interior with warm light,146027014,1,assistant_30k_reused
+5,en,knight in shining armor,22049694,0,assistant_100k
+5,en,knight in shining armor,45136142,1,assistant_100k
+5,en,knight in shining armor,75822501,1,assistant_100k
+5,en,knight in shining armor,87788758,1,assistant_100k
+5,en,knight in shining armor,105951029,1,assistant_30k_reused
+5,en,knight in shining armor,112560320,1,assistant_30k_reused
+5,en,knight in shining armor,113042307,1,assistant_30k_reused
+5,en,knight in shining armor,113042310,0,assistant_30k_reused
+5,en,knight in shining armor,117732698,0,assistant_100k
+5,en,knight in shining armor,119540085,1,assistant_100k
+5,en,knight in shining armor,119839068,1,assistant_100k
+5,en,knight in shining armor,122156021,1,assistant_100k
+5,en,knight in shining armor,124975563,1,assistant_100k
+5,en,knight in shining armor,126825062,1,assistant_30k_reused
+5,en,knight in shining armor,134160177,1,assistant_100k
+5,en,knight in shining armor,135551978,0,assistant_100k
+5,en,knight in shining armor,136233302,1,assistant_100k
+5,en,knight in shining armor,139004869,1,assistant_100k
+5,en,knight in shining armor,139699417,0,assistant_100k
+5,en,knight in shining armor,141043699,1,assistant_100k
+5,en,knight in shining armor,141052151,1,assistant_100k
+5,en,knight in shining armor,141059996,1,assistant_100k
+5,en,knight in shining armor,141913711,0,assistant_100k
+5,en,knight in shining armor,142331189,1,assistant_100k
+5,en,knight in shining armor,142386283,1,assistant_100k
+5,en,knight in shining armor,142386564,1,assistant_100k
+5,en,knight in shining armor,142954639,1,assistant_100k
+5,en,knight in shining armor,143309279,1,assistant_30k_reused
+5,en,knight in shining armor,143403255,1,assistant_100k
+5,en,knight in shining armor,143885281,1,assistant_30k_reused
+5,en,knight in shining armor,144140767,1,assistant_100k
+5,en,knight in shining armor,144515602,1,assistant_100k
+5,en,knight in shining armor,144625418,1,assistant_30k_reused
+5,en,knight in shining armor,144678917,1,assistant_100k
+5,en,knight in shining armor,144918614,1,assistant_100k
+5,en,knight in shining armor,145043008,1,assistant_100k
+5,en,knight in shining armor,145043009,1,assistant_100k
+5,en,knight in shining armor,145198198,1,assistant_100k
+5,en,knight in shining armor,145458586,1,assistant_30k_reused
+5,en,knight in shining armor,145668506,1,assistant_100k
+5,en,knight in shining armor,145689910,1,assistant_30k_reused
+5,en,knight in shining armor,145738751,1,assistant_100k
+5,en,knight in shining armor,145816524,1,assistant_30k_reused
+5,en,knight in shining armor,145939810,1,assistant_30k_reused
+5,en,knight in shining armor,146174029,0,assistant_100k
+5,en,knight in shining armor,146174036,0,assistant_100k
+6,en,dragon flying over mountains,24641975,1,assistant_30k_reused
+6,en,dragon flying over mountains,49374477,1,assistant_100k
+6,en,dragon flying over mountains,52625467,1,assistant_30k_reused
+6,en,dragon flying over mountains,52625489,1,assistant_30k_reused
+6,en,dragon flying over mountains,52625493,1,assistant_30k_reused
+6,en,dragon flying over mountains,76152410,1,assistant_100k
+6,en,dragon flying over mountains,83562640,1,assistant_30k_reused
+6,en,dragon flying over mountains,106130847,1,assistant_100k
+6,en,dragon flying over mountains,109722106,0,assistant_100k
+6,en,dragon flying over mountains,111734384,1,assistant_100k
+6,en,dragon flying over mountains,113562386,1,assistant_100k
+6,en,dragon flying over mountains,113562387,1,assistant_100k
+6,en,dragon flying over mountains,115600127,1,assistant_100k
+6,en,dragon flying over mountains,116234158,1,assistant_30k_reused
+6,en,dragon flying over mountains,121293231,1,assistant_30k_reused
+6,en,dragon flying over mountains,122198452,0,assistant_100k
+6,en,dragon flying over mountains,129696411,1,assistant_100k
+6,en,dragon flying over mountains,134288006,0,assistant_100k
+6,en,dragon flying over mountains,134476610,0,assistant_100k
+6,en,dragon flying over mountains,137774851,1,assistant_100k
+6,en,dragon flying over mountains,137774852,1,assistant_100k
+6,en,dragon flying over mountains,140375151,1,assistant_30k_reused
+6,en,dragon flying over mountains,141179448,0,assistant_100k
+6,en,dragon flying over mountains,142003469,1,assistant_100k
+6,en,dragon flying over mountains,142726870,0,assistant_30k_reused
+6,en,dragon flying over mountains,143664505,0,assistant_100k
+6,en,dragon flying over mountains,143666692,1,assistant_100k
+6,en,dragon flying over mountains,144370497,0,assistant_100k
+6,en,dragon flying over mountains,144370507,0,assistant_100k
+6,en,dragon flying over mountains,144716714,0,assistant_30k_reused
+6,en,dragon flying over mountains,145070307,1,assistant_100k
+6,en,dragon flying over mountains,145280626,1,assistant_100k
+6,en,dragon flying over mountains,145280722,1,assistant_100k
+6,en,dragon flying over mountains,145473769,1,assistant_30k_reused
+6,en,dragon flying over mountains,145473770,1,assistant_30k_reused
+6,en,dragon flying over mountains,145473772,1,assistant_30k_reused
+6,en,dragon flying over mountains,145473773,1,assistant_30k_reused
+6,en,dragon flying over mountains,145713919,0,assistant_100k
+6,en,dragon flying over mountains,146189508,1,assistant_100k
+7,en,underwater coral reef with fish,100836458,1,assistant_100k
+7,en,underwater coral reef with fish,119900025,1,assistant_30k_reused
+7,en,underwater coral reef with fish,121224591,1,assistant_100k
+7,en,underwater coral reef with fish,121314616,0,assistant_100k
+7,en,underwater coral reef with fish,121314617,0,assistant_100k
+7,en,underwater coral reef with fish,122171571,0,assistant_100k
+7,en,underwater coral reef with fish,128999202,1,assistant_30k_reused
+7,en,underwater coral reef with fish,129027598,1,assistant_100k
+7,en,underwater coral reef with fish,129027600,1,assistant_100k
+7,en,underwater coral reef with fish,129027602,1,assistant_100k
+7,en,underwater coral reef with fish,129027604,1,assistant_100k
+7,en,underwater coral reef with fish,129027607,1,assistant_100k
+7,en,underwater coral reef with fish,134624793,1,assistant_100k
+7,en,underwater coral reef with fish,137307362,1,assistant_100k
+7,en,underwater coral reef with fish,137696159,0,assistant_100k
+7,en,underwater coral reef with fish,138598003,1,assistant_100k
+7,en,underwater coral reef with fish,138892393,1,assistant_100k
+7,en,underwater coral reef with fish,141175765,1,assistant_30k_reused
+7,en,underwater coral reef with fish,141879883,0,assistant_100k
+7,en,underwater coral reef with fish,142619471,1,assistant_100k
+7,en,underwater coral reef with fish,145569152,1,assistant_30k_reused
+7,en,underwater coral reef with fish,145569264,0,assistant_30k_reused
+7,en,underwater coral reef with fish,145850111,1,assistant_30k_reused
+7,en,underwater coral reef with fish,145850328,1,assistant_30k_reused
+7,en,underwater coral reef with fish,145850330,1,assistant_30k_reused
+7,en,underwater coral reef with fish,145850357,1,assistant_30k_reused
+7,en,underwater coral reef with fish,145863321,1,assistant_100k
+7,en,underwater coral reef with fish,146059453,1,assistant_30k_reused
+7,en,underwater coral reef with fish,146062850,1,assistant_100k
+7,en,underwater coral reef with fish,146062854,1,assistant_100k
+8,en,cyberpunk city street with neon signs,123971534,1,assistant_100k
+8,en,cyberpunk city street with neon signs,126600622,1,assistant_100k
+8,en,cyberpunk city street with neon signs,135534365,0,assistant_100k
+8,en,cyberpunk city street with neon signs,138352470,1,assistant_100k
+8,en,cyberpunk city street with neon signs,139671365,1,assistant_100k
+8,en,cyberpunk city street with neon signs,142345385,1,assistant_30k_reused
+8,en,cyberpunk city street with neon signs,142571398,1,assistant_100k
+8,en,cyberpunk city street with neon signs,143505358,1,assistant_100k
+8,en,cyberpunk city street with neon signs,143594876,1,assistant_30k_reused
+8,en,cyberpunk city street with neon signs,144006689,1,assistant_30k_reused
+8,en,cyberpunk city street with neon signs,144032111,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144162383,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144162385,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144162386,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144162389,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144370856,1,assistant_100k
+8,en,cyberpunk city street with neon signs,144535420,1,assistant_100k
+8,en,cyberpunk city street with neon signs,145035269,0,assistant_100k
+8,en,cyberpunk city street with neon signs,145035271,0,assistant_100k
+8,en,cyberpunk city street with neon signs,145924815,1,assistant_30k_reused
+8,en,cyberpunk city street with neon signs,145993719,1,assistant_100k
+8,en,cyberpunk city street with neon signs,145993733,1,assistant_100k
+8,en,cyberpunk city street with neon signs,145993738,1,assistant_100k
+8,en,cyberpunk city street with neon signs,145993739,1,assistant_100k
+9,en,portrait of an old man with a beard,13609840,1,assistant_100k
+9,en,portrait of an old man with a beard,39405377,1,assistant_100k
+9,en,portrait of an old man with a beard,56730247,1,assistant_100k
+9,en,portrait of an old man with a beard,56735978,1,assistant_100k
+9,en,portrait of an old man with a beard,75583728,0,assistant_30k_reused
+9,en,portrait of an old man with a beard,75583749,1,assistant_30k_reused
+9,en,portrait of an old man with a beard,79146604,1,assistant_100k
+9,en,portrait of an old man with a beard,94888117,0,assistant_100k
+9,en,portrait of an old man with a beard,110523772,1,assistant_100k
+9,en,portrait of an old man with a beard,110523777,1,assistant_100k
+9,en,portrait of an old man with a beard,120013847,1,assistant_100k
+9,en,portrait of an old man with a beard,120013849,1,assistant_100k
+9,en,portrait of an old man with a beard,130817836,1,assistant_100k
+9,en,portrait of an old man with a beard,131322962,1,assistant_100k
+9,en,portrait of an old man with a beard,135686059,1,assistant_100k
+9,en,portrait of an old man with a beard,142791507,1,assistant_100k
+9,en,portrait of an old man with a beard,143216022,0,assistant_100k
+9,en,portrait of an old man with a beard,143216023,0,assistant_100k
+9,en,portrait of an old man with a beard,143350844,0,assistant_100k
+9,en,portrait of an old man with a beard,143350845,0,assistant_100k
+9,en,portrait of an old man with a beard,143350847,0,assistant_100k
+9,en,portrait of an old man with a beard,143400397,0,assistant_100k
+9,en,portrait of an old man with a beard,143868251,0,assistant_100k
+9,en,portrait of an old man with a beard,144539150,0,assistant_30k_reused
+9,en,portrait of an old man with a beard,144933173,1,assistant_100k
+9,en,portrait of an old man with a beard,144934129,1,assistant_100k
+9,en,portrait of an old man with a beard,145046890,1,assistant_100k
+9,en,portrait of an old man with a beard,145053673,1,assistant_100k
+9,en,portrait of an old man with a beard,145053681,1,assistant_100k
+9,en,portrait of an old man with a beard,145053682,1,assistant_100k
+9,en,portrait of an old man with a beard,145287263,0,assistant_100k
+9,en,portrait of an old man with a beard,145287266,0,assistant_30k_reused
+9,en,portrait of an old man with a beard,145469556,1,assistant_30k_reused
+9,en,portrait of an old man with a beard,145469557,1,assistant_30k_reused
+9,en,portrait of an old man with a beard,145735927,1,assistant_30k_reused
+9,en,portrait of an old man with a beard,145841632,1,assistant_30k_reused
+9,en,portrait of an old man with a beard,146057235,0,assistant_30k_reused
+9,en,portrait of an old man with a beard,146088987,1,assistant_100k
+10,en,girl with an umbrella in the rain,30248112,1,assistant_100k
+10,en,girl with an umbrella in the rain,60826909,1,assistant_100k
+10,en,girl with an umbrella in the rain,77275445,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,99444871,1,assistant_100k
+10,en,girl with an umbrella in the rain,108616222,1,assistant_100k
+10,en,girl with an umbrella in the rain,110334263,1,assistant_100k
+10,en,girl with an umbrella in the rain,119308815,1,assistant_100k
+10,en,girl with an umbrella in the rain,122693901,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,126156182,0,assistant_100k
+10,en,girl with an umbrella in the rain,127018928,1,assistant_100k
+10,en,girl with an umbrella in the rain,131466092,1,assistant_100k
+10,en,girl with an umbrella in the rain,131722024,1,assistant_100k
+10,en,girl with an umbrella in the rain,132450575,0,assistant_100k
+10,en,girl with an umbrella in the rain,133717959,1,assistant_100k
+10,en,girl with an umbrella in the rain,135065103,1,assistant_100k
+10,en,girl with an umbrella in the rain,135348651,1,assistant_100k
+10,en,girl with an umbrella in the rain,135481001,1,assistant_100k
+10,en,girl with an umbrella in the rain,136016381,1,assistant_100k
+10,en,girl with an umbrella in the rain,140608321,0,assistant_30k_reused
+10,en,girl with an umbrella in the rain,142115755,1,assistant_100k
+10,en,girl with an umbrella in the rain,142115756,1,assistant_100k
+10,en,girl with an umbrella in the rain,143572733,0,assistant_30k_reused
+10,en,girl with an umbrella in the rain,143685345,1,assistant_100k
+10,en,girl with an umbrella in the rain,143923971,1,assistant_100k
+10,en,girl with an umbrella in the rain,143936723,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,144486689,1,assistant_100k
+10,en,girl with an umbrella in the rain,144539173,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,144582663,1,assistant_100k
+10,en,girl with an umbrella in the rain,144603922,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,144603927,0,assistant_30k_reused
+10,en,girl with an umbrella in the rain,144859883,1,assistant_30k_reused
+10,en,girl with an umbrella in the rain,145001617,1,assistant_100k
+10,en,girl with an umbrella in the rain,145476869,1,assistant_100k
+10,en,girl with an umbrella in the rain,145963769,1,assistant_100k
+10,en,girl with an umbrella in the rain,146011538,1,assistant_100k
+11,en,bowl of ramen,22903411,1,assistant_100k
+11,en,bowl of ramen,23962261,1,assistant_100k
+11,en,bowl of ramen,63476255,1,assistant_30k_reused
+11,en,bowl of ramen,68605960,1,assistant_30k_reused
+11,en,bowl of ramen,69639336,1,assistant_100k
+11,en,bowl of ramen,70468807,1,assistant_30k_reused
+11,en,bowl of ramen,70901725,1,assistant_30k_reused
+11,en,bowl of ramen,86342268,1,assistant_100k
+11,en,bowl of ramen,93083051,0,assistant_100k
+11,en,bowl of ramen,111856532,1,assistant_100k
+11,en,bowl of ramen,122490975,1,assistant_100k
+11,en,bowl of ramen,128246609,1,assistant_100k
+11,en,bowl of ramen,134996428,0,assistant_100k
+11,en,bowl of ramen,135419583,1,assistant_100k
+11,en,bowl of ramen,135428345,1,assistant_100k
+11,en,bowl of ramen,138020413,1,assistant_100k
+11,en,bowl of ramen,143700473,1,assistant_30k_reused
+11,en,bowl of ramen,143894519,1,assistant_30k_reused
+11,en,bowl of ramen,144388985,1,assistant_100k
+11,en,bowl of ramen,144389961,1,assistant_100k
+11,en,bowl of ramen,144577507,1,assistant_100k
+11,en,bowl of ramen,144825363,1,assistant_30k_reused
+11,en,bowl of ramen,145095971,1,assistant_30k_reused
+11,en,bowl of ramen,145728906,1,assistant_30k_reused
+11,en,bowl of ramen,145825821,1,assistant_30k_reused
+12,en,pixel art game scene,25287233,1,assistant_100k
+12,en,pixel art game scene,25287293,1,assistant_100k
+12,en,pixel art game scene,37285438,1,assistant_30k_reused
+12,en,pixel art game scene,51322885,0,assistant_100k
+12,en,pixel art game scene,80706112,1,assistant_100k
+12,en,pixel art game scene,81457809,0,assistant_100k
+12,en,pixel art game scene,84407578,1,assistant_100k
+12,en,pixel art game scene,85472902,1,assistant_100k
+12,en,pixel art game scene,85472907,0,assistant_100k
+12,en,pixel art game scene,91602643,1,assistant_30k_reused
+12,en,pixel art game scene,98937758,1,assistant_100k
+12,en,pixel art game scene,100437786,1,assistant_100k
+12,en,pixel art game scene,100437795,1,assistant_100k
+12,en,pixel art game scene,100437796,1,assistant_100k
+12,en,pixel art game scene,100437799,1,assistant_100k
+12,en,pixel art game scene,125876166,0,assistant_30k_reused
+12,en,pixel art game scene,125899844,1,assistant_100k
+12,en,pixel art game scene,135895609,1,assistant_100k
+12,en,pixel art game scene,135895614,1,assistant_100k
+12,en,pixel art game scene,139966925,1,assistant_100k
+12,en,pixel art game scene,140859222,1,assistant_100k
+12,en,pixel art game scene,140860284,1,assistant_100k
+12,en,pixel art game scene,141154721,1,assistant_100k
+12,en,pixel art game scene,141191784,0,assistant_100k
+12,en,pixel art game scene,141279298,1,assistant_100k
+12,en,pixel art game scene,141279685,1,assistant_100k
+12,en,pixel art game scene,141448666,1,assistant_100k
+12,en,pixel art game scene,141465839,1,assistant_100k
+12,en,pixel art game scene,143505358,1,assistant_100k
+12,en,pixel art game scene,144028111,1,assistant_100k
+12,en,pixel art game scene,144028130,1,assistant_100k
+12,en,pixel art game scene,144424339,0,assistant_30k_reused
+12,en,pixel art game scene,144496538,1,assistant_30k_reused
+12,en,pixel art game scene,144980214,1,assistant_100k
+12,en,pixel art game scene,145139575,1,assistant_30k_reused
+12,en,pixel art game scene,145177716,1,assistant_100k
+12,en,pixel art game scene,145445169,1,assistant_30k_reused
+12,en,pixel art game scene,145904192,1,assistant_30k_reused
+13,en,black and white photograph,19463322,1,assistant_100k
+13,en,black and white photograph,25530433,1,assistant_100k
+13,en,black and white photograph,35719869,0,assistant_100k
+13,en,black and white photograph,55780461,1,assistant_30k_reused
+13,en,black and white photograph,56394467,1,assistant_100k
+13,en,black and white photograph,75277388,1,assistant_30k_reused
+13,en,black and white photograph,92286772,1,assistant_100k
+13,en,black and white photograph,106330226,1,assistant_100k
+13,en,black and white photograph,110061294,1,assistant_30k_reused
+13,en,black and white photograph,113548804,1,assistant_100k
+13,en,black and white photograph,121936789,1,assistant_100k
+13,en,black and white photograph,124341891,1,assistant_100k
+13,en,black and white photograph,124710902,1,assistant_100k
+13,en,black and white photograph,127257840,1,assistant_100k
+13,en,black and white photograph,130068084,1,assistant_100k
+13,en,black and white photograph,138563357,0,assistant_100k
+13,en,black and white photograph,138806739,1,assistant_100k
+13,en,black and white photograph,140510993,0,assistant_100k
+13,en,black and white photograph,141875497,1,assistant_100k
+13,en,black and white photograph,141875569,1,assistant_100k
+13,en,black and white photograph,141875577,1,assistant_100k
+13,en,black and white photograph,141875582,1,assistant_100k
+13,en,black and white photograph,141875584,1,assistant_100k
+13,en,black and white photograph,141875587,1,assistant_100k
+13,en,black and white photograph,141875590,1,assistant_100k
+13,en,black and white photograph,142262915,1,assistant_100k
+13,en,black and white photograph,142277235,1,assistant_100k
+13,en,black and white photograph,142786116,0,assistant_30k_reused
+13,en,black and white photograph,143799650,1,assistant_100k
+13,en,black and white photograph,144011921,1,assistant_100k
+13,en,black and white photograph,144128931,0,assistant_100k
+13,en,black and white photograph,144485970,1,assistant_100k
+13,en,black and white photograph,144720618,1,assistant_100k
+13,en,black and white photograph,144721223,1,assistant_100k
+13,en,black and white photograph,144721252,1,assistant_100k
+13,en,black and white photograph,144721254,1,assistant_100k
+13,en,black and white photograph,144721262,1,assistant_100k
+13,en,black and white photograph,144721276,1,assistant_100k
+13,en,black and white photograph,145489954,0,assistant_30k_reused
+13,en,black and white photograph,145656886,1,assistant_100k
+13,en,black and white photograph,145839302,1,assistant_100k
+13,en,black and white photograph,145956194,1,assistant_30k_reused
+13,en,black and white photograph,146110908,1,assistant_100k
+13,en,black and white photograph,146110912,1,assistant_100k
+13,en,black and white photograph,146111169,1,assistant_100k
+14,en,watercolor painting of flowers,100040752,0,assistant_100k
+14,en,watercolor painting of flowers,112031632,1,assistant_100k
+14,en,watercolor painting of flowers,114334960,0,assistant_30k_reused
+14,en,watercolor painting of flowers,115188127,0,assistant_30k_reused
+14,en,watercolor painting of flowers,115238997,0,assistant_100k
+14,en,watercolor painting of flowers,116136078,1,assistant_30k_reused
+14,en,watercolor painting of flowers,116741990,0,assistant_100k
+14,en,watercolor painting of flowers,121864535,0,assistant_100k
+14,en,watercolor painting of flowers,126177923,0,assistant_100k
+14,en,watercolor painting of flowers,127134404,0,assistant_30k_reused
+14,en,watercolor painting of flowers,130029146,1,assistant_100k
+14,en,watercolor painting of flowers,130445927,1,assistant_100k
+14,en,watercolor painting of flowers,133152021,1,assistant_100k
+14,en,watercolor painting of flowers,133210175,0,assistant_30k_reused
+14,en,watercolor painting of flowers,136214666,0,assistant_100k
+14,en,watercolor painting of flowers,136900170,1,assistant_100k
+14,en,watercolor painting of flowers,136900175,1,assistant_100k
+14,en,watercolor painting of flowers,137164008,1,assistant_100k
+14,en,watercolor painting of flowers,137479918,0,assistant_30k_reused
+14,en,watercolor painting of flowers,137961504,1,assistant_100k
+14,en,watercolor painting of flowers,139905355,1,assistant_30k_reused
+14,en,watercolor painting of flowers,139905358,1,assistant_30k_reused
+14,en,watercolor painting of flowers,139905361,1,assistant_30k_reused
+14,en,watercolor painting of flowers,139905362,1,assistant_30k_reused
+14,en,watercolor painting of flowers,139905364,1,assistant_30k_reused
+14,en,watercolor painting of flowers,139905368,1,assistant_30k_reused
+14,en,watercolor painting of flowers,140224182,0,assistant_100k
+14,en,watercolor painting of flowers,140853831,0,assistant_30k_reused
+14,en,watercolor painting of flowers,141589002,0,assistant_100k
+14,en,watercolor painting of flowers,143777231,0,assistant_30k_reused
+14,en,watercolor painting of flowers,144147725,0,assistant_100k
+14,en,watercolor painting of flowers,145240509,0,assistant_30k_reused
+14,en,watercolor painting of flowers,145995133,0,assistant_30k_reused
+14,en,watercolor painting of flowers,146186693,0,assistant_100k
+15,en,cute robot,18500716,1,assistant_100k
+15,en,cute robot,26436797,1,assistant_100k
+15,en,cute robot,29687524,0,assistant_100k
+15,en,cute robot,38952393,1,assistant_100k
+15,en,cute robot,47239986,1,assistant_100k
+15,en,cute robot,62149798,0,assistant_100k
+15,en,cute robot,65103667,1,assistant_100k
+15,en,cute robot,66680614,1,assistant_30k_reused
+15,en,cute robot,85965966,1,assistant_30k_reused
+15,en,cute robot,88702349,0,assistant_100k
+15,en,cute robot,94574575,0,assistant_100k
+15,en,cute robot,107024225,0,assistant_100k
+15,en,cute robot,112271500,1,assistant_100k
+15,en,cute robot,112271504,1,assistant_100k
+15,en,cute robot,117969370,1,assistant_100k
+15,en,cute robot,120120450,1,assistant_100k
+15,en,cute robot,121204791,0,assistant_100k
+15,en,cute robot,121204794,0,assistant_100k
+15,en,cute robot,121624684,1,assistant_100k
+15,en,cute robot,125551050,1,assistant_100k
+15,en,cute robot,131873575,0,assistant_100k
+15,en,cute robot,133003935,1,assistant_100k
+15,en,cute robot,141201617,1,assistant_100k
+15,en,cute robot,141693839,1,assistant_100k
+15,en,cute robot,142119066,1,assistant_100k
+15,en,cute robot,143030355,1,assistant_100k
+15,en,cute robot,144571908,1,assistant_30k_reused
+15,en,cute robot,144913054,1,assistant_100k
+15,en,cute robot,145283302,1,assistant_30k_reused
+15,en,cute robot,145895378,1,assistant_100k
+15,en,cute robot,145895484,1,assistant_100k
+15,en,cute robot,146134279,1,assistant_100k
+15,en,cute robot,146195379,1,assistant_100k
+16,en,snowy mountain village,44319580,1,assistant_100k
+16,en,snowy mountain village,59835320,1,assistant_100k
+16,en,snowy mountain village,111171016,0,assistant_30k_reused
+16,en,snowy mountain village,115324283,1,assistant_30k_reused
+16,en,snowy mountain village,120996550,1,assistant_100k
+16,en,snowy mountain village,120996553,1,assistant_100k
+16,en,snowy mountain village,120996554,0,assistant_30k_reused
+16,en,snowy mountain village,120996555,1,assistant_100k
+16,en,snowy mountain village,125182485,1,assistant_100k
+16,en,snowy mountain village,126799745,0,assistant_100k
+16,en,snowy mountain village,128880730,0,assistant_100k
+16,en,snowy mountain village,136489122,1,assistant_30k_reused
+16,en,snowy mountain village,137639525,1,assistant_100k
+16,en,snowy mountain village,138774716,1,assistant_100k
+16,en,snowy mountain village,138887970,0,assistant_100k
+16,en,snowy mountain village,139184566,1,assistant_100k
+16,en,snowy mountain village,139421693,1,assistant_100k
+16,en,snowy mountain village,139658009,1,assistant_30k_reused
+16,en,snowy mountain village,139811898,0,assistant_100k
+16,en,snowy mountain village,140278907,0,assistant_100k
+16,en,snowy mountain village,140762665,1,assistant_100k
+16,en,snowy mountain village,141884125,1,assistant_100k
+16,en,snowy mountain village,141894060,0,assistant_100k
+16,en,snowy mountain village,143260556,1,assistant_100k
+16,en,snowy mountain village,143501036,0,assistant_30k_reused
+16,en,snowy mountain village,144370556,1,assistant_100k
+16,en,snowy mountain village,144760449,1,assistant_30k_reused
+16,en,snowy mountain village,145037635,1,assistant_30k_reused
+16,en,snowy mountain village,145166005,1,assistant_100k
+16,en,snowy mountain village,145907922,0,assistant_30k_reused
+16,en,snowy mountain village,145934188,0,assistant_30k_reused
+17,en,samurai with a katana,6411263,1,assistant_100k
+17,en,samurai with a katana,29498059,1,assistant_100k
+17,en,samurai with a katana,40565239,1,assistant_30k_reused
+17,en,samurai with a katana,47368696,1,assistant_30k_reused
+17,en,samurai with a katana,48200111,1,assistant_30k_reused
+17,en,samurai with a katana,80503481,1,assistant_100k
+17,en,samurai with a katana,97843666,1,assistant_100k
+17,en,samurai with a katana,107064664,1,assistant_30k_reused
+17,en,samurai with a katana,108940164,1,assistant_30k_reused
+17,en,samurai with a katana,109615566,1,assistant_30k_reused
+17,en,samurai with a katana,111864630,1,assistant_100k
+17,en,samurai with a katana,130584269,1,assistant_100k
+17,en,samurai with a katana,131470828,1,assistant_100k
+17,en,samurai with a katana,131786562,1,assistant_100k
+17,en,samurai with a katana,135039017,1,assistant_100k
+17,en,samurai with a katana,135439382,1,assistant_100k
+17,en,samurai with a katana,135980052,1,assistant_100k
+17,en,samurai with a katana,136716222,1,assistant_100k
+17,en,samurai with a katana,137608275,1,assistant_30k_reused
+17,en,samurai with a katana,137770876,1,assistant_100k
+17,en,samurai with a katana,138758715,1,assistant_100k
+17,en,samurai with a katana,138821194,1,assistant_100k
+17,en,samurai with a katana,138821195,1,assistant_100k
+17,en,samurai with a katana,138821196,1,assistant_100k
+17,en,samurai with a katana,139622896,1,assistant_30k_reused
+17,en,samurai with a katana,140619452,1,assistant_100k
+17,en,samurai with a katana,141208088,1,assistant_100k
+17,en,samurai with a katana,142471251,1,assistant_100k
+17,en,samurai with a katana,143614101,1,assistant_30k_reused
+17,en,samurai with a katana,143739844,0,assistant_100k
+17,en,samurai with a katana,143740435,0,assistant_100k
+17,en,samurai with a katana,143741726,0,assistant_100k
+17,en,samurai with a katana,143867639,1,assistant_30k_reused
+17,en,samurai with a katana,144095372,1,assistant_100k
+17,en,samurai with a katana,144186199,1,assistant_30k_reused
+17,en,samurai with a katana,144204959,1,assistant_100k
+17,en,samurai with a katana,144218595,1,assistant_100k
+17,en,samurai with a katana,144218649,1,assistant_100k
+17,en,samurai with a katana,144273053,1,assistant_30k_reused
+17,en,samurai with a katana,144860210,1,assistant_30k_reused
+17,en,samurai with a katana,145238483,1,assistant_100k
+17,en,samurai with a katana,145383473,1,assistant_100k
+17,en,samurai with a katana,145707613,1,assistant_30k_reused
+17,en,samurai with a katana,146022211,1,assistant_100k
+18,en,lighthouse during a storm,23217067,0,assistant_100k
+18,en,lighthouse during a storm,58696296,0,assistant_100k
+18,en,lighthouse during a storm,59293650,0,assistant_100k
+18,en,lighthouse during a storm,80479707,0,assistant_100k
+18,en,lighthouse during a storm,111568462,0,assistant_30k_reused
+18,en,lighthouse during a storm,121575191,1,assistant_100k
+18,en,lighthouse during a storm,126360468,1,assistant_100k
+18,en,lighthouse during a storm,128081182,1,assistant_100k
+18,en,lighthouse during a storm,136254007,0,assistant_100k
+18,en,lighthouse during a storm,136502195,0,assistant_30k_reused
+18,en,lighthouse during a storm,136513754,1,assistant_100k
+18,en,lighthouse during a storm,136800221,1,assistant_30k_reused
+18,en,lighthouse during a storm,137898246,1,assistant_100k
+18,en,lighthouse during a storm,137942118,0,assistant_100k
+18,en,lighthouse during a storm,138656767,1,assistant_100k
+18,en,lighthouse during a storm,139854649,1,assistant_100k
+18,en,lighthouse during a storm,140454249,1,assistant_100k
+18,en,lighthouse during a storm,140518890,1,assistant_100k
+18,en,lighthouse during a storm,140601414,1,assistant_100k
+18,en,lighthouse during a storm,140902771,1,assistant_30k_reused
+18,en,lighthouse during a storm,141198057,1,assistant_100k
+18,en,lighthouse during a storm,141198062,1,assistant_100k
+18,en,lighthouse during a storm,142196055,0,assistant_100k
+18,en,lighthouse during a storm,143108489,1,assistant_100k
+18,en,lighthouse during a storm,143339457,0,assistant_100k
+18,en,lighthouse during a storm,144185173,1,assistant_100k
+18,en,lighthouse during a storm,144451932,1,assistant_30k_reused
+18,en,lighthouse during a storm,144539164,0,assistant_30k_reused
+18,en,lighthouse during a storm,144921386,0,assistant_100k
+18,en,lighthouse during a storm,145159792,1,assistant_30k_reused
+18,en,lighthouse during a storm,146124707,1,assistant_30k_reused
+18,en,lighthouse during a storm,146168821,1,assistant_30k_reused
+18,en,lighthouse during a storm,146186506,1,assistant_100k
+19,en,steampunk airship,16667614,1,assistant_100k
+19,en,steampunk airship,17223305,1,assistant_100k
+19,en,steampunk airship,44805989,1,assistant_100k
+19,en,steampunk airship,70925861,1,assistant_100k
+19,en,steampunk airship,81257551,0,assistant_100k
+19,en,steampunk airship,108037601,1,assistant_30k_reused
+19,en,steampunk airship,108605715,1,assistant_30k_reused
+19,en,steampunk airship,108685558,1,assistant_100k
+19,en,steampunk airship,122221809,0,assistant_100k
+19,en,steampunk airship,124846817,0,assistant_100k
+19,en,steampunk airship,124846819,0,assistant_100k
+19,en,steampunk airship,130231316,0,assistant_100k
+19,en,steampunk airship,138151062,0,assistant_100k
+19,en,steampunk airship,141650182,1,assistant_30k_reused
+19,en,steampunk airship,141714013,0,assistant_100k
+19,en,steampunk airship,141780727,1,assistant_100k
+19,en,steampunk airship,141928474,0,assistant_100k
+19,en,steampunk airship,141992468,1,assistant_100k
+19,en,steampunk airship,141992469,1,assistant_100k
+19,en,steampunk airship,141992471,1,assistant_100k
+19,en,steampunk airship,141992472,1,assistant_100k
+19,en,steampunk airship,142062460,1,assistant_100k
+19,en,steampunk airship,142815062,0,assistant_100k
+19,en,steampunk airship,143044033,1,assistant_100k
+19,en,steampunk airship,143044047,1,assistant_100k
+19,en,steampunk airship,143774108,1,assistant_100k
+19,en,steampunk airship,143951053,1,assistant_100k
+19,en,steampunk airship,144571041,1,assistant_100k
+19,en,steampunk airship,145167435,1,assistant_100k
+19,en,steampunk airship,145167456,1,assistant_100k
+19,en,steampunk airship,145200170,1,assistant_30k_reused
+19,en,steampunk airship,145405963,0,assistant_30k_reused
+19,en,steampunk airship,145569017,1,assistant_30k_reused
+19,en,steampunk airship,145703441,1,assistant_100k
+19,en,steampunk airship,145703442,1,assistant_30k_reused
+19,en,steampunk airship,145703443,1,assistant_30k_reused
+19,en,steampunk airship,145703447,1,assistant_100k
+19,en,steampunk airship,145995412,1,assistant_30k_reused
+19,en,steampunk airship,145995413,1,assistant_30k_reused
+20,en,witch with a black cat,32402986,0,assistant_100k
+20,en,witch with a black cat,35590221,1,assistant_100k
+20,en,witch with a black cat,77086499,1,assistant_100k
+20,en,witch with a black cat,77086514,1,assistant_100k
+20,en,witch with a black cat,77464709,0,assistant_30k_reused
+20,en,witch with a black cat,77756060,1,assistant_100k
+20,en,witch with a black cat,106912914,0,assistant_100k
+20,en,witch with a black cat,107485175,0,assistant_100k
+20,en,witch with a black cat,107706127,1,assistant_100k
+20,en,witch with a black cat,129613594,1,assistant_100k
+20,en,witch with a black cat,131089185,0,assistant_100k
+20,en,witch with a black cat,140015354,0,assistant_100k
+20,en,witch with a black cat,140015504,0,assistant_100k
+20,en,witch with a black cat,140544635,0,assistant_100k
+20,en,witch with a black cat,141134781,1,assistant_100k
+20,en,witch with a black cat,141895109,1,assistant_100k
+20,en,witch with a black cat,142244927,0,assistant_100k
+20,en,witch with a black cat,142602112,1,assistant_30k_reused
+20,en,witch with a black cat,143132609,1,assistant_100k
+20,en,witch with a black cat,143148491,0,assistant_100k
+20,en,witch with a black cat,145025627,0,assistant_30k_reused
+20,en,witch with a black cat,145555087,1,assistant_30k_reused
+20,en,witch with a black cat,145816517,1,assistant_30k_reused
+20,en,witch with a black cat,145865540,1,assistant_30k_reused
+20,en,witch with a black cat,146038602,1,assistant_30k_reused
+20,en,witch with a black cat,146038606,1,assistant_30k_reused
+20,en,witch with a black cat,146191529,1,assistant_100k
+21,en,sunset over the ocean,13950849,1,assistant_100k
+21,en,sunset over the ocean,30929093,0,assistant_100k
+21,en,sunset over the ocean,104260670,1,assistant_100k
+21,en,sunset over the ocean,104260711,1,assistant_100k
+21,en,sunset over the ocean,118871533,1,assistant_30k_reused
+21,en,sunset over the ocean,121307270,1,assistant_100k
+21,en,sunset over the ocean,123800234,1,assistant_100k
+21,en,sunset over the ocean,134251505,1,assistant_100k
+21,en,sunset over the ocean,136814271,1,assistant_100k
+21,en,sunset over the ocean,138962058,1,assistant_100k
+21,en,sunset over the ocean,138962168,1,assistant_100k
+21,en,sunset over the ocean,139854641,1,assistant_100k
+21,en,sunset over the ocean,142829547,1,assistant_100k
+21,en,sunset over the ocean,142829548,1,assistant_100k
+21,en,sunset over the ocean,143144436,1,assistant_100k
+21,en,sunset over the ocean,143144439,1,assistant_100k
+21,en,sunset over the ocean,143144440,1,assistant_100k
+21,en,sunset over the ocean,143144442,1,assistant_100k
+21,en,sunset over the ocean,143144443,1,assistant_100k
+21,en,sunset over the ocean,143144446,1,assistant_100k
+21,en,sunset over the ocean,143578805,1,assistant_100k
+21,en,sunset over the ocean,143578833,1,assistant_100k
+21,en,sunset over the ocean,143579009,1,assistant_30k_reused
+21,en,sunset over the ocean,143580602,1,assistant_100k
+21,en,sunset over the ocean,143674265,1,assistant_30k_reused
+21,en,sunset over the ocean,143674875,1,assistant_30k_reused
+21,en,sunset over the ocean,143920338,0,assistant_100k
+21,en,sunset over the ocean,143920382,0,assistant_30k_reused
+21,en,sunset over the ocean,144932479,0,assistant_30k_reused
+21,en,sunset over the ocean,144984135,0,assistant_100k
+21,en,sunset over the ocean,145286695,1,assistant_100k
+21,en,sunset over the ocean,145356086,0,assistant_100k
+21,en,sunset over the ocean,145852455,1,assistant_30k_reused
+21,en,sunset over the ocean,146110906,0,assistant_100k
+22,en,medieval castle on a hill,59382035,0,assistant_100k
+22,en,medieval castle on a hill,60804961,0,assistant_100k
+22,en,medieval castle on a hill,87046662,1,assistant_100k
+22,en,medieval castle on a hill,96183099,1,assistant_100k
+22,en,medieval castle on a hill,107098966,1,assistant_100k
+22,en,medieval castle on a hill,110464471,1,assistant_30k_reused
+22,en,medieval castle on a hill,110464704,1,assistant_30k_reused
+22,en,medieval castle on a hill,112605417,1,assistant_100k
+22,en,medieval castle on a hill,121931164,0,assistant_100k
+22,en,medieval castle on a hill,122212037,1,assistant_100k
+22,en,medieval castle on a hill,124974710,1,assistant_100k
+22,en,medieval castle on a hill,133993218,1,assistant_100k
+22,en,medieval castle on a hill,137030201,1,assistant_100k
+22,en,medieval castle on a hill,137099319,1,assistant_100k
+22,en,medieval castle on a hill,138161093,1,assistant_100k
+22,en,medieval castle on a hill,139050081,1,assistant_100k
+22,en,medieval castle on a hill,139132501,1,assistant_100k
+22,en,medieval castle on a hill,139445246,1,assistant_100k
+22,en,medieval castle on a hill,140341689,1,assistant_100k
+22,en,medieval castle on a hill,140363483,1,assistant_100k
+22,en,medieval castle on a hill,140522873,1,assistant_100k
+22,en,medieval castle on a hill,141293152,1,assistant_100k
+22,en,medieval castle on a hill,141884129,1,assistant_100k
+22,en,medieval castle on a hill,143259113,1,assistant_30k_reused
+22,en,medieval castle on a hill,143307757,1,assistant_100k
+22,en,medieval castle on a hill,143308591,1,assistant_100k
+22,en,medieval castle on a hill,143798331,1,assistant_100k
+22,en,medieval castle on a hill,144998231,1,assistant_30k_reused
+22,en,medieval castle on a hill,144998234,0,assistant_30k_reused
+22,en,medieval castle on a hill,144998235,1,assistant_30k_reused
+22,en,medieval castle on a hill,144998236,0,assistant_30k_reused
+22,en,medieval castle on a hill,144998240,1,assistant_30k_reused
+22,en,medieval castle on a hill,144998241,1,assistant_30k_reused
+22,en,medieval castle on a hill,146070988,0,assistant_30k_reused
+22,en,medieval castle on a hill,146070992,0,assistant_30k_reused
+22,en,medieval castle on a hill,146070996,1,assistant_30k_reused
+22,en,medieval castle on a hill,146070997,1,assistant_30k_reused
+23,en,dog wearing sunglasses,10634283,1,assistant_100k
+23,en,dog wearing sunglasses,22524196,0,assistant_100k
+23,en,dog wearing sunglasses,23117010,0,assistant_100k
+23,en,dog wearing sunglasses,24583227,1,assistant_100k
+23,en,dog wearing sunglasses,29376088,0,assistant_100k
+23,en,dog wearing sunglasses,32851130,1,assistant_30k_reused
+23,en,dog wearing sunglasses,36479394,1,assistant_100k
+23,en,dog wearing sunglasses,103574731,1,assistant_30k_reused
+23,en,dog wearing sunglasses,119802542,0,assistant_100k
+23,en,dog wearing sunglasses,122172157,0,assistant_100k
+23,en,dog wearing sunglasses,122236220,0,assistant_100k
+23,en,dog wearing sunglasses,123281911,0,assistant_100k
+23,en,dog wearing sunglasses,135349984,1,assistant_30k_reused
+23,en,dog wearing sunglasses,138049804,0,assistant_100k
+23,en,dog wearing sunglasses,140881962,1,assistant_30k_reused
+23,en,dog wearing sunglasses,140897232,0,assistant_100k
+23,en,dog wearing sunglasses,141847352,0,assistant_30k_reused
+23,en,dog wearing sunglasses,142794629,1,assistant_100k
+23,en,dog wearing sunglasses,143674721,1,assistant_100k
+23,en,dog wearing sunglasses,143841188,1,assistant_100k
+23,en,dog wearing sunglasses,145539405,1,assistant_30k_reused
+23,en,dog wearing sunglasses,145596630,1,assistant_30k_reused
+23,en,dog wearing sunglasses,145596631,1,assistant_30k_reused
+23,en,dog wearing sunglasses,146132942,1,assistant_100k
+23,en,dog wearing sunglasses,146177339,0,assistant_30k_reused
+24,en,isometric tiny room,3096081,0,assistant_100k
+24,en,isometric tiny room,25722983,0,assistant_100k
+24,en,isometric tiny room,37733449,0,assistant_100k
+24,en,isometric tiny room,53259420,1,assistant_30k_reused
+24,en,isometric tiny room,61733833,1,assistant_100k
+24,en,isometric tiny room,63448651,0,assistant_30k_reused
+24,en,isometric tiny room,64196731,0,assistant_30k_reused
+24,en,isometric tiny room,65310254,0,assistant_30k_reused
+24,en,isometric tiny room,67043169,0,assistant_30k_reused
+24,en,isometric tiny room,68945043,0,assistant_30k_reused
+24,en,isometric tiny room,70810824,0,assistant_30k_reused
+24,en,isometric tiny room,74089407,1,assistant_100k
+24,en,isometric tiny room,85767670,1,assistant_100k
+24,en,isometric tiny room,132623287,0,assistant_100k
+24,en,isometric tiny room,135129434,1,assistant_100k
+24,en,isometric tiny room,140245731,1,assistant_30k_reused
+24,en,isometric tiny room,141758059,1,assistant_100k
+24,en,isometric tiny room,143865609,0,assistant_100k
+24,en,isometric tiny room,143998034,0,assistant_100k
+24,en,isometric tiny room,144003970,0,assistant_100k
+24,en,isometric tiny room,144064558,0,assistant_100k
+24,en,isometric tiny room,144120949,0,assistant_100k
+24,en,isometric tiny room,144231278,0,assistant_30k_reused
+24,en,isometric tiny room,144494828,0,assistant_100k
+24,en,isometric tiny room,144772498,0,assistant_100k
+24,en,isometric tiny room,145164087,1,assistant_100k
+24,en,isometric tiny room,145592325,1,assistant_30k_reused
+24,en,isometric tiny room,145663219,0,assistant_30k_reused
+24,en,isometric tiny room,145887801,0,assistant_30k_reused
+24,en,isometric tiny room,145894566,0,assistant_100k
+25,en,anime girl with pink hair,57643084,1,assistant_30k_reused
+25,en,anime girl with pink hair,93772793,1,assistant_100k
+25,en,anime girl with pink hair,106261158,1,assistant_100k
+25,en,anime girl with pink hair,111691432,1,assistant_100k
+25,en,anime girl with pink hair,113332523,1,assistant_100k
+25,en,anime girl with pink hair,113332546,1,assistant_100k
+25,en,anime girl with pink hair,113743919,1,assistant_100k
+25,en,anime girl with pink hair,116800768,1,assistant_30k_reused
+25,en,anime girl with pink hair,121163266,1,assistant_100k
+25,en,anime girl with pink hair,121172777,1,assistant_100k
+25,en,anime girl with pink hair,121280670,1,assistant_100k
+25,en,anime girl with pink hair,121325975,1,assistant_100k
+25,en,anime girl with pink hair,121331939,1,assistant_100k
+25,en,anime girl with pink hair,121334332,1,assistant_100k
+25,en,anime girl with pink hair,121334345,1,assistant_100k
+25,en,anime girl with pink hair,121337436,1,assistant_100k
+25,en,anime girl with pink hair,121337447,1,assistant_100k
+25,en,anime girl with pink hair,121338780,1,assistant_100k
+25,en,anime girl with pink hair,121368680,1,assistant_100k
+25,en,anime girl with pink hair,121368690,1,assistant_100k
+25,en,anime girl with pink hair,121368697,1,assistant_100k
+25,en,anime girl with pink hair,121571209,1,assistant_100k
+25,en,anime girl with pink hair,121748534,1,assistant_100k
+25,en,anime girl with pink hair,122393090,1,assistant_100k
+25,en,anime girl with pink hair,124851582,1,assistant_100k
+25,en,anime girl with pink hair,126447028,1,assistant_100k
+25,en,anime girl with pink hair,126901172,1,assistant_100k
+25,en,anime girl with pink hair,138881003,0,assistant_100k
+25,en,anime girl with pink hair,142896182,0,assistant_100k
+25,en,anime girl with pink hair,143439976,0,assistant_100k
+25,en,anime girl with pink hair,144049899,1,assistant_100k
+25,en,anime girl with pink hair,145525362,1,assistant_100k
+25,en,anime girl with pink hair,145525365,1,assistant_100k
+25,en,anime girl with pink hair,145948854,1,assistant_100k
+25,en,anime girl with pink hair,145954617,1,assistant_100k
+26,en,spaceship interior,32996326,1,assistant_100k
+26,en,spaceship interior,111877141,1,assistant_100k
+26,en,spaceship interior,114294833,0,assistant_100k
+26,en,spaceship interior,124563247,0,assistant_100k
+26,en,spaceship interior,133146677,1,assistant_100k
+26,en,spaceship interior,135534218,0,assistant_100k
+26,en,spaceship interior,136363380,1,assistant_100k
+26,en,spaceship interior,136425049,1,assistant_100k
+26,en,spaceship interior,137657065,0,assistant_100k
+26,en,spaceship interior,137990578,1,assistant_100k
+26,en,spaceship interior,137992710,1,assistant_100k
+26,en,spaceship interior,137992778,1,assistant_100k
+26,en,spaceship interior,137998607,1,assistant_100k
+26,en,spaceship interior,139677437,1,assistant_100k
+26,en,spaceship interior,140477317,1,assistant_100k
+26,en,spaceship interior,140477360,1,assistant_100k
+26,en,spaceship interior,140477370,1,assistant_100k
+26,en,spaceship interior,140495657,1,assistant_100k
+26,en,spaceship interior,140495659,1,assistant_100k
+26,en,spaceship interior,141229140,0,assistant_100k
+26,en,spaceship interior,142347595,1,assistant_100k
+26,en,spaceship interior,142347759,1,assistant_100k
+26,en,spaceship interior,142347761,1,assistant_100k
+26,en,spaceship interior,144387391,1,assistant_30k_reused
+26,en,spaceship interior,144492188,1,assistant_100k
+26,en,spaceship interior,144740430,1,assistant_100k
+26,en,spaceship interior,144789567,1,assistant_100k
+26,en,spaceship interior,145126151,1,assistant_100k
+26,en,spaceship interior,145204495,0,assistant_100k
+26,en,spaceship interior,146106997,0,assistant_100k
+26,en,spaceship interior,146134900,0,assistant_100k
+26,en,spaceship interior,146134903,0,assistant_100k
+26,en,spaceship interior,146134904,0,assistant_100k
+27,en,pirate ship at sea,27596776,1,assistant_100k
+27,en,pirate ship at sea,31711084,1,assistant_100k
+27,en,pirate ship at sea,45859273,1,assistant_100k
+27,en,pirate ship at sea,71990968,0,assistant_100k
+27,en,pirate ship at sea,79459209,0,assistant_100k
+27,en,pirate ship at sea,109613976,1,assistant_30k_reused
+27,en,pirate ship at sea,109975509,1,assistant_100k
+27,en,pirate ship at sea,110097136,1,assistant_100k
+27,en,pirate ship at sea,110168743,0,assistant_100k
+27,en,pirate ship at sea,110339996,1,assistant_30k_reused
+27,en,pirate ship at sea,110340042,1,assistant_30k_reused
+27,en,pirate ship at sea,124975251,1,assistant_100k
+27,en,pirate ship at sea,126464777,1,assistant_30k_reused
+27,en,pirate ship at sea,133548144,0,assistant_100k
+27,en,pirate ship at sea,134282276,0,assistant_100k
+27,en,pirate ship at sea,135999555,1,assistant_100k
+27,en,pirate ship at sea,136451794,1,assistant_100k
+27,en,pirate ship at sea,138999049,1,assistant_100k
+27,en,pirate ship at sea,140078967,1,assistant_100k
+27,en,pirate ship at sea,140080102,1,assistant_100k
+27,en,pirate ship at sea,140974135,1,assistant_100k
+27,en,pirate ship at sea,142788551,1,assistant_100k
+27,en,pirate ship at sea,142850567,0,assistant_100k
+27,en,pirate ship at sea,143495823,1,assistant_30k_reused
+27,en,pirate ship at sea,143790209,1,assistant_100k
+27,en,pirate ship at sea,144469929,1,assistant_30k_reused
+27,en,pirate ship at sea,144578443,1,assistant_100k
+27,en,pirate ship at sea,144960762,1,assistant_30k_reused
+27,en,pirate ship at sea,145283150,1,assistant_100k
+27,en,pirate ship at sea,145480708,1,assistant_30k_reused
+27,en,pirate ship at sea,145516576,1,assistant_30k_reused
+27,en,pirate ship at sea,145516578,1,assistant_30k_reused
+27,en,pirate ship at sea,145516584,1,assistant_30k_reused
+27,en,pirate ship at sea,145584698,1,assistant_30k_reused
+27,en,pirate ship at sea,145591295,1,assistant_100k
+27,en,pirate ship at sea,146153143,1,assistant_100k
+27,en,pirate ship at sea,146185676,1,assistant_100k
+28,en,halloween pumpkins,30228563,1,assistant_100k
+28,en,halloween pumpkins,32230176,1,assistant_30k_reused
+28,en,halloween pumpkins,33227882,1,assistant_100k
+28,en,halloween pumpkins,33342712,1,assistant_100k
+28,en,halloween pumpkins,34637192,1,assistant_100k
+28,en,halloween pumpkins,36389481,1,assistant_100k
+28,en,halloween pumpkins,37600183,1,assistant_30k_reused
+28,en,halloween pumpkins,107358011,1,assistant_100k
+28,en,halloween pumpkins,107741570,1,assistant_100k
+28,en,halloween pumpkins,107983760,1,assistant_30k_reused
+28,en,halloween pumpkins,107983764,1,assistant_30k_reused
+28,en,halloween pumpkins,108338053,0,assistant_100k
+28,en,halloween pumpkins,128102677,0,assistant_100k
+28,en,halloween pumpkins,143928219,1,assistant_100k
+28,en,halloween pumpkins,143928220,1,assistant_100k
+28,en,halloween pumpkins,143928221,1,assistant_100k
+28,en,halloween pumpkins,144463777,1,assistant_100k
+28,en,halloween pumpkins,144491042,1,assistant_30k_reused
+28,en,halloween pumpkins,144491063,1,assistant_30k_reused
+28,en,halloween pumpkins,145033139,1,assistant_30k_reused
+28,en,halloween pumpkins,145240483,1,assistant_100k
+28,en,halloween pumpkins,145254400,0,assistant_100k
+28,en,halloween pumpkins,145542657,1,assistant_30k_reused
+28,en,halloween pumpkins,145542658,1,assistant_30k_reused
+28,en,halloween pumpkins,145542659,1,assistant_30k_reused
+28,en,halloween pumpkins,145542663,1,assistant_30k_reused
+28,en,halloween pumpkins,145542665,1,assistant_100k
+28,en,halloween pumpkins,145577003,1,assistant_30k_reused
+28,en,halloween pumpkins,145577021,1,assistant_30k_reused
+28,en,halloween pumpkins,145787728,1,assistant_30k_reused
+28,en,halloween pumpkins,145958273,1,assistant_100k
+28,en,halloween pumpkins,145958274,1,assistant_30k_reused
+28,en,halloween pumpkins,145958275,1,assistant_100k
+28,en,halloween pumpkins,145958276,1,assistant_100k
+28,en,halloween pumpkins,145958277,1,assistant_100k
+28,en,halloween pumpkins,146116398,1,assistant_30k_reused
+28,en,halloween pumpkins,146116400,1,assistant_30k_reused
+28,en,halloween pumpkins,146116410,1,assistant_30k_reused
+28,en,halloween pumpkins,146117178,1,assistant_30k_reused
+28,en,halloween pumpkins,146117181,1,assistant_30k_reused
+28,en,halloween pumpkins,146117183,1,assistant_30k_reused
+28,en,halloween pumpkins,146117188,1,assistant_100k
+28,en,halloween pumpkins,146117191,1,assistant_30k_reused
+28,en,halloween pumpkins,146117193,1,assistant_100k
+28,en,halloween pumpkins,146117199,1,assistant_30k_reused
+28,en,halloween pumpkins,146120555,1,assistant_100k
+28,en,halloween pumpkins,146162955,1,assistant_30k_reused
+29,en,owl in the forest,14442765,0,assistant_100k
+29,en,owl in the forest,37897411,1,assistant_100k
+29,en,owl in the forest,111859446,1,assistant_100k
+29,en,owl in the forest,118183435,1,assistant_30k_reused
+29,en,owl in the forest,118183437,1,assistant_30k_reused
+29,en,owl in the forest,118183438,1,assistant_30k_reused
+29,en,owl in the forest,118183441,1,assistant_30k_reused
+29,en,owl in the forest,118183443,1,assistant_30k_reused
+29,en,owl in the forest,118183445,1,assistant_100k
+29,en,owl in the forest,118183448,1,assistant_30k_reused
+29,en,owl in the forest,120821267,1,assistant_100k
+29,en,owl in the forest,135126679,0,assistant_100k
+29,en,owl in the forest,135235460,1,assistant_100k
+29,en,owl in the forest,139209380,1,assistant_100k
+29,en,owl in the forest,140236887,0,assistant_100k
+29,en,owl in the forest,141186145,0,assistant_100k
+29,en,owl in the forest,141656639,1,assistant_100k
+29,en,owl in the forest,143569260,0,assistant_30k_reused
+29,en,owl in the forest,143905331,0,assistant_100k
+29,en,owl in the forest,144457550,0,assistant_30k_reused
+29,en,owl in the forest,144491460,1,assistant_100k
+29,en,owl in the forest,145075313,1,assistant_100k
+29,en,owl in the forest,145450582,0,assistant_30k_reused
+29,en,owl in the forest,145452046,1,assistant_100k
+29,en,owl in the forest,145708303,0,assistant_100k
+29,en,owl in the forest,145885088,1,assistant_30k_reused
+29,en,owl in the forest,145990403,0,assistant_100k
+29,en,owl in the forest,146075734,1,assistant_30k_reused
+30,en,bonsai tree in a pot,13938098,1,assistant_100k
+30,en,bonsai tree in a pot,22498142,0,assistant_100k
+30,en,bonsai tree in a pot,58185312,0,assistant_100k
+30,en,bonsai tree in a pot,125689629,0,assistant_100k
+30,en,bonsai tree in a pot,125929557,0,assistant_100k
+30,en,bonsai tree in a pot,127542702,1,assistant_100k
+30,en,bonsai tree in a pot,130137109,0,assistant_100k
+30,en,bonsai tree in a pot,131714707,0,assistant_100k
+30,en,bonsai tree in a pot,135146502,0,assistant_100k
+30,en,bonsai tree in a pot,135418475,1,assistant_100k
+30,en,bonsai tree in a pot,135555355,1,assistant_100k
+30,en,bonsai tree in a pot,135758250,0,assistant_100k
+30,en,bonsai tree in a pot,141418143,1,assistant_100k
+30,en,bonsai tree in a pot,141649763,1,assistant_100k
+30,en,bonsai tree in a pot,144677635,1,assistant_100k
+30,en,bonsai tree in a pot,144984144,0,assistant_100k
+30,en,bonsai tree in a pot,145085795,1,assistant_100k
+30,en,bonsai tree in a pot,145264449,1,assistant_100k
+30,en,bonsai tree in a pot,145639413,0,assistant_100k
+30,en,bonsai tree in a pot,145639414,0,assistant_100k
+30,en,bonsai tree in a pot,145639415,0,assistant_100k
+30,en,bonsai tree in a pot,145639416,0,assistant_100k
+30,en,bonsai tree in a pot,145639421,0,assistant_100k
+30,en,bonsai tree in a pot,146071882,1,assistant_100k
+30,en,bonsai tree in a pot,146189265,1,assistant_100k
+31,en,hot air balloons over a valley,17223305,0,assistant_100k
+31,en,hot air balloons over a valley,101195628,0,assistant_100k
+31,en,hot air balloons over a valley,106433530,0,assistant_100k
+31,en,hot air balloons over a valley,106506374,0,assistant_100k
+31,en,hot air balloons over a valley,112590386,0,assistant_100k
+31,en,hot air balloons over a valley,113955231,0,assistant_100k
+31,en,hot air balloons over a valley,120454583,0,assistant_100k
+31,en,hot air balloons over a valley,120454584,0,assistant_100k
+31,en,hot air balloons over a valley,120454588,0,assistant_100k
+31,en,hot air balloons over a valley,120454589,0,assistant_100k
+31,en,hot air balloons over a valley,120454613,0,assistant_100k
+31,en,hot air balloons over a valley,120454615,0,assistant_100k
+31,en,hot air balloons over a valley,122294523,0,assistant_100k
+31,en,hot air balloons over a valley,123218567,0,assistant_100k
+31,en,hot air balloons over a valley,131864139,0,assistant_100k
+31,en,hot air balloons over a valley,133049214,1,assistant_100k
+31,en,hot air balloons over a valley,135080936,0,assistant_100k
+31,en,hot air balloons over a valley,135186579,1,assistant_100k
+31,en,hot air balloons over a valley,137463571,0,assistant_100k
+31,en,hot air balloons over a valley,138003098,1,assistant_100k
+31,en,hot air balloons over a valley,140202149,0,assistant_100k
+31,en,hot air balloons over a valley,141984223,1,assistant_100k
+31,en,hot air balloons over a valley,142309609,1,assistant_100k
+31,en,hot air balloons over a valley,144257059,0,assistant_100k
+31,en,hot air balloons over a valley,144620235,1,assistant_100k
+31,en,hot air balloons over a valley,145457021,1,assistant_100k
+31,en,hot air balloons over a valley,145493475,1,assistant_100k
+31,en,hot air balloons over a valley,145641289,0,assistant_100k
+31,en,hot air balloons over a valley,145641298,0,assistant_100k
+31,en,hot air balloons over a valley,146105489,1,assistant_100k
+32,en,japanese temple with cherry blossoms,16767866,0,assistant_100k
+32,en,japanese temple with cherry blossoms,71471794,0,assistant_100k
+32,en,japanese temple with cherry blossoms,91517266,1,assistant_100k
+32,en,japanese temple with cherry blossoms,98412918,0,assistant_100k
+32,en,japanese temple with cherry blossoms,98412921,0,assistant_100k
+32,en,japanese temple with cherry blossoms,121048648,1,assistant_100k
+32,en,japanese temple with cherry blossoms,122675550,1,assistant_100k
+32,en,japanese temple with cherry blossoms,125168967,1,assistant_100k
+32,en,japanese temple with cherry blossoms,125168968,1,assistant_100k
+32,en,japanese temple with cherry blossoms,132873187,1,assistant_100k
+32,en,japanese temple with cherry blossoms,134724990,1,assistant_100k
+32,en,japanese temple with cherry blossoms,136565198,1,assistant_100k
+32,en,japanese temple with cherry blossoms,138352459,1,assistant_100k
+32,en,japanese temple with cherry blossoms,138369964,0,assistant_100k
+32,en,japanese temple with cherry blossoms,141190014,1,assistant_100k
+32,en,japanese temple with cherry blossoms,141225191,1,assistant_100k
+32,en,japanese temple with cherry blossoms,142887872,1,assistant_100k
+32,en,japanese temple with cherry blossoms,143015618,0,assistant_100k
+32,en,japanese temple with cherry blossoms,143324563,1,assistant_100k
+32,en,japanese temple with cherry blossoms,143457067,1,assistant_100k
+32,en,japanese temple with cherry blossoms,143457200,1,assistant_100k
+32,en,japanese temple with cherry blossoms,144734135,1,assistant_100k
+32,en,japanese temple with cherry blossoms,145282764,0,assistant_100k
+32,en,japanese temple with cherry blossoms,145727806,1,assistant_100k
+32,en,japanese temple with cherry blossoms,145742042,0,assistant_100k
+32,en,japanese temple with cherry blossoms,145819483,1,assistant_100k
+32,en,japanese temple with cherry blossoms,146047257,0,assistant_100k
+32,en,japanese temple with cherry blossoms,146154924,0,assistant_100k
+32,en,japanese temple with cherry blossoms,146154925,0,assistant_100k
+32,en,japanese temple with cherry blossoms,146154928,0,assistant_100k
+32,en,japanese temple with cherry blossoms,146154929,0,assistant_100k
+33,en,steaming cup of tea next to books,10896275,0,assistant_100k
+33,en,steaming cup of tea next to books,14848790,0,assistant_100k
+33,en,steaming cup of tea next to books,25021682,0,assistant_100k
+33,en,steaming cup of tea next to books,25113858,0,assistant_100k
+33,en,steaming cup of tea next to books,27864969,0,assistant_100k
+33,en,steaming cup of tea next to books,32418773,0,assistant_100k
+33,en,steaming cup of tea next to books,89503107,0,assistant_100k
+33,en,steaming cup of tea next to books,117937067,0,assistant_100k
+33,en,steaming cup of tea next to books,123631474,0,assistant_100k
+33,en,steaming cup of tea next to books,126363822,0,assistant_100k
+33,en,steaming cup of tea next to books,126888265,0,assistant_100k
+33,en,steaming cup of tea next to books,129020564,0,assistant_100k
+33,en,steaming cup of tea next to books,130142957,1,assistant_100k
+33,en,steaming cup of tea next to books,130225625,0,assistant_100k
+33,en,steaming cup of tea next to books,138046238,0,assistant_100k
+33,en,steaming cup of tea next to books,138152880,0,assistant_100k
+33,en,steaming cup of tea next to books,138231853,0,assistant_100k
+33,en,steaming cup of tea next to books,139006760,0,assistant_100k
+33,en,steaming cup of tea next to books,139032761,0,assistant_100k
+33,en,steaming cup of tea next to books,143400393,0,assistant_100k
+33,en,steaming cup of tea next to books,143427008,0,assistant_100k
+33,en,steaming cup of tea next to books,144441096,0,assistant_100k
+33,en,steaming cup of tea next to books,144471025,1,assistant_100k
+33,en,steaming cup of tea next to books,144486788,1,assistant_100k
+33,en,steaming cup of tea next to books,144486833,1,assistant_100k
+33,en,steaming cup of tea next to books,144571908,0,assistant_100k
+33,en,steaming cup of tea next to books,144763974,1,assistant_100k
+33,en,steaming cup of tea next to books,144763975,1,assistant_100k
+33,en,steaming cup of tea next to books,144763976,1,assistant_100k
+33,en,steaming cup of tea next to books,144763977,1,assistant_100k
+33,en,steaming cup of tea next to books,145264904,1,assistant_100k
+33,en,steaming cup of tea next to books,145408229,0,assistant_100k
+33,en,steaming cup of tea next to books,145727804,0,assistant_100k
+33,en,steaming cup of tea next to books,145808528,0,assistant_100k
+33,en,steaming cup of tea next to books,145819354,1,assistant_100k
+33,en,steaming cup of tea next to books,145819535,0,assistant_100k
+33,en,steaming cup of tea next to books,145908617,0,assistant_100k
+33,en,steaming cup of tea next to books,146058801,0,assistant_100k
+34,en,wolf howling at the moon,77547179,0,assistant_100k
+34,en,wolf howling at the moon,77547292,0,assistant_100k
+34,en,wolf howling at the moon,112277275,1,assistant_100k
+34,en,wolf howling at the moon,121953398,1,assistant_100k
+34,en,wolf howling at the moon,133720685,1,assistant_100k
+34,en,wolf howling at the moon,136451699,1,assistant_100k
+34,en,wolf howling at the moon,138374920,1,assistant_100k
+34,en,wolf howling at the moon,140955955,1,assistant_100k
+34,en,wolf howling at the moon,142841084,1,assistant_100k
+34,en,wolf howling at the moon,143274338,1,assistant_100k
+34,en,wolf howling at the moon,144402543,1,assistant_100k
+34,en,wolf howling at the moon,144680795,0,assistant_100k
+34,en,wolf howling at the moon,144981895,1,assistant_100k
+34,en,wolf howling at the moon,145040399,1,assistant_100k
+34,en,wolf howling at the moon,145380646,0,assistant_100k
+34,en,wolf howling at the moon,145387270,1,assistant_100k
+34,en,wolf howling at the moon,145675288,1,assistant_100k
+34,en,wolf howling at the moon,145706983,0,assistant_100k
+34,en,wolf howling at the moon,145774451,1,assistant_100k
+34,en,wolf howling at the moon,145818776,1,assistant_100k
+34,en,wolf howling at the moon,145819017,1,assistant_100k
+35,en,sushi platter,19021820,1,assistant_100k
+35,en,sushi platter,24130576,1,assistant_100k
+35,en,sushi platter,53616058,0,assistant_100k
+35,en,sushi platter,123089267,1,assistant_100k
+35,en,sushi platter,125738385,0,assistant_100k
+35,en,sushi platter,141222732,1,assistant_100k
+35,en,sushi platter,141418151,1,assistant_100k
+35,en,sushi platter,142293053,1,assistant_100k
+35,en,sushi platter,143132093,1,assistant_100k
+35,en,sushi platter,143132727,1,assistant_100k
+35,en,sushi platter,143680607,0,assistant_100k
+35,en,sushi platter,144134890,0,assistant_100k
+35,en,sushi platter,144134892,0,assistant_100k
+35,en,sushi platter,144134893,0,assistant_100k
+35,en,sushi platter,144134909,0,assistant_100k
+35,en,sushi platter,145095971,0,assistant_100k
+35,en,sushi platter,145529277,0,assistant_100k
+35,en,sushi platter,145889816,1,assistant_100k
+35,en,sushi platter,145922822,1,assistant_100k
+35,en,sushi platter,145922825,1,assistant_100k
+35,en,sushi platter,145922826,1,assistant_100k
+36,en,viking warrior,10896206,0,assistant_100k
+36,en,viking warrior,28746697,0,assistant_100k
+36,en,viking warrior,57632769,1,assistant_100k
+36,en,viking warrior,57632770,1,assistant_100k
+36,en,viking warrior,107559183,1,assistant_100k
+36,en,viking warrior,113666184,0,assistant_100k
+36,en,viking warrior,113722928,1,assistant_100k
+36,en,viking warrior,114028152,0,assistant_100k
+36,en,viking warrior,114231708,1,assistant_100k
+36,en,viking warrior,115150248,1,assistant_100k
+36,en,viking warrior,115649926,1,assistant_100k
+36,en,viking warrior,115671960,1,assistant_100k
+36,en,viking warrior,115848377,1,assistant_100k
+36,en,viking warrior,120829314,1,assistant_100k
+36,en,viking warrior,120849947,0,assistant_100k
+36,en,viking warrior,121049292,1,assistant_100k
+36,en,viking warrior,125446468,0,assistant_100k
+36,en,viking warrior,133526236,0,assistant_100k
+36,en,viking warrior,137508507,0,assistant_100k
+36,en,viking warrior,137756746,1,assistant_100k
+36,en,viking warrior,138749290,1,assistant_100k
+36,en,viking warrior,140945867,1,assistant_100k
+36,en,viking warrior,141525746,1,assistant_100k
+36,en,viking warrior,142163301,1,assistant_100k
+36,en,viking warrior,143017772,0,assistant_100k
+36,en,viking warrior,143515176,0,assistant_100k
+36,en,viking warrior,144108443,0,assistant_100k
+36,en,viking warrior,144273686,0,assistant_100k
+36,en,viking warrior,145227893,1,assistant_100k
+36,en,viking warrior,145490975,0,assistant_100k
+36,en,viking warrior,145534152,1,assistant_100k
+36,en,viking warrior,145592979,1,assistant_100k
+36,en,viking warrior,145593043,1,assistant_100k
+36,en,viking warrior,145596361,1,assistant_100k
+36,en,viking warrior,145687477,0,assistant_100k
+36,en,viking warrior,145792550,1,assistant_100k
+36,en,viking warrior,146088274,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,110258858,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,110258859,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,110258863,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,110258864,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,118960172,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,120472895,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,136313507,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,137241121,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,141111951,0,assistant_100k
+37,en,glowing mushrooms in a dark forest,141764114,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,143259127,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144178041,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144264336,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144370898,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144447270,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144447271,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144447273,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144447274,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,144724372,0,assistant_100k
+37,en,glowing mushrooms in a dark forest,145356089,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,145569072,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,145779977,0,assistant_100k
+37,en,glowing mushrooms in a dark forest,145817978,0,assistant_100k
+37,en,glowing mushrooms in a dark forest,145929872,1,assistant_100k
+37,en,glowing mushrooms in a dark forest,145968301,1,assistant_100k
+38,en,vintage car on a desert road,28053515,1,assistant_100k
+38,en,vintage car on a desert road,99557053,1,assistant_100k
+38,en,vintage car on a desert road,99557060,0,assistant_100k
+38,en,vintage car on a desert road,111599102,0,assistant_100k
+38,en,vintage car on a desert road,112031626,0,assistant_100k
+38,en,vintage car on a desert road,121169747,0,assistant_100k
+38,en,vintage car on a desert road,123716460,0,assistant_100k
+38,en,vintage car on a desert road,124883279,0,assistant_100k
+38,en,vintage car on a desert road,130144870,0,assistant_100k
+38,en,vintage car on a desert road,137180528,1,assistant_100k
+38,en,vintage car on a desert road,139554137,0,assistant_100k
+38,en,vintage car on a desert road,139745252,1,assistant_100k
+38,en,vintage car on a desert road,141031808,0,assistant_100k
+38,en,vintage car on a desert road,141520260,1,assistant_100k
+38,en,vintage car on a desert road,141600689,0,assistant_100k
+38,en,vintage car on a desert road,142302645,0,assistant_100k
+38,en,vintage car on a desert road,142364421,0,assistant_100k
+38,en,vintage car on a desert road,143343300,0,assistant_100k
+38,en,vintage car on a desert road,143442925,0,assistant_100k
+38,en,vintage car on a desert road,143809418,0,assistant_100k
+38,en,vintage car on a desert road,143917135,0,assistant_100k
+38,en,vintage car on a desert road,143979506,0,assistant_100k
+38,en,vintage car on a desert road,144107796,0,assistant_100k
+38,en,vintage car on a desert road,144186153,0,assistant_100k
+38,en,vintage car on a desert road,145265963,1,assistant_100k
+38,en,vintage car on a desert road,145476183,0,assistant_100k
+38,en,vintage car on a desert road,145575568,1,assistant_100k
+38,en,vintage car on a desert road,145686475,0,assistant_100k
+38,en,vintage car on a desert road,145790471,0,assistant_100k
+38,en,vintage car on a desert road,145883695,0,assistant_100k
+38,en,vintage car on a desert road,145994973,0,assistant_100k
+38,en,vintage car on a desert road,145996815,0,assistant_100k
+38,en,vintage car on a desert road,146052606,1,assistant_100k
+38,en,vintage car on a desert road,146052608,1,assistant_100k
+38,en,vintage car on a desert road,146052613,1,assistant_100k
+38,en,vintage car on a desert road,146107798,1,assistant_100k
+38,en,vintage car on a desert road,146193169,0,assistant_100k
+39,en,polar bear on ice,27175535,0,assistant_100k
+39,en,polar bear on ice,31419974,0,assistant_100k
+39,en,polar bear on ice,46194999,0,assistant_100k
+39,en,polar bear on ice,46287270,1,assistant_100k
+39,en,polar bear on ice,94811155,0,assistant_100k
+39,en,polar bear on ice,114749846,1,assistant_100k
+39,en,polar bear on ice,119067356,0,assistant_100k
+39,en,polar bear on ice,121045508,1,assistant_100k
+39,en,polar bear on ice,121471941,0,assistant_100k
+39,en,polar bear on ice,128346285,0,assistant_100k
+39,en,polar bear on ice,136467082,1,assistant_100k
+39,en,polar bear on ice,141631492,1,assistant_100k
+39,en,polar bear on ice,142181388,1,assistant_100k
+39,en,polar bear on ice,142399925,0,assistant_100k
+39,en,polar bear on ice,143168183,0,assistant_100k
+39,en,polar bear on ice,143488026,0,assistant_100k
+39,en,polar bear on ice,144557826,0,assistant_100k
+39,en,polar bear on ice,144670517,0,assistant_100k
+39,en,polar bear on ice,144676322,1,assistant_100k
+39,en,polar bear on ice,145822978,1,assistant_100k
+39,en,polar bear on ice,145879305,0,assistant_100k
+39,en,polar bear on ice,145968922,1,assistant_100k
+39,en,polar bear on ice,145969785,0,assistant_100k
+39,en,polar bear on ice,146011963,0,assistant_100k
+40,en,origami crane,13763309,0,assistant_100k
+40,en,origami crane,34261759,0,assistant_100k
+40,en,origami crane,89973018,0,assistant_100k
+40,en,origami crane,123409261,0,assistant_100k
+40,en,origami crane,123410790,0,assistant_100k
+40,en,origami crane,123463514,0,assistant_100k
+40,en,origami crane,125628216,0,assistant_100k
+40,en,origami crane,131067731,0,assistant_100k
+40,en,origami crane,131331438,0,assistant_100k
+40,en,origami crane,135450650,1,assistant_100k
+40,en,origami crane,135566877,0,assistant_100k
+40,en,origami crane,138142293,0,assistant_100k
+40,en,origami crane,138142345,0,assistant_100k
+40,en,origami crane,138153630,0,assistant_100k
+40,en,origami crane,138179240,1,assistant_100k
+40,en,origami crane,139400286,0,assistant_100k
+40,en,origami crane,141486887,0,assistant_100k
+40,en,origami crane,141808808,0,assistant_100k
+40,en,origami crane,141929551,0,assistant_100k
+40,en,origami crane,141994178,1,assistant_100k
+40,en,origami crane,143587944,1,assistant_100k
+40,en,origami crane,143952554,1,assistant_100k
+40,en,origami crane,143982514,0,assistant_100k
+40,en,origami crane,144057773,0,assistant_100k
+40,en,origami crane,144060121,1,assistant_100k
+40,en,origami crane,144404701,1,assistant_100k
+40,en,origami crane,144415907,0,assistant_100k
+40,en,origami crane,145644957,1,assistant_100k
+40,en,origami crane,145764444,0,assistant_100k
+40,en,origami crane,145821204,1,assistant_100k
+40,en,origami crane,146034336,0,assistant_100k
+40,en,origami crane,146045764,1,assistant_100k
+41,en,elf archer in the woods,25668114,1,assistant_100k
+41,en,elf archer in the woods,27708100,1,assistant_100k
+41,en,elf archer in the woods,62560939,1,assistant_100k
+41,en,elf archer in the woods,67237310,0,assistant_100k
+41,en,elf archer in the woods,107517081,0,assistant_100k
+41,en,elf archer in the woods,118345005,1,assistant_100k
+41,en,elf archer in the woods,124947679,0,assistant_100k
+41,en,elf archer in the woods,124947701,0,assistant_100k
+41,en,elf archer in the woods,125629998,1,assistant_100k
+41,en,elf archer in the woods,129697489,1,assistant_100k
+41,en,elf archer in the woods,129788896,1,assistant_100k
+41,en,elf archer in the woods,135936495,1,assistant_100k
+41,en,elf archer in the woods,138361691,1,assistant_100k
+41,en,elf archer in the woods,140683971,1,assistant_100k
+41,en,elf archer in the woods,140787192,1,assistant_100k
+41,en,elf archer in the woods,140955838,1,assistant_100k
+41,en,elf archer in the woods,142299015,1,assistant_100k
+41,en,elf archer in the woods,142617281,1,assistant_100k
+41,en,elf archer in the woods,142726491,0,assistant_100k
+41,en,elf archer in the woods,142971979,1,assistant_100k
+41,en,elf archer in the woods,143287781,1,assistant_100k
+41,en,elf archer in the woods,143307121,0,assistant_100k
+41,en,elf archer in the woods,143545701,1,assistant_100k
+41,en,elf archer in the woods,143557688,0,assistant_100k
+41,en,elf archer in the woods,143952808,1,assistant_100k
+41,en,elf archer in the woods,144505536,1,assistant_100k
+41,en,elf archer in the woods,145045855,1,assistant_100k
+41,en,elf archer in the woods,145203345,0,assistant_100k
+41,en,elf archer in the woods,145255225,0,assistant_100k
+41,en,elf archer in the woods,145431920,1,assistant_100k
+41,en,elf archer in the woods,145662815,1,assistant_100k
+41,en,elf archer in the woods,145662817,1,assistant_100k
+41,en,elf archer in the woods,145830842,1,assistant_100k
+41,en,elf archer in the woods,146043673,1,assistant_100k
+41,en,elf archer in the woods,146092102,0,assistant_100k
+41,en,elf archer in the woods,146139502,1,assistant_100k
+42,en,stained glass window,37934156,1,assistant_100k
+42,en,stained glass window,38538529,1,assistant_100k
+42,en,stained glass window,40501672,1,assistant_100k
+42,en,stained glass window,44380687,1,assistant_100k
+42,en,stained glass window,124292654,1,assistant_100k
+42,en,stained glass window,124292660,0,assistant_100k
+42,en,stained glass window,127188748,1,assistant_100k
+42,en,stained glass window,140786036,0,assistant_100k
+42,en,stained glass window,140786055,0,assistant_100k
+42,en,stained glass window,140806996,0,assistant_100k
+42,en,stained glass window,140809892,0,assistant_100k
+42,en,stained glass window,141060506,1,assistant_100k
+42,en,stained glass window,141067414,1,assistant_100k
+42,en,stained glass window,141195727,1,assistant_100k
+42,en,stained glass window,141224850,1,assistant_100k
+42,en,stained glass window,141225484,1,assistant_100k
+42,en,stained glass window,141984808,1,assistant_100k
+42,en,stained glass window,143592942,1,assistant_100k
+42,en,stained glass window,143981131,0,assistant_100k
+42,en,stained glass window,143981132,1,assistant_100k
+42,en,stained glass window,143981134,1,assistant_100k
+42,en,stained glass window,143981135,0,assistant_100k
+42,en,stained glass window,144525943,1,assistant_100k
+42,en,stained glass window,144984119,1,assistant_100k
+42,en,stained glass window,145294371,1,assistant_100k
+42,en,stained glass window,145294372,1,assistant_100k
+42,en,stained glass window,145294373,1,assistant_100k
+42,en,stained glass window,145464108,1,assistant_100k
+42,en,stained glass window,145513647,1,assistant_100k
+42,en,stained glass window,145513655,1,assistant_100k
+42,en,stained glass window,145513658,1,assistant_100k
+42,en,stained glass window,145630347,1,assistant_100k
+42,en,stained glass window,145908544,1,assistant_100k
+42,en,stained glass window,146144817,1,assistant_100k
+43,en,giant whale flying in the sky,39063859,1,assistant_100k
+43,en,giant whale flying in the sky,46971637,1,assistant_100k
+43,en,giant whale flying in the sky,89324933,1,assistant_100k
+43,en,giant whale flying in the sky,99264540,0,assistant_100k
+43,en,giant whale flying in the sky,104598950,1,assistant_100k
+43,en,giant whale flying in the sky,109557973,1,assistant_100k
+43,en,giant whale flying in the sky,119979396,1,assistant_100k
+43,en,giant whale flying in the sky,120055434,1,assistant_100k
+43,en,giant whale flying in the sky,120055435,1,assistant_100k
+43,en,giant whale flying in the sky,120055436,1,assistant_100k
+43,en,giant whale flying in the sky,120055437,1,assistant_100k
+43,en,giant whale flying in the sky,124782809,1,assistant_100k
+43,en,giant whale flying in the sky,125269981,1,assistant_100k
+43,en,giant whale flying in the sky,125269982,1,assistant_100k
+43,en,giant whale flying in the sky,125269983,1,assistant_100k
+43,en,giant whale flying in the sky,125269985,1,assistant_100k
+43,en,giant whale flying in the sky,127549733,1,assistant_100k
+43,en,giant whale flying in the sky,130564924,0,assistant_100k
+43,en,giant whale flying in the sky,131280367,0,assistant_100k
+43,en,giant whale flying in the sky,137437642,1,assistant_100k
+43,en,giant whale flying in the sky,138368531,0,assistant_100k
+43,en,giant whale flying in the sky,140815393,1,assistant_100k
+43,en,giant whale flying in the sky,141333424,1,assistant_100k
+43,en,giant whale flying in the sky,141450102,1,assistant_100k
+43,en,giant whale flying in the sky,142371967,1,assistant_100k
+43,en,giant whale flying in the sky,142850096,1,assistant_100k
+43,en,giant whale flying in the sky,142850097,1,assistant_100k
+43,en,giant whale flying in the sky,142850098,1,assistant_100k
+43,en,giant whale flying in the sky,142850099,1,assistant_100k
+43,en,giant whale flying in the sky,143214738,1,assistant_100k
+43,en,giant whale flying in the sky,143363750,1,assistant_100k
+43,en,giant whale flying in the sky,145408226,1,assistant_100k
+43,en,giant whale flying in the sky,146090919,1,assistant_100k
+44,en,chess pieces on a board,12069434,1,assistant_100k
+44,en,chess pieces on a board,43681067,0,assistant_100k
+44,en,chess pieces on a board,45924125,0,assistant_100k
+44,en,chess pieces on a board,81602346,1,assistant_100k
+44,en,chess pieces on a board,105191046,0,assistant_100k
+44,en,chess pieces on a board,124116594,1,assistant_100k
+44,en,chess pieces on a board,129406364,0,assistant_100k
+44,en,chess pieces on a board,131281672,0,assistant_100k
+44,en,chess pieces on a board,137888079,1,assistant_100k
+44,en,chess pieces on a board,137933653,1,assistant_100k
+44,en,chess pieces on a board,138149434,1,assistant_100k
+44,en,chess pieces on a board,138775715,0,assistant_100k
+44,en,chess pieces on a board,138916917,1,assistant_100k
+44,en,chess pieces on a board,139397560,0,assistant_100k
+44,en,chess pieces on a board,143789595,1,assistant_100k
+44,en,chess pieces on a board,144829807,1,assistant_100k
+44,en,chess pieces on a board,145173480,1,assistant_100k
+44,en,chess pieces on a board,145216799,1,assistant_100k
+44,en,chess pieces on a board,145216809,1,assistant_100k
+44,en,chess pieces on a board,145216812,1,assistant_100k
+44,en,chess pieces on a board,146127235,1,assistant_100k
+44,en,chess pieces on a board,146134017,0,assistant_100k
+44,en,chess pieces on a board,146153158,0,assistant_100k
+44,en,chess pieces on a board,146157178,1,assistant_100k
+44,en,chess pieces on a board,146189272,0,assistant_100k
+45,en,bicycle leaning against a wall,22498506,1,assistant_100k
+45,en,bicycle leaning against a wall,74896283,1,assistant_100k
+45,en,bicycle leaning against a wall,126408207,0,assistant_100k
+45,en,bicycle leaning against a wall,126465445,0,assistant_100k
+45,en,bicycle leaning against a wall,136299411,0,assistant_100k
+45,en,bicycle leaning against a wall,136335448,1,assistant_100k
+45,en,bicycle leaning against a wall,136361329,0,assistant_100k
+45,en,bicycle leaning against a wall,136456812,0,assistant_100k
+45,en,bicycle leaning against a wall,137335598,0,assistant_100k
+45,en,bicycle leaning against a wall,137488858,1,assistant_100k
+45,en,bicycle leaning against a wall,140268113,0,assistant_100k
+45,en,bicycle leaning against a wall,140916304,0,assistant_100k
+45,en,bicycle leaning against a wall,143379030,1,assistant_100k
+45,en,bicycle leaning against a wall,143527537,0,assistant_100k
+45,en,bicycle leaning against a wall,143695760,1,assistant_100k
+45,en,bicycle leaning against a wall,144266196,1,assistant_100k
+45,en,bicycle leaning against a wall,144470884,0,assistant_100k
+45,en,bicycle leaning against a wall,144600270,1,assistant_100k
+45,en,bicycle leaning against a wall,144763556,0,assistant_100k
+45,en,bicycle leaning against a wall,144763557,0,assistant_100k
+45,en,bicycle leaning against a wall,144763562,0,assistant_100k
+45,en,bicycle leaning against a wall,145724352,0,assistant_100k
+45,en,bicycle leaning against a wall,145737483,0,assistant_100k
+46,en,lavender field at sunset,41147471,0,assistant_100k
+46,en,lavender field at sunset,104099753,0,assistant_100k
+46,en,lavender field at sunset,108051095,0,assistant_100k
+46,en,lavender field at sunset,109803094,0,assistant_100k
+46,en,lavender field at sunset,112216710,0,assistant_100k
+46,en,lavender field at sunset,124972111,0,assistant_100k
+46,en,lavender field at sunset,131148537,0,assistant_100k
+46,en,lavender field at sunset,131148538,0,assistant_100k
+46,en,lavender field at sunset,131148540,0,assistant_100k
+46,en,lavender field at sunset,131864108,0,assistant_100k
+46,en,lavender field at sunset,131866225,0,assistant_100k
+46,en,lavender field at sunset,134381284,1,assistant_100k
+46,en,lavender field at sunset,135450650,0,assistant_100k
+46,en,lavender field at sunset,135623745,0,assistant_100k
+46,en,lavender field at sunset,137140925,1,assistant_100k
+46,en,lavender field at sunset,138527221,0,assistant_100k
+46,en,lavender field at sunset,139434246,1,assistant_100k
+46,en,lavender field at sunset,140835297,1,assistant_100k
+46,en,lavender field at sunset,140943035,1,assistant_100k
+46,en,lavender field at sunset,141708012,0,assistant_100k
+46,en,lavender field at sunset,141708101,1,assistant_100k
+46,en,lavender field at sunset,142157482,1,assistant_100k
+46,en,lavender field at sunset,142197296,0,assistant_100k
+46,en,lavender field at sunset,142376689,0,assistant_100k
+46,en,lavender field at sunset,142475911,0,assistant_100k
+46,en,lavender field at sunset,142475951,0,assistant_100k
+46,en,lavender field at sunset,143256879,0,assistant_100k
+46,en,lavender field at sunset,143256880,1,assistant_100k
+46,en,lavender field at sunset,143733507,0,assistant_100k
+46,en,lavender field at sunset,143742195,0,assistant_100k
+46,en,lavender field at sunset,144000745,0,assistant_100k
+46,en,lavender field at sunset,144385243,1,assistant_100k
+46,en,lavender field at sunset,144643378,0,assistant_100k
+46,en,lavender field at sunset,145110849,0,assistant_100k
+46,en,lavender field at sunset,146103500,0,assistant_100k
+47,en,old library with tall bookshelves,118713023,1,assistant_100k
+47,en,old library with tall bookshelves,125811890,1,assistant_100k
+47,en,old library with tall bookshelves,125968030,1,assistant_100k
+47,en,old library with tall bookshelves,136299429,1,assistant_100k
+47,en,old library with tall bookshelves,136595379,1,assistant_100k
+47,en,old library with tall bookshelves,137898251,1,assistant_100k
+47,en,old library with tall bookshelves,138664273,1,assistant_100k
+47,en,old library with tall bookshelves,140864612,1,assistant_100k
+47,en,old library with tall bookshelves,141333410,1,assistant_100k
+47,en,old library with tall bookshelves,142195326,1,assistant_100k
+47,en,old library with tall bookshelves,142879698,1,assistant_100k
+47,en,old library with tall bookshelves,142890810,0,assistant_100k
+47,en,old library with tall bookshelves,143530710,1,assistant_100k
+47,en,old library with tall bookshelves,143532349,0,assistant_100k
+47,en,old library with tall bookshelves,143589882,1,assistant_100k
+47,en,old library with tall bookshelves,143652589,1,assistant_100k
+47,en,old library with tall bookshelves,143744529,0,assistant_100k
+47,en,old library with tall bookshelves,143744532,0,assistant_100k
+47,en,old library with tall bookshelves,143744540,0,assistant_100k
+47,en,old library with tall bookshelves,143744550,0,assistant_100k
+47,en,old library with tall bookshelves,143744552,1,assistant_100k
+47,en,old library with tall bookshelves,143831312,1,assistant_100k
+47,en,old library with tall bookshelves,144470923,1,assistant_100k
+47,en,old library with tall bookshelves,144569577,1,assistant_100k
+47,en,old library with tall bookshelves,145016781,1,assistant_100k
+47,en,old library with tall bookshelves,145187716,1,assistant_100k
+47,en,old library with tall bookshelves,145241126,1,assistant_100k
+47,en,old library with tall bookshelves,145375370,1,assistant_100k
+47,en,old library with tall bookshelves,145375382,1,assistant_100k
+47,en,old library with tall bookshelves,145375543,1,assistant_100k
+47,en,old library with tall bookshelves,145412911,1,assistant_100k
+47,en,old library with tall bookshelves,145412945,1,assistant_100k
+47,en,old library with tall bookshelves,145445378,1,assistant_100k
+47,en,old library with tall bookshelves,145797953,1,assistant_100k
+47,en,old library with tall bookshelves,146186743,1,assistant_100k
+48,en,corgi puppy,142681788,1,assistant_100k
+48,en,corgi puppy,143454155,0,assistant_100k
+48,en,corgi puppy,143454156,0,assistant_100k
+48,en,corgi puppy,143454159,0,assistant_100k
+48,en,corgi puppy,143489943,1,assistant_100k
+48,en,corgi puppy,143489946,1,assistant_100k
+48,en,corgi puppy,143489949,1,assistant_100k
+48,en,corgi puppy,143489955,1,assistant_100k
+48,en,corgi puppy,143542542,1,assistant_100k
+48,en,corgi puppy,143542543,1,assistant_100k
+48,en,corgi puppy,143542545,1,assistant_100k
+48,en,corgi puppy,143542546,1,assistant_100k
+48,en,corgi puppy,143542562,1,assistant_100k
+48,en,corgi puppy,143542563,1,assistant_100k
+48,en,corgi puppy,143542567,1,assistant_100k
+48,en,corgi puppy,143544084,1,assistant_100k
+48,en,corgi puppy,143544085,1,assistant_100k
+48,en,corgi puppy,143544086,1,assistant_100k
+48,en,corgi puppy,143866052,0,assistant_100k
+48,en,corgi puppy,144861947,0,assistant_100k
+48,en,corgi puppy,144862216,0,assistant_100k
+48,en,corgi puppy,144891372,1,assistant_100k
+48,en,corgi puppy,146048937,1,assistant_100k
+48,en,corgi puppy,146177339,0,assistant_100k
+48,en,corgi puppy,146177340,0,assistant_100k
+49,en,frog wearing a hat,11703792,0,assistant_100k
+49,en,frog wearing a hat,15844710,1,assistant_100k
+49,en,frog wearing a hat,25021682,0,assistant_100k
+49,en,frog wearing a hat,29176028,0,assistant_100k
+49,en,frog wearing a hat,40976989,0,assistant_100k
+49,en,frog wearing a hat,66350749,1,assistant_100k
+49,en,frog wearing a hat,111923060,0,assistant_100k
+49,en,frog wearing a hat,115851441,0,assistant_100k
+49,en,frog wearing a hat,117036726,0,assistant_100k
+49,en,frog wearing a hat,122167486,0,assistant_100k
+49,en,frog wearing a hat,122520026,1,assistant_100k
+49,en,frog wearing a hat,123266539,0,assistant_100k
+49,en,frog wearing a hat,125432381,0,assistant_100k
+49,en,frog wearing a hat,125798147,1,assistant_100k
+49,en,frog wearing a hat,128394137,0,assistant_100k
+49,en,frog wearing a hat,128973804,0,assistant_100k
+49,en,frog wearing a hat,131970480,0,assistant_100k
+49,en,frog wearing a hat,136820937,1,assistant_100k
+49,en,frog wearing a hat,136821581,0,assistant_100k
+49,en,frog wearing a hat,137910695,0,assistant_100k
+49,en,frog wearing a hat,138426281,0,assistant_100k
+49,en,frog wearing a hat,139768134,0,assistant_100k
+49,en,frog wearing a hat,140185683,0,assistant_100k
+49,en,frog wearing a hat,140185688,0,assistant_100k
+49,en,frog wearing a hat,141608021,1,assistant_100k
+49,en,frog wearing a hat,142983644,0,assistant_100k
+49,en,frog wearing a hat,143998386,0,assistant_100k
+49,en,frog wearing a hat,144363895,1,assistant_100k
+49,en,frog wearing a hat,145963163,0,assistant_100k
+49,en,frog wearing a hat,146159572,0,assistant_100k
+50,ru,рыжий кот на диване,53687034,1,assistant_100k
+50,ru,рыжий кот на диване,105197473,0,assistant_100k
+50,ru,рыжий кот на диване,113493442,0,assistant_30k_reused
+50,ru,рыжий кот на диване,114809513,1,assistant_30k_reused
+50,ru,рыжий кот на диване,122743861,1,assistant_100k
+50,ru,рыжий кот на диване,122936756,0,assistant_100k
+50,ru,рыжий кот на диване,127537241,0,assistant_100k
+50,ru,рыжий кот на диване,128503836,0,assistant_30k_reused
+50,ru,рыжий кот на диване,130780501,0,assistant_100k
+50,ru,рыжий кот на диване,131121501,0,assistant_100k
+50,ru,рыжий кот на диване,134144307,0,assistant_30k_reused
+50,ru,рыжий кот на диване,134335781,0,assistant_100k
+50,ru,рыжий кот на диване,135543745,0,assistant_100k
+50,ru,рыжий кот на диване,137303925,0,assistant_100k
+50,ru,рыжий кот на диване,138355808,0,assistant_100k
+50,ru,рыжий кот на диване,139692143,0,assistant_100k
+50,ru,рыжий кот на диване,141620438,0,assistant_100k
+50,ru,рыжий кот на диване,143118547,0,assistant_100k
+50,ru,рыжий кот на диване,143285104,0,assistant_30k_reused
+50,ru,рыжий кот на диване,143810037,0,assistant_30k_reused
+50,ru,рыжий кот на диване,143811243,0,assistant_100k
+50,ru,рыжий кот на диване,144029373,1,assistant_30k_reused
+50,ru,рыжий кот на диване,144362953,0,assistant_100k
+50,ru,рыжий кот на диване,144366407,0,assistant_100k
+50,ru,рыжий кот на диване,144376139,0,assistant_100k
+50,ru,рыжий кот на диване,144392406,1,assistant_30k_reused
+50,ru,рыжий кот на диване,144392407,0,assistant_100k
+50,ru,рыжий кот на диване,144441109,0,assistant_100k
+50,ru,рыжий кот на диване,144474652,0,assistant_100k
+50,ru,рыжий кот на диване,145414374,0,assistant_100k
+50,ru,рыжий кот на диване,145452256,0,assistant_100k
+50,ru,рыжий кот на диване,145461331,0,assistant_30k_reused
+50,ru,рыжий кот на диване,145821394,0,assistant_30k_reused
+50,ru,рыжий кот на диване,145913502,0,assistant_100k
+50,ru,рыжий кот на диване,145924713,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146030812,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146030816,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146030819,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146048937,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146048941,0,assistant_30k_reused
+50,ru,рыжий кот на диване,146189264,1,assistant_100k
+51,ru,зимний лес ночью,84812680,0,assistant_100k
+51,ru,зимний лес ночью,85658926,0,assistant_100k
+51,ru,зимний лес ночью,107517081,0,assistant_100k
+51,ru,зимний лес ночью,111171016,0,assistant_30k_reused
+51,ru,зимний лес ночью,113493442,0,assistant_30k_reused
+51,ru,зимний лес ночью,122212866,1,assistant_100k
+51,ru,зимний лес ночью,130780501,0,assistant_100k
+51,ru,зимний лес ночью,137303925,0,assistant_100k
+51,ru,зимний лес ночью,137653339,0,assistant_100k
+51,ru,зимний лес ночью,138394938,1,assistant_100k
+51,ru,зимний лес ночью,139692143,0,assistant_100k
+51,ru,зимний лес ночью,140391883,0,assistant_30k_reused
+51,ru,зимний лес ночью,141584527,1,assistant_30k_reused
+51,ru,зимний лес ночью,141708389,0,assistant_100k
+51,ru,зимний лес ночью,141966533,1,assistant_100k
+51,ru,зимний лес ночью,142597330,1,assistant_30k_reused
+51,ru,зимний лес ночью,142597334,1,assistant_30k_reused
+51,ru,зимний лес ночью,143588297,0,assistant_100k
+51,ru,зимний лес ночью,143811243,0,assistant_100k
+51,ru,зимний лес ночью,144277191,0,assistant_100k
+51,ru,зимний лес ночью,144366407,0,assistant_100k
+51,ru,зимний лес ночью,144366424,0,assistant_100k
+51,ru,зимний лес ночью,144366427,0,assistant_100k
+51,ru,зимний лес ночью,144370556,0,assistant_100k
+51,ru,зимний лес ночью,145114719,1,assistant_30k_reused
+51,ru,зимний лес ночью,145114731,1,assistant_30k_reused
+51,ru,зимний лес ночью,145190711,1,assistant_100k
+51,ru,зимний лес ночью,145190712,1,assistant_100k
+51,ru,зимний лес ночью,145190713,1,assistant_100k
+51,ru,зимний лес ночью,145190716,1,assistant_100k
+51,ru,зимний лес ночью,145190719,0,assistant_30k_reused
+51,ru,зимний лес ночью,145190720,0,assistant_30k_reused
+51,ru,зимний лес ночью,145270540,0,assistant_100k
+51,ru,зимний лес ночью,145270541,0,assistant_100k
+51,ru,зимний лес ночью,145270675,0,assistant_100k
+51,ru,зимний лес ночью,145463382,0,assistant_30k_reused
+51,ru,зимний лес ночью,145549674,0,assistant_30k_reused
+51,ru,зимний лес ночью,145821394,0,assistant_30k_reused
+51,ru,зимний лес ночью,146058672,1,assistant_30k_reused
+51,ru,зимний лес ночью,146132129,0,assistant_100k
+51,ru,зимний лес ночью,146136832,0,assistant_30k_reused
+51,ru,зимний лес ночью,146136843,0,assistant_30k_reused
+52,ru,девушка в красном платье,12805490,1,assistant_100k
+52,ru,девушка в красном платье,30086330,0,assistant_100k
+52,ru,девушка в красном платье,32996976,1,assistant_100k
+52,ru,девушка в красном платье,106470722,1,assistant_100k
+52,ru,девушка в красном платье,108889078,1,assistant_100k
+52,ru,девушка в красном платье,130780501,0,assistant_100k
+52,ru,девушка в красном платье,132012149,1,assistant_100k
+52,ru,девушка в красном платье,137303925,0,assistant_100k
+52,ru,девушка в красном платье,139692143,0,assistant_100k
+52,ru,девушка в красном платье,140253866,1,assistant_100k
+52,ru,девушка в красном платье,140604291,1,assistant_100k
+52,ru,девушка в красном платье,140669492,0,assistant_100k
+52,ru,девушка в красном платье,143118665,0,assistant_100k
+52,ru,девушка в красном платье,143149496,1,assistant_100k
+52,ru,девушка в красном платье,143811243,0,assistant_100k
+52,ru,девушка в красном платье,144188847,0,assistant_100k
+52,ru,девушка в красном платье,144348537,0,assistant_100k
+52,ru,девушка в красном платье,144366407,0,assistant_100k
+52,ru,девушка в красном платье,144366424,0,assistant_100k
+52,ru,девушка в красном платье,144453351,0,assistant_100k
+52,ru,девушка в красном платье,144885695,0,assistant_100k
+52,ru,девушка в красном платье,144922530,1,assistant_30k_reused
+52,ru,девушка в красном платье,144922534,1,assistant_30k_reused
+52,ru,девушка в красном платье,145787923,0,assistant_30k_reused
+52,ru,девушка в красном платье,145787924,0,assistant_30k_reused
+52,ru,девушка в красном платье,145787927,0,assistant_30k_reused
+52,ru,девушка в красном платье,145797785,0,assistant_30k_reused
+52,ru,девушка в красном платье,145798356,0,assistant_30k_reused
+52,ru,девушка в красном платье,145799038,0,assistant_30k_reused
+52,ru,девушка в красном платье,145799804,0,assistant_30k_reused
+52,ru,девушка в красном платье,145853554,0,assistant_30k_reused
+52,ru,девушка в красном платье,145870514,0,assistant_30k_reused
+52,ru,девушка в красном платье,145904563,0,assistant_30k_reused
+52,ru,девушка в красном платье,145904566,0,assistant_30k_reused
+52,ru,девушка в красном платье,145904567,0,assistant_30k_reused
+52,ru,девушка в красном платье,145904570,0,assistant_30k_reused
+52,ru,девушка в красном платье,146126744,0,assistant_100k
+53,ru,старый замок в тумане,96183099,1,assistant_30k_reused
+53,ru,старый замок в тумане,113493442,0,assistant_30k_reused
+53,ru,старый замок в тумане,130780501,0,assistant_100k
+53,ru,старый замок в тумане,133220289,0,assistant_100k
+53,ru,старый замок в тумане,133220291,0,assistant_100k
+53,ru,старый замок в тумане,135733620,0,assistant_100k
+53,ru,старый замок в тумане,137030190,1,assistant_100k
+53,ru,старый замок в тумане,137303925,0,assistant_100k
+53,ru,старый замок в тумане,137581786,0,assistant_100k
+53,ru,старый замок в тумане,137653339,0,assistant_100k
+53,ru,старый замок в тумане,139692143,0,assistant_100k
+53,ru,старый замок в тумане,140006530,0,assistant_100k
+53,ru,старый замок в тумане,140024214,0,assistant_100k
+53,ru,старый замок в тумане,140522873,1,assistant_100k
+53,ru,старый замок в тумане,141010898,0,assistant_100k
+53,ru,старый замок в тумане,141392157,1,assistant_100k
+53,ru,старый замок в тумане,142196746,0,assistant_100k
+53,ru,старый замок в тумане,142786674,0,assistant_100k
+53,ru,старый замок в тумане,142950322,0,assistant_100k
+53,ru,старый замок в тумане,143052134,0,assistant_100k
+53,ru,старый замок в тумане,143150680,0,assistant_100k
+53,ru,старый замок в тумане,143811243,0,assistant_100k
+53,ru,старый замок в тумане,144366020,0,assistant_100k
+53,ru,старый замок в тумане,145270543,0,assistant_100k
+53,ru,старый замок в тумане,145270544,0,assistant_100k
+53,ru,старый замок в тумане,145271558,0,assistant_100k
+53,ru,старый замок в тумане,145413935,1,assistant_100k
+53,ru,старый замок в тумане,145914206,0,assistant_100k
+53,ru,старый замок в тумане,145994484,0,assistant_30k_reused
+53,ru,старый замок в тумане,146045428,1,assistant_30k_reused
+53,ru,старый замок в тумане,146045429,1,assistant_30k_reused
+53,ru,старый замок в тумане,146045434,1,assistant_30k_reused
+53,ru,старый замок в тумане,146048937,0,assistant_30k_reused
+53,ru,старый замок в тумане,146132129,0,assistant_100k
+54,ru,космонавт на Луне,23911087,0,assistant_100k
+54,ru,космонавт на Луне,56258806,0,assistant_30k_reused
+54,ru,космонавт на Луне,103438981,1,assistant_30k_reused
+54,ru,космонавт на Луне,110786039,0,assistant_100k
+54,ru,космонавт на Луне,113493442,0,assistant_30k_reused
+54,ru,космонавт на Луне,122364686,1,assistant_100k
+54,ru,космонавт на Луне,126293512,0,assistant_100k
+54,ru,космонавт на Луне,129146633,1,assistant_100k
+54,ru,космонавт на Луне,130780501,0,assistant_100k
+54,ru,космонавт на Луне,130991825,1,assistant_100k
+54,ru,космонавт на Луне,137303925,0,assistant_100k
+54,ru,космонавт на Луне,137805595,0,assistant_100k
+54,ru,космонавт на Луне,139692143,0,assistant_100k
+54,ru,космонавт на Луне,140018587,0,assistant_100k
+54,ru,космонавт на Луне,140596062,1,assistant_100k
+54,ru,космонавт на Луне,141414375,1,assistant_100k
+54,ru,космонавт на Луне,141620438,0,assistant_100k
+54,ru,космонавт на Луне,141782250,1,assistant_100k
+54,ru,космонавт на Луне,142839758,1,assistant_100k
+54,ru,космонавт на Луне,142842064,1,assistant_100k
+54,ru,космонавт на Луне,143429413,0,assistant_100k
+54,ru,космонавт на Луне,143578462,0,assistant_100k
+54,ru,космонавт на Луне,143588297,0,assistant_100k
+54,ru,космонавт на Луне,143811243,0,assistant_100k
+54,ru,космонавт на Луне,143974856,1,assistant_30k_reused
+54,ru,космонавт на Луне,144366407,0,assistant_100k
+54,ru,космонавт на Луне,144441109,0,assistant_100k
+54,ru,космонавт на Луне,145285240,0,assistant_100k
+54,ru,космонавт на Луне,145559126,1,assistant_30k_reused
+54,ru,космонавт на Луне,145724521,0,assistant_30k_reused
+54,ru,космонавт на Луне,145963576,1,assistant_30k_reused
+54,ru,космонавт на Луне,146107358,0,assistant_100k
+54,ru,космонавт на Луне,146107361,0,assistant_100k
+54,ru,космонавт на Луне,146107368,0,assistant_100k
+54,ru,космонавт на Луне,146107388,0,assistant_30k_reused
+55,ru,чашка кофе на столе,8190024,0,assistant_100k
+55,ru,чашка кофе на столе,20063238,1,assistant_100k
+55,ru,чашка кофе на столе,25113858,1,assistant_100k
+55,ru,чашка кофе на столе,26576502,0,assistant_30k_reused
+55,ru,чашка кофе на столе,27864969,1,assistant_100k
+55,ru,чашка кофе на столе,38105621,0,assistant_100k
+55,ru,чашка кофе на столе,38105638,0,assistant_100k
+55,ru,чашка кофе на столе,58074494,0,assistant_30k_reused
+55,ru,чашка кофе на столе,60961689,1,assistant_30k_reused
+55,ru,чашка кофе на столе,129046497,0,assistant_100k
+55,ru,чашка кофе на столе,129244264,1,assistant_100k
+55,ru,чашка кофе на столе,134551036,0,assistant_100k
+55,ru,чашка кофе на столе,134551061,0,assistant_100k
+55,ru,чашка кофе на столе,135977480,1,assistant_100k
+55,ru,чашка кофе на столе,138046238,0,assistant_100k
+55,ru,чашка кофе на столе,139579945,1,assistant_100k
+55,ru,чашка кофе на столе,140275797,0,assistant_30k_reused
+55,ru,чашка кофе на столе,141918661,0,assistant_100k
+55,ru,чашка кофе на столе,142551280,0,assistant_100k
+55,ru,чашка кофе на столе,143283933,0,assistant_100k
+55,ru,чашка кофе на столе,143400393,0,assistant_100k
+55,ru,чашка кофе на столе,143523974,0,assistant_100k
+55,ru,чашка кофе на столе,143523975,0,assistant_100k
+55,ru,чашка кофе на столе,144471025,1,assistant_30k_reused
+55,ru,чашка кофе на столе,144762727,1,assistant_100k
+55,ru,чашка кофе на столе,144763974,1,assistant_100k
+55,ru,чашка кофе на столе,144763975,1,assistant_100k
+55,ru,чашка кофе на столе,144763976,1,assistant_100k
+55,ru,чашка кофе на столе,144763977,1,assistant_100k
+55,ru,чашка кофе на столе,145008357,1,assistant_100k
+55,ru,чашка кофе на столе,145008361,1,assistant_100k
+55,ru,чашка кофе на столе,145539125,0,assistant_30k_reused
+55,ru,чашка кофе на столе,145689458,1,assistant_100k
+55,ru,чашка кофе на столе,145819535,1,assistant_30k_reused
+55,ru,чашка кофе на столе,145821233,1,assistant_30k_reused
+55,ru,чашка кофе на столе,145922266,0,assistant_100k
+55,ru,чашка кофе на столе,145942029,0,assistant_30k_reused
+55,ru,чашка кофе на столе,145987553,0,assistant_100k
+55,ru,чашка кофе на столе,146032223,0,assistant_30k_reused
+55,ru,чашка кофе на столе,146048941,0,assistant_30k_reused
+55,ru,чашка кофе на столе,146083989,0,assistant_100k
+55,ru,чашка кофе на столе,146180898,1,assistant_100k
+56,ru,город будущего с летающими машинами,29333988,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,39970384,0,assistant_100k
+56,ru,город будущего с летающими машинами,96121939,1,assistant_30k_reused
+56,ru,город будущего с летающими машинами,113493442,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,121162265,0,assistant_100k
+56,ru,город будущего с летающими машинами,126863720,0,assistant_100k
+56,ru,город будущего с летающими машинами,128896031,0,assistant_100k
+56,ru,город будущего с летающими машинами,129960386,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,131162201,1,assistant_100k
+56,ru,город будущего с летающими машинами,135483186,0,assistant_100k
+56,ru,город будущего с летающими машинами,136031600,0,assistant_100k
+56,ru,город будущего с летающими машинами,137713540,0,assistant_100k
+56,ru,город будущего с летающими машинами,139692143,0,assistant_100k
+56,ru,город будущего с летающими машинами,140727779,0,assistant_100k
+56,ru,город будущего с летающими машинами,143683390,1,assistant_100k
+56,ru,город будущего с летающими машинами,143683393,0,assistant_100k
+56,ru,город будущего с летающими машинами,143683399,0,assistant_100k
+56,ru,город будущего с летающими машинами,143809454,0,assistant_100k
+56,ru,город будущего с летающими машинами,144659376,0,assistant_100k
+56,ru,город будущего с летающими машинами,144714829,1,assistant_30k_reused
+56,ru,город будущего с летающими машинами,144862051,0,assistant_100k
+56,ru,город будущего с летающими машинами,145153346,0,assistant_100k
+56,ru,город будущего с летающими машинами,145153347,0,assistant_100k
+56,ru,город будущего с летающими машинами,145153348,0,assistant_100k
+56,ru,город будущего с летающими машинами,145153349,0,assistant_100k
+56,ru,город будущего с летающими машинами,145329157,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,145329652,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,145585691,0,assistant_30k_reused
+56,ru,город будущего с летающими машинами,145945545,0,assistant_100k
+56,ru,город будущего с летающими машинами,146144153,0,assistant_100k
+56,ru,город будущего с летающими машинами,146147258,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,107867538,0,assistant_100k
+57,ru,лиса в осеннем лесу,112572044,0,assistant_100k
+57,ru,лиса в осеннем лесу,113493442,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,123545910,0,assistant_100k
+57,ru,лиса в осеннем лесу,123545911,0,assistant_100k
+57,ru,лиса в осеннем лесу,130780501,0,assistant_100k
+57,ru,лиса в осеннем лесу,136822619,0,assistant_100k
+57,ru,лиса в осеннем лесу,137303925,0,assistant_100k
+57,ru,лиса в осеннем лесу,138280640,0,assistant_100k
+57,ru,лиса в осеннем лесу,139692143,0,assistant_100k
+57,ru,лиса в осеннем лесу,139942780,1,assistant_100k
+57,ru,лиса в осеннем лесу,141894057,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,142108401,1,assistant_100k
+57,ru,лиса в осеннем лесу,143246179,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,143811243,0,assistant_100k
+57,ru,лиса в осеннем лесу,144277191,0,assistant_100k
+57,ru,лиса в осеннем лесу,144366407,0,assistant_100k
+57,ru,лиса в осеннем лесу,144366420,0,assistant_100k
+57,ru,лиса в осеннем лесу,144366424,0,assistant_100k
+57,ru,лиса в осеннем лесу,144441109,0,assistant_100k
+57,ru,лиса в осеннем лесу,144609254,1,assistant_100k
+57,ru,лиса в осеннем лесу,144609257,1,assistant_100k
+57,ru,лиса в осеннем лесу,144609259,1,assistant_100k
+57,ru,лиса в осеннем лесу,144764656,1,assistant_100k
+57,ru,лиса в осеннем лесу,144764661,1,assistant_100k
+57,ru,лиса в осеннем лесу,144764663,1,assistant_100k
+57,ru,лиса в осеннем лесу,144764666,1,assistant_100k
+57,ru,лиса в осеннем лесу,145506604,1,assistant_30k_reused
+57,ru,лиса в осеннем лесу,145629153,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,146136832,0,assistant_30k_reused
+57,ru,лиса в осеннем лесу,146136843,0,assistant_30k_reused
+58,ru,рыцарь на коне,15266177,1,assistant_100k
+58,ru,рыцарь на коне,107860771,0,assistant_100k
+58,ru,рыцарь на коне,107992641,0,assistant_100k
+58,ru,рыцарь на коне,110710063,1,assistant_100k
+58,ru,рыцарь на коне,115631718,1,assistant_100k
+58,ru,рыцарь на коне,121045510,1,assistant_30k_reused
+58,ru,рыцарь на коне,122314705,1,assistant_100k
+58,ru,рыцарь на коне,123114152,0,assistant_30k_reused
+58,ru,рыцарь на коне,136653245,0,assistant_100k
+58,ru,рыцарь на коне,137303925,0,assistant_100k
+58,ru,рыцарь на коне,137923426,1,assistant_100k
+58,ru,рыцарь на коне,139692143,0,assistant_100k
+58,ru,рыцарь на коне,140162236,0,assistant_100k
+58,ru,рыцарь на коне,141620438,0,assistant_100k
+58,ru,рыцарь на коне,142613672,1,assistant_100k
+58,ru,рыцарь на коне,142640037,0,assistant_100k
+58,ru,рыцарь на коне,143052134,0,assistant_100k
+58,ru,рыцарь на коне,143118547,0,assistant_100k
+58,ru,рыцарь на коне,143118665,0,assistant_100k
+58,ru,рыцарь на коне,143240160,1,assistant_30k_reused
+58,ru,рыцарь на коне,143588297,0,assistant_100k
+58,ru,рыцарь на коне,143811243,0,assistant_100k
+58,ru,рыцарь на коне,144277191,0,assistant_100k
+58,ru,рыцарь на коне,144441109,0,assistant_100k
+58,ru,рыцарь на коне,144874490,1,assistant_30k_reused
+58,ru,рыцарь на коне,145632355,1,assistant_30k_reused
+58,ru,рыцарь на коне,145729758,1,assistant_30k_reused
+58,ru,рыцарь на коне,145994484,0,assistant_30k_reused
+58,ru,рыцарь на коне,146189345,0,assistant_100k
+58,ru,рыцарь на коне,146189346,0,assistant_100k
+58,ru,рыцарь на коне,146189349,0,assistant_100k
+58,ru,рыцарь на коне,146189350,0,assistant_100k
+59,ru,подводный мир с медузами,103699388,1,assistant_100k
+59,ru,подводный мир с медузами,111606132,1,assistant_100k
+59,ru,подводный мир с медузами,114662123,1,assistant_30k_reused
+59,ru,подводный мир с медузами,118381229,1,assistant_100k
+59,ru,подводный мир с медузами,119102851,1,assistant_100k
+59,ru,подводный мир с медузами,119659950,0,assistant_30k_reused
+59,ru,подводный мир с медузами,120430233,1,assistant_100k
+59,ru,подводный мир с медузами,123545909,0,assistant_100k
+59,ru,подводный мир с медузами,129027604,1,assistant_100k
+59,ru,подводный мир с медузами,130780501,0,assistant_100k
+59,ru,подводный мир с медузами,130998182,0,assistant_100k
+59,ru,подводный мир с медузами,131088774,0,assistant_100k
+59,ru,подводный мир с медузами,131916571,0,assistant_100k
+59,ru,подводный мир с медузами,131918259,0,assistant_100k
+59,ru,подводный мир с медузами,132644704,1,assistant_100k
+59,ru,подводный мир с медузами,133687612,0,assistant_30k_reused
+59,ru,подводный мир с медузами,135554105,0,assistant_30k_reused
+59,ru,подводный мир с медузами,135733620,0,assistant_100k
+59,ru,подводный мир с медузами,136237832,0,assistant_30k_reused
+59,ru,подводный мир с медузами,136391060,0,assistant_30k_reused
+59,ru,подводный мир с медузами,137684911,1,assistant_100k
+59,ru,подводный мир с медузами,137684919,1,assistant_100k
+59,ru,подводный мир с медузами,139444438,0,assistant_100k
+59,ru,подводный мир с медузами,139692143,0,assistant_100k
+59,ru,подводный мир с медузами,142437607,0,assistant_100k
+59,ru,подводный мир с медузами,143052134,0,assistant_100k
+59,ru,подводный мир с медузами,143766793,0,assistant_100k
+59,ru,подводный мир с медузами,144346390,0,assistant_100k
+59,ru,подводный мир с медузами,144366407,0,assistant_100k
+59,ru,подводный мир с медузами,144366420,0,assistant_100k
+59,ru,подводный мир с медузами,145281050,1,assistant_100k
+59,ru,подводный мир с медузами,145334657,0,assistant_30k_reused
+59,ru,подводный мир с медузами,145387698,0,assistant_100k
+59,ru,подводный мир с медузами,145752432,0,assistant_30k_reused
+59,ru,подводный мир с медузами,146040485,1,assistant_30k_reused
+60,ru,красная спортивная машина ночью под дождём,22867781,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,22907213,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,35862557,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,58893386,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,94899077,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,110923612,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,113493442,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,122279375,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,122846612,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,124386040,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,124670158,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,129960386,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,130444099,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,132231615,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,141815151,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142448144,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142580061,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142788598,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142792313,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142792314,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142792319,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,142792320,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,143809423,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,143809424,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,143809453,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,144456558,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,144572468,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145153106,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145185970,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145244815,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145329157,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145329652,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145565963,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145790471,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145805053,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145925624,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145925625,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145925631,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145925638,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145925639,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145927450,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145930357,1,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,145994087,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,146147255,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,146147258,0,assistant_100k
+60,ru,красная спортивная машина ночью под дождём,146156011,0,assistant_100k
+61,ru,кошка спит на подоконнике,45128190,1,assistant_100k
+61,ru,кошка спит на подоконнике,47790081,0,assistant_100k
+61,ru,кошка спит на подоконнике,49921729,1,assistant_100k
+61,ru,кошка спит на подоконнике,89078356,0,assistant_100k
+61,ru,кошка спит на подоконнике,113493442,0,assistant_100k
+61,ru,кошка спит на подоконнике,122743861,0,assistant_100k
+61,ru,кошка спит на подоконнике,124670146,1,assistant_100k
+61,ru,кошка спит на подоконнике,124670153,1,assistant_100k
+61,ru,кошка спит на подоконнике,128503836,0,assistant_100k
+61,ru,кошка спит на подоконнике,130780501,0,assistant_100k
+61,ru,кошка спит на подоконнике,134144307,0,assistant_100k
+61,ru,кошка спит на подоконнике,137303925,0,assistant_100k
+61,ru,кошка спит на подоконнике,138049794,0,assistant_100k
+61,ru,кошка спит на подоконнике,138049800,1,assistant_100k
+61,ru,кошка спит на подоконнике,138049827,0,assistant_100k
+61,ru,кошка спит на подоконнике,139692143,0,assistant_100k
+61,ru,кошка спит на подоконнике,141620438,0,assistant_100k
+61,ru,кошка спит на подоконнике,142262052,0,assistant_100k
+61,ru,кошка спит на подоконнике,142527119,0,assistant_100k
+61,ru,кошка спит на подоконнике,142537150,0,assistant_100k
+61,ru,кошка спит на подоконнике,142790575,0,assistant_100k
+61,ru,кошка спит на подоконнике,143246179,0,assistant_100k
+61,ru,кошка спит на подоконнике,143285104,0,assistant_100k
+61,ru,кошка спит на подоконнике,143811243,0,assistant_100k
+61,ru,кошка спит на подоконнике,144265815,0,assistant_100k
+61,ru,кошка спит на подоконнике,144366407,0,assistant_100k
+61,ru,кошка спит на подоконнике,144441109,0,assistant_100k
+61,ru,кошка спит на подоконнике,144579762,0,assistant_100k
+61,ru,кошка спит на подоконнике,144720262,0,assistant_100k
+61,ru,кошка спит на подоконнике,145591962,1,assistant_100k
+61,ru,кошка спит на подоконнике,145647367,0,assistant_100k
+61,ru,кошка спит на подоконнике,145800619,0,assistant_100k
+61,ru,кошка спит на подоконнике,145931988,0,assistant_100k
+61,ru,кошка спит на подоконнике,146048937,0,assistant_100k
+62,ru,туманный лес на рассвете,58226493,1,assistant_100k
+62,ru,туманный лес на рассвете,84716220,1,assistant_100k
+62,ru,туманный лес на рассвете,100145426,1,assistant_100k
+62,ru,туманный лес на рассвете,107517081,0,assistant_100k
+62,ru,туманный лес на рассвете,110244584,1,assistant_100k
+62,ru,туманный лес на рассвете,113493442,0,assistant_100k
+62,ru,туманный лес на рассвете,119165947,1,assistant_100k
+62,ru,туманный лес на рассвете,130780501,0,assistant_100k
+62,ru,туманный лес на рассвете,132063693,0,assistant_100k
+62,ru,туманный лес на рассвете,132063697,0,assistant_100k
+62,ru,туманный лес на рассвете,137303925,0,assistant_100k
+62,ru,туманный лес на рассвете,137581786,0,assistant_100k
+62,ru,туманный лес на рассвете,139692143,0,assistant_100k
+62,ru,туманный лес на рассвете,140450692,1,assistant_100k
+62,ru,туманный лес на рассвете,141178720,1,assistant_100k
+62,ru,туманный лес на рассвете,141708389,0,assistant_100k
+62,ru,туманный лес на рассвете,142062243,1,assistant_100k
+62,ru,туманный лес на рассвете,143052134,0,assistant_100k
+62,ru,туманный лес на рассвете,143811243,0,assistant_100k
+62,ru,туманный лес на рассвете,144211425,1,assistant_100k
+62,ru,туманный лес на рассвете,144277191,0,assistant_100k
+62,ru,туманный лес на рассвете,144366407,0,assistant_100k
+62,ru,туманный лес на рассвете,144366424,0,assistant_100k
+62,ru,туманный лес на рассвете,144387824,1,assistant_100k
+62,ru,туманный лес на рассвете,144441109,0,assistant_100k
+62,ru,туманный лес на рассвете,145219642,1,assistant_100k
+62,ru,туманный лес на рассвете,145219658,1,assistant_100k
+62,ru,туманный лес на рассвете,145270540,0,assistant_100k
+62,ru,туманный лес на рассвете,145270541,0,assistant_100k
+62,ru,туманный лес на рассвете,145271558,0,assistant_100k
+62,ru,туманный лес на рассвете,145549674,0,assistant_100k
+62,ru,туманный лес на рассвете,145821394,0,assistant_100k
+62,ru,туманный лес на рассвете,146063469,1,assistant_100k
+62,ru,туманный лес на рассвете,146078066,0,assistant_100k
+62,ru,туманный лес на рассвете,146132129,0,assistant_100k
+62,ru,туманный лес на рассвете,146136832,0,assistant_100k
+62,ru,туманный лес на рассвете,146136843,0,assistant_100k
+63,ru,астронавт на чужой планете,23911087,1,assistant_100k
+63,ru,астронавт на чужой планете,27720261,0,assistant_100k
+63,ru,астронавт на чужой планете,54774121,1,assistant_100k
+63,ru,астронавт на чужой планете,56810591,1,assistant_100k
+63,ru,астронавт на чужой планете,89278929,0,assistant_100k
+63,ru,астронавт на чужой планете,98935051,1,assistant_100k
+63,ru,астронавт на чужой планете,113493442,0,assistant_100k
+63,ru,астронавт на чужой планете,117154874,0,assistant_100k
+63,ru,астронавт на чужой планете,118346393,0,assistant_100k
+63,ru,астронавт на чужой планете,121864555,0,assistant_100k
+63,ru,астронавт на чужой планете,122212908,0,assistant_100k
+63,ru,астронавт на чужой планете,122364686,1,assistant_100k
+63,ru,астронавт на чужой планете,126293512,0,assistant_100k
+63,ru,астронавт на чужой планете,129029733,0,assistant_100k
+63,ru,астронавт на чужой планете,130780501,0,assistant_100k
+63,ru,астронавт на чужой планете,136237310,0,assistant_100k
+63,ru,астронавт на чужой планете,136368221,0,assistant_100k
+63,ru,астронавт на чужой планете,137156023,0,assistant_100k
+63,ru,астронавт на чужой планете,137303925,0,assistant_100k
+63,ru,астронавт на чужой планете,137343370,0,assistant_100k
+63,ru,астронавт на чужой планете,138656012,0,assistant_100k
+63,ru,астронавт на чужой планете,139692143,0,assistant_100k
+63,ru,астронавт на чужой планете,139971746,1,assistant_100k
+63,ru,астронавт на чужой планете,141611170,0,assistant_100k
+63,ru,астронавт на чужой планете,142309611,1,assistant_100k
+63,ru,астронавт на чужой планете,143296230,0,assistant_100k
+63,ru,астронавт на чужой планете,143811243,0,assistant_100k
+63,ru,астронавт на чужой планете,144003894,0,assistant_100k
+63,ru,астронавт на чужой планете,144370712,0,assistant_100k
+63,ru,астронавт на чужой планете,144441109,0,assistant_100k
+63,ru,астронавт на чужой планете,145559126,1,assistant_100k
+63,ru,астронавт на чужой планете,146030169,0,assistant_100k
+63,ru,астронавт на чужой планете,146030173,0,assistant_100k
+63,ru,астронавт на чужой планете,146143504,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,48001235,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,92193810,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,109549618,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,129846139,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,130780501,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,135977480,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,137303925,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,137695043,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,139579945,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,139692143,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140050896,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140050916,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140050919,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140251871,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140275797,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,140717357,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,142188747,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,142663078,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,142787194,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,143223649,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,143400393,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,143523975,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,143523977,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,143564433,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,143811243,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,144167277,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,144366407,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,144441109,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,144471025,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144539157,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144585453,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144653765,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,144763974,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144763975,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144763976,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,144763977,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,145295740,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145404810,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,145463382,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145464101,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145727804,1,assistant_100k
+64,ru,уютное кафе с тёплым светом,145735458,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145993382,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145994087,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,145994484,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,146048941,0,assistant_100k
+64,ru,уютное кафе с тёплым светом,146180898,0,assistant_100k
+65,ru,дракон летит над горами,52625467,1,assistant_100k
+65,ru,дракон летит над горами,52625477,1,assistant_100k
+65,ru,дракон летит над горами,52625489,1,assistant_100k
+65,ru,дракон летит над горами,97950745,1,assistant_100k
+65,ru,дракон летит над горами,111734384,1,assistant_100k
+65,ru,дракон летит над горами,113493442,0,assistant_100k
+65,ru,дракон летит над горами,113562386,1,assistant_100k
+65,ru,дракон летит над горами,116234158,1,assistant_100k
+65,ru,дракон летит над горами,119815936,1,assistant_100k
+65,ru,дракон летит над горами,121293231,1,assistant_100k
+65,ru,дракон летит над горами,125344981,0,assistant_100k
+65,ru,дракон летит над горами,130780501,0,assistant_100k
+65,ru,дракон летит над горами,135504219,1,assistant_100k
+65,ru,дракон летит над горами,135611874,0,assistant_100k
+65,ru,дракон летит над горами,135732987,1,assistant_100k
+65,ru,дракон летит над горами,135732993,1,assistant_100k
+65,ru,дракон летит над горами,135733448,1,assistant_100k
+65,ru,дракон летит над горами,135733620,1,assistant_100k
+65,ru,дракон летит над горами,137303925,0,assistant_100k
+65,ru,дракон летит над горами,137653339,0,assistant_100k
+65,ru,дракон летит над горами,137774851,1,assistant_100k
+65,ru,дракон летит над горами,139692143,0,assistant_100k
+65,ru,дракон летит над горами,139736742,0,assistant_100k
+65,ru,дракон летит над горами,139758778,0,assistant_100k
+65,ru,дракон летит над горами,141179448,1,assistant_100k
+65,ru,дракон летит над горами,141325745,0,assistant_100k
+65,ru,дракон летит над горами,141620438,0,assistant_100k
+65,ru,дракон летит над горами,142003469,0,assistant_100k
+65,ru,дракон летит над горами,142551280,0,assistant_100k
+65,ru,дракон летит над горами,142726870,1,assistant_100k
+65,ru,дракон летит над горами,142833898,0,assistant_100k
+65,ru,дракон летит над горами,143666692,1,assistant_100k
+65,ru,дракон летит над горами,143713168,0,assistant_100k
+65,ru,дракон летит над горами,144092899,0,assistant_100k
+65,ru,дракон летит над горами,144348534,0,assistant_100k
+65,ru,дракон летит над горами,144348536,0,assistant_100k
+65,ru,дракон летит над горами,144348537,0,assistant_100k
+65,ru,дракон летит над горами,144366407,0,assistant_100k
+65,ru,дракон летит над горами,144366420,0,assistant_100k
+65,ru,дракон летит над горами,144370497,0,assistant_100k
+65,ru,дракон летит над горами,144370507,0,assistant_100k
+65,ru,дракон летит над горами,145443240,1,assistant_100k
+65,ru,дракон летит над горами,145913502,0,assistant_100k
+65,ru,дракон летит над горами,146107097,0,assistant_100k
+65,ru,дракон летит над горами,146108320,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,113493442,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,126600622,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,130780501,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,131088774,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,137303925,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,138352470,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,138410470,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,138412085,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,139692143,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,140317547,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,141797977,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143118665,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143289898,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143327097,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143348436,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143593044,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143594876,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143690980,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,143811243,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144006689,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144162383,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144162385,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144162386,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144162389,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144366424,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144370856,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144409061,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,144441109,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145035269,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145035271,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145463382,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145886124,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145924815,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145951042,1,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,145951073,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,146030169,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,146030173,0,assistant_100k
+66,ru,киберпанк улица с неоновыми вывесками,146048941,0,assistant_100k
+67,ru,портрет старика с бородой,13609840,1,assistant_100k
+67,ru,портрет старика с бородой,23666001,0,assistant_100k
+67,ru,портрет старика с бородой,39405377,1,assistant_100k
+67,ru,портрет старика с бородой,56730247,1,assistant_100k
+67,ru,портрет старика с бородой,75583728,0,assistant_100k
+67,ru,портрет старика с бородой,75583749,0,assistant_100k
+67,ru,портрет старика с бородой,113493442,0,assistant_100k
+67,ru,портрет старика с бородой,127030009,0,assistant_100k
+67,ru,портрет старика с бородой,130817836,1,assistant_100k
+67,ru,портрет старика с бородой,135611874,1,assistant_100k
+67,ru,портрет старика с бородой,137303925,0,assistant_100k
+67,ru,портрет старика с бородой,137581786,0,assistant_100k
+67,ru,портрет старика с бородой,137653339,0,assistant_100k
+67,ru,портрет старика с бородой,137942661,1,assistant_100k
+67,ru,портрет старика с бородой,139692143,0,assistant_100k
+67,ru,портрет старика с бородой,139931205,0,assistant_100k
+67,ru,портрет старика с бородой,142616116,0,assistant_100k
+67,ru,портрет старика с бородой,142786674,0,assistant_100k
+67,ru,портрет старика с бородой,142791507,1,assistant_100k
+67,ru,портрет старика с бородой,143400397,0,assistant_100k
+67,ru,портрет старика с бородой,143432605,0,assistant_100k
+67,ru,портрет старика с бородой,143523977,1,assistant_100k
+67,ru,портрет старика с бородой,144277191,0,assistant_100k
+67,ru,портрет старика с бородой,144933173,1,assistant_100k
+67,ru,портрет старика с бородой,144934127,1,assistant_100k
+67,ru,портрет старика с бородой,145046890,1,assistant_100k
+67,ru,портрет старика с бородой,145053673,1,assistant_100k
+67,ru,портрет старика с бородой,145053681,1,assistant_100k
+67,ru,портрет старика с бородой,145053682,1,assistant_100k
+67,ru,портрет старика с бородой,145787927,0,assistant_100k
+67,ru,портрет старика с бородой,145830533,1,assistant_100k
+67,ru,портрет старика с бородой,145914206,0,assistant_100k
+67,ru,портрет старика с бородой,146030169,0,assistant_100k
+67,ru,портрет старика с бородой,146030173,0,assistant_100k
+67,ru,портрет старика с бородой,146048937,0,assistant_100k
+67,ru,портрет старика с бородой,146057235,0,assistant_100k
+67,ru,портрет старика с бородой,146179755,0,assistant_100k
+68,ru,миска рамена,25646500,0,assistant_100k
+68,ru,миска рамена,29438139,0,assistant_100k
+68,ru,миска рамена,70810824,0,assistant_100k
+68,ru,миска рамена,71231852,0,assistant_100k
+68,ru,миска рамена,87598435,0,assistant_100k
+68,ru,миска рамена,112871534,0,assistant_100k
+68,ru,миска рамена,112871538,0,assistant_100k
+68,ru,миска рамена,112871539,0,assistant_100k
+68,ru,миска рамена,112871542,0,assistant_100k
+68,ru,миска рамена,112871543,0,assistant_100k
+68,ru,миска рамена,112871548,0,assistant_100k
+68,ru,миска рамена,112871552,0,assistant_100k
+68,ru,миска рамена,112871554,0,assistant_100k
+68,ru,миска рамена,113493442,0,assistant_100k
+68,ru,миска рамена,120519672,0,assistant_100k
+68,ru,миска рамена,121081571,0,assistant_100k
+68,ru,миска рамена,125002127,0,assistant_100k
+68,ru,миска рамена,130780501,0,assistant_100k
+68,ru,миска рамена,136237832,0,assistant_100k
+68,ru,миска рамена,136391060,0,assistant_100k
+68,ru,миска рамена,137303925,0,assistant_100k
+68,ru,миска рамена,137767452,0,assistant_100k
+68,ru,миска рамена,139692143,0,assistant_100k
+68,ru,миска рамена,143052134,0,assistant_100k
+68,ru,миска рамена,143811243,0,assistant_100k
+68,ru,миска рамена,144092267,0,assistant_100k
+68,ru,миска рамена,144261940,0,assistant_100k
+68,ru,миска рамена,144366407,0,assistant_100k
+68,ru,миска рамена,145913502,0,assistant_100k
+68,ru,миска рамена,146030173,0,assistant_100k
+68,ru,миска рамена,146048937,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,25287233,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,25287293,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,51322885,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,74088953,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,74095601,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,84407578,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,85472902,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,85472907,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,113493442,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,123675847,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,125151656,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,125344981,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,125900169,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,130780501,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,137303925,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,137581786,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,139692143,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,139966925,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,140679729,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,140859222,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,140860284,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,141154721,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,141279298,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,141448666,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,141465839,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,141766493,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,142551280,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,142968482,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,143073279,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,144366407,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,144366420,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,144980214,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,145139575,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,145177716,1,assistant_100k
+69,ru,пиксель-арт игровая сцена,145295740,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,145993382,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,145994087,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146030169,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146030173,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146107660,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146108320,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146110769,0,assistant_100k
+69,ru,пиксель-арт игровая сцена,146111050,0,assistant_100k
+70,ru,чёрно-белая фотография,29448010,0,assistant_100k
+70,ru,чёрно-белая фотография,69298950,1,assistant_100k
+70,ru,чёрно-белая фотография,106087167,0,assistant_100k
+70,ru,чёрно-белая фотография,136908990,1,assistant_100k
+70,ru,чёрно-белая фотография,142833182,1,assistant_100k
+70,ru,чёрно-белая фотография,142903488,1,assistant_100k
+70,ru,чёрно-белая фотография,143052134,0,assistant_100k
+70,ru,чёрно-белая фотография,143118665,0,assistant_100k
+70,ru,чёрно-белая фотография,143223649,0,assistant_100k
+70,ru,чёрно-белая фотография,143432605,0,assistant_100k
+70,ru,чёрно-белая фотография,143523974,0,assistant_100k
+70,ru,чёрно-белая фотография,143588297,0,assistant_100k
+70,ru,чёрно-белая фотография,143589040,0,assistant_100k
+70,ru,чёрно-белая фотография,143799650,1,assistant_100k
+70,ru,чёрно-белая фотография,144119258,1,assistant_100k
+70,ru,чёрно-белая фотография,144720615,1,assistant_100k
+70,ru,чёрно-белая фотография,144876405,1,assistant_100k
+70,ru,чёрно-белая фотография,144885543,1,assistant_100k
+70,ru,чёрно-белая фотография,145233021,0,assistant_100k
+70,ru,чёрно-белая фотография,145320725,0,assistant_100k
+70,ru,чёрно-белая фотография,145660908,0,assistant_100k
+70,ru,чёрно-белая фотография,145713980,0,assistant_100k
+70,ru,чёрно-белая фотография,145797785,0,assistant_100k
+70,ru,чёрно-белая фотография,145799804,0,assistant_100k
+70,ru,чёрно-белая фотография,145853962,1,assistant_100k
+70,ru,чёрно-белая фотография,145956194,1,assistant_100k
+70,ru,чёрно-белая фотография,146029278,1,assistant_100k
+70,ru,чёрно-белая фотография,146030169,0,assistant_100k
+70,ru,чёрно-белая фотография,146062291,0,assistant_100k
+70,ru,чёрно-белая фотография,146062481,0,assistant_100k
+70,ru,чёрно-белая фотография,146062705,0,assistant_100k
+70,ru,чёрно-белая фотография,146062989,0,assistant_100k
+70,ru,чёрно-белая фотография,146064077,0,assistant_100k
+70,ru,чёрно-белая фотография,146064500,0,assistant_100k
+70,ru,чёрно-белая фотография,146064953,0,assistant_100k
+70,ru,чёрно-белая фотография,146180076,0,assistant_100k
+70,ru,чёрно-белая фотография,146180389,0,assistant_100k
+71,ru,акварельные цветы,26906902,1,assistant_100k
+71,ru,акварельные цветы,111332482,0,assistant_100k
+71,ru,акварельные цветы,111334045,0,assistant_100k
+71,ru,акварельные цветы,111334185,0,assistant_100k
+71,ru,акварельные цветы,112159833,0,assistant_100k
+71,ru,акварельные цветы,112160960,0,assistant_100k
+71,ru,акварельные цветы,123621823,0,assistant_100k
+71,ru,акварельные цветы,130029146,1,assistant_100k
+71,ru,акварельные цветы,133152021,1,assistant_100k
+71,ru,акварельные цветы,134854181,0,assistant_100k
+71,ru,акварельные цветы,137030703,1,assistant_100k
+71,ru,акварельные цветы,137164008,1,assistant_100k
+71,ru,акварельные цветы,137303925,0,assistant_100k
+71,ru,акварельные цветы,137393124,1,assistant_100k
+71,ru,акварельные цветы,139692143,0,assistant_100k
+71,ru,акварельные цветы,139905355,1,assistant_100k
+71,ru,акварельные цветы,139905358,1,assistant_100k
+71,ru,акварельные цветы,139905361,1,assistant_100k
+71,ru,акварельные цветы,139905362,1,assistant_100k
+71,ru,акварельные цветы,139905364,1,assistant_100k
+71,ru,акварельные цветы,139905368,1,assistant_100k
+71,ru,акварельные цветы,141481597,0,assistant_100k
+71,ru,акварельные цветы,141481598,0,assistant_100k
+71,ru,акварельные цветы,143118547,0,assistant_100k
+71,ru,акварельные цветы,143118665,0,assistant_100k
+71,ru,акварельные цветы,144366407,0,assistant_100k
+71,ru,акварельные цветы,144366420,0,assistant_100k
+71,ru,акварельные цветы,144366427,0,assistant_100k
+71,ru,акварельные цветы,144441109,0,assistant_100k
+71,ru,акварельные цветы,144486919,0,assistant_100k
+71,ru,акварельные цветы,144579762,0,assistant_100k
+71,ru,акварельные цветы,144862051,0,assistant_100k
+71,ru,акварельные цветы,145303453,0,assistant_100k
+71,ru,акварельные цветы,145646916,0,assistant_100k
+71,ru,акварельные цветы,145671496,0,assistant_100k
+71,ru,акварельные цветы,145712997,0,assistant_100k
+71,ru,акварельные цветы,145713980,0,assistant_100k
+71,ru,акварельные цветы,145735458,0,assistant_100k
+71,ru,акварельные цветы,145787922,0,assistant_100k
+71,ru,акварельные цветы,145821291,0,assistant_100k
+71,ru,акварельные цветы,146030169,0,assistant_100k
+72,ru,милый робот,8138648,0,assistant_100k
+72,ru,милый робот,94270910,0,assistant_100k
+72,ru,милый робот,101745838,0,assistant_100k
+72,ru,милый робот,113493442,0,assistant_100k
+72,ru,милый робот,117872531,0,assistant_100k
+72,ru,милый робот,117969370,1,assistant_100k
+72,ru,милый робот,119503279,0,assistant_100k
+72,ru,милый робот,120120450,1,assistant_100k
+72,ru,милый робот,121624684,1,assistant_100k
+72,ru,милый робот,121861202,0,assistant_100k
+72,ru,милый робот,131323919,1,assistant_100k
+72,ru,милый робот,137653339,0,assistant_100k
+72,ru,милый робот,138025556,1,assistant_100k
+72,ru,милый робот,139692143,0,assistant_100k
+72,ru,милый робот,141010898,0,assistant_100k
+72,ru,милый робот,141201617,1,assistant_100k
+72,ru,милый робот,141605817,0,assistant_100k
+72,ru,милый робот,141637800,1,assistant_100k
+72,ru,милый робот,141693839,1,assistant_100k
+72,ru,милый робот,143030355,1,assistant_100k
+72,ru,милый робот,143052134,0,assistant_100k
+72,ru,милый робот,143118547,0,assistant_100k
+72,ru,милый робот,143118665,0,assistant_100k
+72,ru,милый робот,143811243,0,assistant_100k
+72,ru,милый робот,144366407,0,assistant_100k
+72,ru,милый робот,145283302,1,assistant_100k
+72,ru,милый робот,145538823,1,assistant_100k
+72,ru,милый робот,145913502,0,assistant_100k
+72,ru,милый робот,146195379,1,assistant_100k
+72,ru,милый робот,146195380,1,assistant_100k
+73,ru,самурай с катаной,29498059,1,assistant_100k
+73,ru,самурай с катаной,42369706,0,assistant_100k
+73,ru,самурай с катаной,64061775,1,assistant_100k
+73,ru,самурай с катаной,84814979,0,assistant_100k
+73,ru,самурай с катаной,113493442,0,assistant_100k
+73,ru,самурай с катаной,117872531,0,assistant_100k
+73,ru,самурай с катаной,121861202,0,assistant_100k
+73,ru,самурай с катаной,122936756,0,assistant_100k
+73,ru,самурай с катаной,123693005,0,assistant_100k
+73,ru,самурай с катаной,134551036,0,assistant_100k
+73,ru,самурай с катаной,134551061,0,assistant_100k
+73,ru,самурай с катаной,137303925,0,assistant_100k
+73,ru,самурай с катаной,137608275,1,assistant_100k
+73,ru,самурай с катаной,137770876,1,assistant_100k
+73,ru,самурай с катаной,137792185,1,assistant_100k
+73,ru,самурай с катаной,137792186,1,assistant_100k
+73,ru,самурай с катаной,138758715,1,assistant_100k
+73,ru,самурай с катаной,139692143,0,assistant_100k
+73,ru,самурай с катаной,140679729,0,assistant_100k
+73,ru,самурай с катаной,141122622,1,assistant_100k
+73,ru,самурай с катаной,141208042,1,assistant_100k
+73,ru,самурай с катаной,141620438,0,assistant_100k
+73,ru,самурай с катаной,143614101,1,assistant_100k
+73,ru,самурай с катаной,143689420,0,assistant_100k
+73,ru,самурай с катаной,143874014,0,assistant_100k
+73,ru,самурай с катаной,143920955,1,assistant_100k
+73,ru,самурай с катаной,144366407,0,assistant_100k
+73,ru,самурай с катаной,144366424,0,assistant_100k
+73,ru,самурай с катаной,144441109,0,assistant_100k
+73,ru,самурай с катаной,146030169,0,assistant_100k
+73,ru,самурай с катаной,146030173,0,assistant_100k
+74,ru,маяк во время шторма,37285453,0,assistant_100k
+74,ru,маяк во время шторма,63448651,0,assistant_100k
+74,ru,маяк во время шторма,64196731,0,assistant_100k
+74,ru,маяк во время шторма,65310254,0,assistant_100k
+74,ru,маяк во время шторма,67043169,0,assistant_100k
+74,ru,маяк во время шторма,68945043,0,assistant_100k
+74,ru,маяк во время шторма,70810824,0,assistant_100k
+74,ru,маяк во время шторма,71231852,0,assistant_100k
+74,ru,маяк во время шторма,113493442,0,assistant_100k
+74,ru,маяк во время шторма,135572930,0,assistant_100k
+74,ru,маяк во время шторма,136716089,0,assistant_100k
+74,ru,маяк во время шторма,136716090,0,assistant_100k
+74,ru,маяк во время шторма,137303925,0,assistant_100k
+74,ru,маяк во время шторма,138202456,1,assistant_100k
+74,ru,маяк во время шторма,138656767,1,assistant_100k
+74,ru,маяк во время шторма,139692143,0,assistant_100k
+74,ru,маяк во время шторма,140167600,0,assistant_100k
+74,ru,маяк во время шторма,140454249,0,assistant_100k
+74,ru,маяк во время шторма,140601414,1,assistant_100k
+74,ru,маяк во время шторма,143005907,0,assistant_100k
+74,ru,маяк во время шторма,143108489,1,assistant_100k
+74,ru,маяк во время шторма,143811243,0,assistant_100k
+74,ru,маяк во время шторма,144277191,0,assistant_100k
+74,ru,маяк во время шторма,144366407,0,assistant_100k
+74,ru,маяк во время шторма,144366424,0,assistant_100k
+74,ru,маяк во время шторма,144441109,0,assistant_100k
+74,ru,маяк во время шторма,144451932,1,assistant_100k
+74,ru,маяк во время шторма,145159792,1,assistant_100k
+74,ru,маяк во время шторма,145573262,0,assistant_100k
+74,ru,маяк во время шторма,145914206,0,assistant_100k
+74,ru,маяк во время шторма,146030169,0,assistant_100k
+74,ru,маяк во время шторма,146030173,0,assistant_100k
+74,ru,маяк во время шторма,146124707,1,assistant_100k
+74,ru,маяк во время шторма,146168821,1,assistant_100k
+74,ru,маяк во время шторма,146186506,1,assistant_100k
+75,ru,ведьма с чёрным котом,35590221,1,assistant_100k
+75,ru,ведьма с чёрным котом,69324417,0,assistant_100k
+75,ru,ведьма с чёрным котом,77756060,1,assistant_100k
+75,ru,ведьма с чёрным котом,107706127,1,assistant_100k
+75,ru,ведьма с чёрным котом,113493442,0,assistant_100k
+75,ru,ведьма с чёрным котом,130780501,0,assistant_100k
+75,ru,ведьма с чёрным котом,131472303,0,assistant_100k
+75,ru,ведьма с чёрным котом,133687612,0,assistant_100k
+75,ru,ведьма с чёрным котом,137303925,0,assistant_100k
+75,ru,ведьма с чёрным котом,139692143,0,assistant_100k
+75,ru,ведьма с чёрным котом,140006530,0,assistant_100k
+75,ru,ведьма с чёрным котом,140015354,0,assistant_100k
+75,ru,ведьма с чёрным котом,140544593,0,assistant_100k
+75,ru,ведьма с чёрным котом,140544635,0,assistant_100k
+75,ru,ведьма с чёрным котом,141134781,1,assistant_100k
+75,ru,ведьма с чёрным котом,141895109,1,assistant_100k
+75,ru,ведьма с чёрным котом,142262052,0,assistant_100k
+75,ru,ведьма с чёрным котом,142527119,0,assistant_100k
+75,ru,ведьма с чёрным котом,142602112,1,assistant_100k
+75,ru,ведьма с чёрным котом,143052134,0,assistant_100k
+75,ru,ведьма с чёрным котом,143132609,1,assistant_100k
+75,ru,ведьма с чёрным котом,143246179,0,assistant_100k
+75,ru,ведьма с чёрным котом,143432605,0,assistant_100k
+75,ru,ведьма с чёрным котом,143612304,0,assistant_100k
+75,ru,ведьма с чёрным котом,143811243,0,assistant_100k
+75,ru,ведьма с чёрным котом,144366407,0,assistant_100k
+75,ru,ведьма с чёрным котом,144366424,0,assistant_100k
+75,ru,ведьма с чёрным котом,144441109,0,assistant_100k
+75,ru,ведьма с чёрным котом,144886694,1,assistant_100k
+75,ru,ведьма с чёрным котом,144887025,1,assistant_100k
+75,ru,ведьма с чёрным котом,144897996,1,assistant_100k
+75,ru,ведьма с чёрным котом,145555087,1,assistant_100k
+75,ru,ведьма с чёрным котом,145574927,0,assistant_100k
+75,ru,ведьма с чёрным котом,145816517,0,assistant_100k
+75,ru,ведьма с чёрным котом,145821394,0,assistant_100k
+75,ru,ведьма с чёрным котом,145865540,1,assistant_100k
+75,ru,ведьма с чёрным котом,146038602,1,assistant_100k
+75,ru,ведьма с чёрным котом,146038606,1,assistant_100k
+75,ru,ведьма с чёрным котом,146048941,0,assistant_100k
+75,ru,ведьма с чёрным котом,146107097,0,assistant_100k
+76,ru,закат над океаном,47196454,1,assistant_100k
+76,ru,закат над океаном,71231852,0,assistant_100k
+76,ru,закат над океаном,71827699,0,assistant_100k
+76,ru,закат над океаном,104260670,1,assistant_100k
+76,ru,закат над океаном,104260711,1,assistant_100k
+76,ru,закат над океаном,104260723,1,assistant_100k
+76,ru,закат над океаном,104260727,1,assistant_100k
+76,ru,закат над океаном,104260743,1,assistant_100k
+76,ru,закат над океаном,113493442,0,assistant_100k
+76,ru,закат над океаном,121081571,0,assistant_100k
+76,ru,закат над океаном,123114152,0,assistant_100k
+76,ru,закат над океаном,125344981,0,assistant_100k
+76,ru,закат над океаном,130780501,0,assistant_100k
+76,ru,закат над океаном,135303997,0,assistant_100k
+76,ru,закат над океаном,136237832,0,assistant_100k
+76,ru,закат над океаном,136279031,1,assistant_100k
+76,ru,закат над океаном,136391060,0,assistant_100k
+76,ru,закат над океаном,137303925,0,assistant_100k
+76,ru,закат над океаном,138198072,1,assistant_100k
+76,ru,закат над океаном,138962058,1,assistant_100k
+76,ru,закат над океаном,139176028,0,assistant_100k
+76,ru,закат над океаном,139692143,0,assistant_100k
+76,ru,закат над океаном,140167600,0,assistant_100k
+76,ru,закат над океаном,140669492,0,assistant_100k
+76,ru,закат над океаном,141325745,0,assistant_100k
+76,ru,закат над океаном,141620438,0,assistant_100k
+76,ru,закат над океаном,142829547,1,assistant_100k
+76,ru,закат над океаном,143713168,0,assistant_100k
+76,ru,закат над океаном,143811243,0,assistant_100k
+76,ru,закат над океаном,143853781,0,assistant_100k
+76,ru,закат над океаном,143853789,0,assistant_100k
+76,ru,закат над океаном,144092899,0,assistant_100k
+76,ru,закат над океаном,144366403,0,assistant_100k
+76,ru,закат над океаном,144366407,0,assistant_100k
+76,ru,закат над океаном,145387698,1,assistant_100k
+76,ru,закат над океаном,145800030,0,assistant_100k
+76,ru,закат над океаном,145994087,0,assistant_100k
+76,ru,закат над океаном,145994484,0,assistant_100k
+76,ru,закат над океаном,146107097,0,assistant_100k
+76,ru,закат над океаном,146108320,0,assistant_100k
+77,ru,собака в солнечных очках,10634283,1,assistant_100k
+77,ru,собака в солнечных очках,23117010,0,assistant_100k
+77,ru,собака в солнечных очках,29376088,0,assistant_100k
+77,ru,собака в солнечных очках,32851130,1,assistant_100k
+77,ru,собака в солнечных очках,36479394,1,assistant_100k
+77,ru,собака в солнечных очках,57016606,0,assistant_100k
+77,ru,собака в солнечных очках,57016629,0,assistant_100k
+77,ru,собака в солнечных очках,113493442,0,assistant_100k
+77,ru,собака в солнечных очках,119802542,0,assistant_100k
+77,ru,собака в солнечных очках,123281911,0,assistant_100k
+77,ru,собака в солнечных очках,123779110,0,assistant_100k
+77,ru,собака в солнечных очках,130780501,0,assistant_100k
+77,ru,собака в солнечных очках,133687612,0,assistant_100k
+77,ru,собака в солнечных очках,135349984,1,assistant_100k
+77,ru,собака в солнечных очках,137303925,0,assistant_100k
+77,ru,собака в солнечных очках,138049804,0,assistant_100k
+77,ru,собака в солнечных очках,138280640,0,assistant_100k
+77,ru,собака в солнечных очках,139692143,0,assistant_100k
+77,ru,собака в солнечных очках,140897232,0,assistant_100k
+77,ru,собака в солнечных очках,141226525,0,assistant_100k
+77,ru,собака в солнечных очках,142478592,0,assistant_100k
+77,ru,собака в солнечных очках,142794629,1,assistant_100k
+77,ru,собака в солнечных очках,143118547,0,assistant_100k
+77,ru,собака в солнечных очках,143118665,0,assistant_100k
+77,ru,собака в солнечных очках,143223649,0,assistant_100k
+77,ru,собака в солнечных очках,143542545,0,assistant_100k
+77,ru,собака в солнечных очках,143674721,1,assistant_100k
+77,ru,собака в солнечных очках,143811243,0,assistant_100k
+77,ru,собака в солнечных очках,143841188,1,assistant_100k
+77,ru,собака в солнечных очках,144366407,0,assistant_100k
+77,ru,собака в солнечных очках,144441109,0,assistant_100k
+77,ru,собака в солнечных очках,145491040,0,assistant_100k
+77,ru,собака в солнечных очках,145596630,1,assistant_100k
+77,ru,собака в солнечных очках,145596631,1,assistant_100k
+77,ru,собака в солнечных очках,146048937,0,assistant_100k
+77,ru,собака в солнечных очках,146177339,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,49267600,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,63528752,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,69324417,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,77986281,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,113493442,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,116800768,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,121461422,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,122467662,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,130780501,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,130998182,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,131088774,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,137303925,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,139692143,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,141991605,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,143118665,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,143811243,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,143934785,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144108700,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144348534,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144348536,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144348537,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144366407,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144441109,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144453351,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,144579762,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145303453,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145670765,1,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145787919,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145797785,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145870514,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145904566,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145904567,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145904570,0,assistant_100k
+78,ru,аниме девушка с розовыми волосами,145948854,1,assistant_100k
+79,ru,пиратский корабль в море,27596776,1,assistant_100k
+79,ru,пиратский корабль в море,31711084,1,assistant_100k
+79,ru,пиратский корабль в море,45134114,0,assistant_100k
+79,ru,пиратский корабль в море,45859146,1,assistant_100k
+79,ru,пиратский корабль в море,59293650,1,assistant_100k
+79,ru,пиратский корабль в море,110097136,1,assistant_100k
+79,ru,пиратский корабль в море,110168743,0,assistant_100k
+79,ru,пиратский корабль в море,110339996,1,assistant_100k
+79,ru,пиратский корабль в море,113493442,0,assistant_100k
+79,ru,пиратский корабль в море,113874623,1,assistant_100k
+79,ru,пиратский корабль в море,126293512,0,assistant_100k
+79,ru,пиратский корабль в море,126464777,1,assistant_100k
+79,ru,пиратский корабль в море,130780501,0,assistant_100k
+79,ru,пиратский корабль в море,136451794,1,assistant_100k
+79,ru,пиратский корабль в море,137303925,0,assistant_100k
+79,ru,пиратский корабль в море,139692143,0,assistant_100k
+79,ru,пиратский корабль в море,140080102,1,assistant_100k
+79,ru,пиратский корабль в море,141620438,0,assistant_100k
+79,ru,пиратский корабль в море,142788551,1,assistant_100k
+79,ru,пиратский корабль в море,143790209,1,assistant_100k
+79,ru,пиратский корабль в море,143811243,0,assistant_100k
+79,ru,пиратский корабль в море,144003894,0,assistant_100k
+79,ru,пиратский корабль в море,145516576,1,assistant_100k
+79,ru,пиратский корабль в море,145516578,1,assistant_100k
+79,ru,пиратский корабль в море,145516584,1,assistant_100k
+79,ru,пиратский корабль в море,145573262,0,assistant_100k
+79,ru,пиратский корабль в море,145800346,0,assistant_100k
+79,ru,пиратский корабль в море,145914206,0,assistant_100k
+79,ru,пиратский корабль в море,146030169,0,assistant_100k
+79,ru,пиратский корабль в море,146030173,0,assistant_100k
+79,ru,пиратский корабль в море,146107097,0,assistant_100k
+79,ru,пиратский корабль в море,146136832,0,assistant_100k
+79,ru,пиратский корабль в море,146136843,0,assistant_100k
+79,ru,пиратский корабль в море,146185676,1,assistant_100k
+80,ru,самовар и блины на столе,68945043,0,assistant_100k
+80,ru,самовар и блины на столе,70810824,0,assistant_100k
+80,ru,самовар и блины на столе,71231852,0,assistant_100k
+80,ru,самовар и блины на столе,71827699,0,assistant_100k
+80,ru,самовар и блины на столе,105113036,0,assistant_100k
+80,ru,самовар и блины на столе,108533586,0,assistant_100k
+80,ru,самовар и блины на столе,113493442,0,assistant_100k
+80,ru,самовар и блины на столе,134551036,0,assistant_100k
+80,ru,самовар и блины на столе,134551061,0,assistant_100k
+80,ru,самовар и блины на столе,135031391,0,assistant_100k
+80,ru,самовар и блины на столе,135686328,0,assistant_100k
+80,ru,самовар и блины на столе,135977480,0,assistant_100k
+80,ru,самовар и блины на столе,136237832,0,assistant_100k
+80,ru,самовар и блины на столе,136391060,0,assistant_100k
+80,ru,самовар и блины на столе,137303925,0,assistant_100k
+80,ru,самовар и блины на столе,137581786,0,assistant_100k
+80,ru,самовар и блины на столе,137653339,0,assistant_100k
+80,ru,самовар и блины на столе,139692143,0,assistant_100k
+80,ru,самовар и блины на столе,140866802,0,assistant_100k
+80,ru,самовар и блины на столе,142551280,0,assistant_100k
+80,ru,самовар и блины на столе,143052134,0,assistant_100k
+80,ru,самовар и блины на столе,143336398,0,assistant_100k
+80,ru,самовар и блины на столе,143388856,1,assistant_100k
+80,ru,самовар и блины на столе,143452968,0,assistant_100k
+80,ru,самовар и блины на столе,143523975,0,assistant_100k
+80,ru,самовар и блины на столе,143751784,0,assistant_100k
+80,ru,самовар и блины на столе,144366020,0,assistant_100k
+80,ru,самовар и блины на столе,144366407,0,assistant_100k
+80,ru,самовар и блины на столе,144366427,0,assistant_100k
+80,ru,самовар и блины на столе,144441109,0,assistant_100k
+80,ru,самовар и блины на столе,145270732,0,assistant_100k
+80,ru,самовар и блины на столе,146058801,0,assistant_100k
+80,ru,самовар и блины на столе,146070993,0,assistant_100k
+81,ru,матрёшки на полке,3091275,0,assistant_100k
+81,ru,матрёшки на полке,59835320,0,assistant_100k
+81,ru,матрёшки на полке,62152869,0,assistant_100k
+81,ru,матрёшки на полке,66675919,0,assistant_100k
+81,ru,матрёшки на полке,74333107,0,assistant_100k
+81,ru,матрёшки на полке,83718198,0,assistant_100k
+81,ru,матрёшки на полке,106791466,0,assistant_100k
+81,ru,матрёшки на полке,107835133,0,assistant_100k
+81,ru,матрёшки на полке,107860771,0,assistant_100k
+81,ru,матрёшки на полке,113493442,0,assistant_100k
+81,ru,матрёшки на полке,116018824,0,assistant_100k
+81,ru,матрёшки на полке,126099280,0,assistant_100k
+81,ru,матрёшки на полке,129532277,0,assistant_100k
+81,ru,матрёшки на полке,131006596,0,assistant_100k
+81,ru,матрёшки на полке,139692143,0,assistant_100k
+81,ru,матрёшки на полке,142219214,1,assistant_100k
+81,ru,матрёшки на полке,142915883,0,assistant_100k
+81,ru,матрёшки на полке,143052134,0,assistant_100k
+81,ru,матрёшки на полке,143118665,0,assistant_100k
+81,ru,матрёшки на полке,143811243,0,assistant_100k
+81,ru,матрёшки на полке,144366407,0,assistant_100k
+81,ru,матрёшки на полке,144366427,0,assistant_100k
+81,ru,матрёшки на полке,144398647,0,assistant_100k
+81,ru,матрёшки на полке,144509951,0,assistant_100k
+81,ru,матрёшки на полке,145651765,0,assistant_100k
+81,ru,матрёшки на полке,146013799,0,assistant_100k
+81,ru,матрёшки на полке,146030169,0,assistant_100k
+81,ru,матрёшки на полке,146030173,0,assistant_100k
+81,ru,матрёшки на полке,146058794,0,assistant_100k
+81,ru,матрёшки на полке,146079989,0,assistant_100k
+81,ru,матрёшки на полке,146134020,0,assistant_100k
+81,ru,матрёшки на полке,146134022,0,assistant_100k
+82,ru,северное сияние над тундрой,38917241,1,assistant_100k
+82,ru,северное сияние над тундрой,74174668,1,assistant_100k
+82,ru,северное сияние над тундрой,98394493,1,assistant_100k
+82,ru,северное сияние над тундрой,113493442,0,assistant_100k
+82,ru,северное сияние над тундрой,117213798,0,assistant_100k
+82,ru,северное сияние над тундрой,120649275,0,assistant_100k
+82,ru,северное сияние над тундрой,121101282,1,assistant_100k
+82,ru,северное сияние над тундрой,122851560,1,assistant_100k
+82,ru,северное сияние над тундрой,124974128,1,assistant_100k
+82,ru,северное сияние над тундрой,125344981,0,assistant_100k
+82,ru,северное сияние над тундрой,125928190,1,assistant_100k
+82,ru,северное сияние над тундрой,136237832,0,assistant_100k
+82,ru,северное сияние над тундрой,136391060,0,assistant_100k
+82,ru,северное сияние над тундрой,137303925,0,assistant_100k
+82,ru,северное сияние над тундрой,137653339,0,assistant_100k
+82,ru,северное сияние над тундрой,139692143,0,assistant_100k
+82,ru,северное сияние над тундрой,140669492,0,assistant_100k
+82,ru,северное сияние над тундрой,140679729,0,assistant_100k
+82,ru,северное сияние над тундрой,141325745,0,assistant_100k
+82,ru,северное сияние над тундрой,142488046,0,assistant_100k
+82,ru,северное сияние над тундрой,142488049,0,assistant_100k
+82,ru,северное сияние над тундрой,143423916,1,assistant_100k
+82,ru,северное сияние над тундрой,143423919,1,assistant_100k
+82,ru,северное сияние над тундрой,143501037,0,assistant_100k
+82,ru,северное сияние над тундрой,143713168,0,assistant_100k
+82,ru,северное сияние над тундрой,143811243,0,assistant_100k
+82,ru,северное сияние над тундрой,143865122,0,assistant_100k
+82,ru,северное сияние над тундрой,144062455,1,assistant_100k
+82,ru,северное сияние над тундрой,144092899,0,assistant_100k
+82,ru,северное сияние над тундрой,144366407,0,assistant_100k
+82,ru,северное сияние над тундрой,144441109,0,assistant_100k
+82,ru,северное сияние над тундрой,145295740,0,assistant_100k
+82,ru,северное сияние над тундрой,145822978,0,assistant_100k
+82,ru,северное сияние над тундрой,145884914,1,assistant_100k
+82,ru,северное сияние над тундрой,145914206,0,assistant_100k
+82,ru,северное сияние над тундрой,145928415,0,assistant_100k
+82,ru,северное сияние над тундрой,145994087,0,assistant_100k
+82,ru,северное сияние над тундрой,145994484,0,assistant_100k
+82,ru,северное сияние над тундрой,146107097,0,assistant_100k
+82,ru,северное сияние над тундрой,146108320,0,assistant_100k
+83,ru,панда ест бамбук,23117267,1,assistant_100k
+83,ru,панда ест бамбук,23804065,0,assistant_100k
+83,ru,панда ест бамбук,25503715,0,assistant_100k
+83,ru,панда ест бамбук,47435039,0,assistant_100k
+83,ru,панда ест бамбук,94270910,0,assistant_100k
+83,ru,панда ест бамбук,111032075,0,assistant_100k
+83,ru,панда ест бамбук,113493442,0,assistant_100k
+83,ru,панда ест бамбук,119157312,0,assistant_100k
+83,ru,панда ест бамбук,119622774,0,assistant_100k
+83,ru,панда ест бамбук,129871965,0,assistant_100k
+83,ru,панда ест бамбук,130780501,0,assistant_100k
+83,ru,панда ест бамбук,134551036,0,assistant_100k
+83,ru,панда ест бамбук,134551061,0,assistant_100k
+83,ru,панда ест бамбук,135329419,0,assistant_100k
+83,ru,панда ест бамбук,135441342,0,assistant_100k
+83,ru,панда ест бамбук,137303925,0,assistant_100k
+83,ru,панда ест бамбук,139032978,0,assistant_100k
+83,ru,панда ест бамбук,139663541,0,assistant_100k
+83,ru,панда ест бамбук,139692143,0,assistant_100k
+83,ru,панда ест бамбук,139812627,0,assistant_100k
+83,ru,панда ест бамбук,139812651,0,assistant_100k
+83,ru,панда ест бамбук,141620438,0,assistant_100k
+83,ru,панда ест бамбук,142538823,1,assistant_100k
+83,ru,панда ест бамбук,143038481,0,assistant_100k
+83,ru,панда ест бамбук,143118547,0,assistant_100k
+83,ru,панда ест бамбук,143641299,1,assistant_100k
+83,ru,панда ест бамбук,144366407,0,assistant_100k
+83,ru,панда ест бамбук,144366424,0,assistant_100k
+83,ru,панда ест бамбук,144366427,0,assistant_100k
+83,ru,панда ест бамбук,145414375,0,assistant_100k
+83,ru,панда ест бамбук,146017229,1,assistant_100k
+84,ru,средневековый рынок,21613048,1,assistant_100k
+84,ru,средневековый рынок,125796778,0,assistant_100k
+84,ru,средневековый рынок,128140553,1,assistant_100k
+84,ru,средневековый рынок,128140570,1,assistant_100k
+84,ru,средневековый рынок,128672853,0,assistant_100k
+84,ru,средневековый рынок,130780501,0,assistant_100k
+84,ru,средневековый рынок,137303925,0,assistant_100k
+84,ru,средневековый рынок,137487863,1,assistant_100k
+84,ru,средневековый рынок,137487871,1,assistant_100k
+84,ru,средневековый рынок,137487872,1,assistant_100k
+84,ru,средневековый рынок,139594822,1,assistant_100k
+84,ru,средневековый рынок,139692143,0,assistant_100k
+84,ru,средневековый рынок,142306167,1,assistant_100k
+84,ru,средневековый рынок,143118665,0,assistant_100k
+84,ru,средневековый рынок,143448309,1,assistant_100k
+84,ru,средневековый рынок,144366407,0,assistant_100k
+84,ru,средневековый рынок,144366420,0,assistant_100k
+84,ru,средневековый рынок,144441109,0,assistant_100k
+84,ru,средневековый рынок,144823162,1,assistant_100k
+84,ru,средневековый рынок,145122087,1,assistant_100k
+84,ru,средневековый рынок,145265783,0,assistant_100k
+84,ru,средневековый рынок,145528837,0,assistant_100k
+84,ru,средневековый рынок,145673913,0,assistant_100k
+84,ru,средневековый рынок,145734169,0,assistant_100k
+84,ru,средневековый рынок,145913502,0,assistant_100k
+84,ru,средневековый рынок,145958409,0,assistant_100k
+84,ru,средневековый рынок,146022903,0,assistant_100k
+84,ru,средневековый рынок,146030169,0,assistant_100k
+84,ru,средневековый рынок,146030173,0,assistant_100k
+84,ru,средневековый рынок,146193493,0,assistant_100k
+85,ru,водопад в джунглях,25718789,0,assistant_100k
+85,ru,водопад в джунглях,100256536,1,assistant_100k
+85,ru,водопад в джунглях,106819271,1,assistant_100k
+85,ru,водопад в джунглях,112230701,0,assistant_100k
+85,ru,водопад в джунглях,112233041,0,assistant_100k
+85,ru,водопад в джунглях,112572044,0,assistant_100k
+85,ru,водопад в джунглях,119659950,0,assistant_100k
+85,ru,водопад в джунглях,127264795,0,assistant_100k
+85,ru,водопад в джунглях,127534188,1,assistant_100k
+85,ru,водопад в джунглях,134539248,1,assistant_100k
+85,ru,водопад в джунглях,138489461,1,assistant_100k
+85,ru,водопад в джунглях,138686721,1,assistant_100k
+85,ru,водопад в джунглях,139692143,0,assistant_100k
+85,ru,водопад в джунглях,140438868,1,assistant_100k
+85,ru,водопад в джунглях,140495031,0,assistant_100k
+85,ru,водопад в джунглях,141751145,1,assistant_100k
+85,ru,водопад в джунглях,142549884,0,assistant_100k
+85,ru,водопад в джунглях,143052134,0,assistant_100k
+85,ru,водопад в джунглях,143118665,0,assistant_100k
+85,ru,водопад в джунглях,143853781,0,assistant_100k
+85,ru,водопад в джунглях,143853789,0,assistant_100k
+85,ru,водопад в джунглях,144366420,0,assistant_100k
+85,ru,водопад в джунглях,144729963,0,assistant_100k
+85,ru,водопад в джунглях,145231568,1,assistant_100k
+85,ru,водопад в джунглях,145334657,0,assistant_100k
+85,ru,водопад в джунглях,145450272,1,assistant_100k
+85,ru,водопад в джунглях,145450273,1,assistant_100k
+85,ru,водопад в джунглях,145884889,1,assistant_100k
+85,ru,водопад в джунглях,146022963,1,assistant_100k
+85,ru,водопад в джунглях,146030169,0,assistant_100k
+85,ru,водопад в джунглях,146030173,0,assistant_100k
+86,ru,космическая станция на орбите,94422419,0,assistant_100k
+86,ru,космическая станция на орбите,94422421,0,assistant_100k
+86,ru,космическая станция на орбите,101058471,1,assistant_100k
+86,ru,космическая станция на орбите,113493442,0,assistant_100k
+86,ru,космическая станция на орбите,119089944,0,assistant_100k
+86,ru,космическая станция на орбите,121860075,0,assistant_100k
+86,ru,космическая станция на орбите,121864555,1,assistant_100k
+86,ru,космическая станция на орбите,125189781,1,assistant_100k
+86,ru,космическая станция на орбите,126293512,0,assistant_100k
+86,ru,космическая станция на орбите,130780501,0,assistant_100k
+86,ru,космическая станция на орбите,134883731,1,assistant_100k
+86,ru,космическая станция на орбите,135436961,0,assistant_100k
+86,ru,космическая станция на орбите,135436962,0,assistant_100k
+86,ru,космическая станция на орбите,135958437,1,assistant_100k
+86,ru,космическая станция на орбите,136878135,1,assistant_100k
+86,ru,космическая станция на орбите,137303925,0,assistant_100k
+86,ru,космическая станция на орбите,139692143,0,assistant_100k
+86,ru,космическая станция на орбите,139786233,1,assistant_100k
+86,ru,космическая станция на орбите,140990096,1,assistant_100k
+86,ru,космическая станция на орбите,141208704,1,assistant_100k
+86,ru,космическая станция на орбите,141620438,0,assistant_100k
+86,ru,космическая станция на орбите,141713931,1,assistant_100k
+86,ru,космическая станция на орбите,143532712,0,assistant_100k
+86,ru,космическая станция на орбите,144276980,0,assistant_100k
+86,ru,космическая станция на орбите,144366403,0,assistant_100k
+86,ru,космическая станция на орбите,144366407,0,assistant_100k
+86,ru,космическая станция на орбите,144441109,0,assistant_100k
+86,ru,космическая станция на орбите,144704306,1,assistant_100k
+86,ru,космическая станция на орбите,145581210,1,assistant_100k
+86,ru,космическая станция на орбите,145660908,0,assistant_100k
+86,ru,космическая станция на орбите,145862567,1,assistant_100k
+86,ru,космическая станция на орбите,145862904,1,assistant_100k
+86,ru,космическая станция на орбите,146030173,0,assistant_100k
+86,ru,космическая станция на орбите,146107348,0,assistant_100k
+86,ru,космическая станция на орбите,146107368,0,assistant_100k
+87,ru,лошадь в поле с цветами,113493442,0,assistant_100k
+87,ru,лошадь в поле с цветами,124972111,0,assistant_100k
+87,ru,лошадь в поле с цветами,125151656,0,assistant_100k
+87,ru,лошадь в поле с цветами,126222919,0,assistant_100k
+87,ru,лошадь в поле с цветами,130780501,0,assistant_100k
+87,ru,лошадь в поле с цветами,131807870,0,assistant_100k
+87,ru,лошадь в поле с цветами,133439348,1,assistant_100k
+87,ru,лошадь в поле с цветами,133475734,1,assistant_100k
+87,ru,лошадь в поле с цветами,133764671,0,assistant_100k
+87,ru,лошадь в поле с цветами,137303925,0,assistant_100k
+87,ru,лошадь в поле с цветами,137581786,0,assistant_100k
+87,ru,лошадь в поле с цветами,137653339,0,assistant_100k
+87,ru,лошадь в поле с цветами,139692143,0,assistant_100k
+87,ru,лошадь в поле с цветами,140516730,0,assistant_100k
+87,ru,лошадь в поле с цветами,141125207,0,assistant_100k
+87,ru,лошадь в поле с цветами,141183952,0,assistant_100k
+87,ru,лошадь в поле с цветами,143223649,0,assistant_100k
+87,ru,лошадь в поле с цветами,143240160,1,assistant_100k
+87,ru,лошадь в поле с цветами,143406916,1,assistant_100k
+87,ru,лошадь в поле с цветами,143406919,1,assistant_100k
+87,ru,лошадь в поле с цветами,143811243,0,assistant_100k
+87,ru,лошадь в поле с цветами,144214377,1,assistant_100k
+87,ru,лошадь в поле с цветами,144366407,0,assistant_100k
+87,ru,лошадь в поле с цветами,144366424,0,assistant_100k
+87,ru,лошадь в поле с цветами,144441109,0,assistant_100k
+87,ru,лошадь в поле с цветами,144470884,0,assistant_100k
+87,ru,лошадь в поле с цветами,144602540,1,assistant_100k
+87,ru,лошадь в поле с цветами,144763556,0,assistant_100k
+87,ru,лошадь в поле с цветами,144763557,0,assistant_100k
+87,ru,лошадь в поле с цветами,144763562,0,assistant_100k
+87,ru,лошадь в поле с цветами,145387698,0,assistant_100k
+87,ru,лошадь в поле с цветами,145660908,0,assistant_100k
+87,ru,лошадь в поле с цветами,145660962,0,assistant_100k
+87,ru,лошадь в поле с цветами,145772602,0,assistant_100k
+87,ru,лошадь в поле с цветами,145870514,0,assistant_100k
+87,ru,лошадь в поле с цветами,145875051,0,assistant_100k
+87,ru,лошадь в поле с цветами,145941106,0,assistant_100k
+87,ru,лошадь в поле с цветами,145987967,0,assistant_100k
+87,ru,лошадь в поле с цветами,145993382,0,assistant_100k
+87,ru,лошадь в поле с цветами,145994087,0,assistant_100k
+87,ru,лошадь в поле с цветами,146135050,1,assistant_100k
+88,ru,ночной Токио,63431996,1,assistant_100k
+88,ru,ночной Токио,84812680,0,assistant_100k
+88,ru,ночной Токио,85658926,0,assistant_100k
+88,ru,ночной Токио,87537728,0,assistant_100k
+88,ru,ночной Токио,113493442,0,assistant_100k
+88,ru,ночной Токио,116371702,0,assistant_100k
+88,ru,ночной Токио,123971534,1,assistant_100k
+88,ru,ночной Токио,130780501,0,assistant_100k
+88,ru,ночной Токио,137303925,0,assistant_100k
+88,ru,ночной Токио,137876300,1,assistant_100k
+88,ru,ночной Токио,139692143,0,assistant_100k
+88,ru,ночной Токио,140391883,0,assistant_100k
+88,ru,ночной Токио,140669492,0,assistant_100k
+88,ru,ночной Токио,141196777,1,assistant_100k
+88,ru,ночной Токио,141708389,0,assistant_100k
+88,ru,ночной Токио,143580729,0,assistant_100k
+88,ru,ночной Токио,143588297,0,assistant_100k
+88,ru,ночной Токио,143594876,1,assistant_100k
+88,ru,ночной Токио,144366407,0,assistant_100k
+88,ru,ночной Токио,144366424,0,assistant_100k
+88,ru,ночной Токио,144371038,0,assistant_100k
+88,ru,ночной Токио,144659376,0,assistant_100k
+88,ru,ночной Токио,144765337,1,assistant_100k
+88,ru,ночной Токио,145270540,0,assistant_100k
+88,ru,ночной Токио,145270541,0,assistant_100k
+88,ru,ночной Токио,145270675,0,assistant_100k
+88,ru,ночной Токио,145287690,1,assistant_100k
+88,ru,ночной Токио,145660908,0,assistant_100k
+88,ru,ночной Токио,145862661,1,assistant_100k
+88,ru,ночной Токио,145914206,0,assistant_100k
+88,ru,ночной Токио,145993713,1,assistant_100k
+88,ru,ночной Токио,145993719,1,assistant_100k
+88,ru,ночной Токио,145993725,1,assistant_100k
+88,ru,ночной Токио,145993727,1,assistant_100k
+88,ru,ночной Токио,145993730,1,assistant_100k
+88,ru,ночной Токио,145993732,1,assistant_100k
+88,ru,ночной Токио,145993733,1,assistant_100k
+88,ru,ночной Токио,145993739,1,assistant_100k
+88,ru,ночной Токио,145993740,1,assistant_100k
+88,ru,ночной Токио,145993779,1,assistant_100k
+88,ru,ночной Токио,146041229,1,assistant_100k
+88,ru,ночной Токио,146132129,0,assistant_100k
+88,ru,ночной Токио,146147258,1,assistant_100k
+89,ru,ёжик в тумане,26689378,1,assistant_100k
+89,ru,ёжик в тумане,33687951,1,assistant_100k
+89,ru,ёжик в тумане,87598435,0,assistant_100k
+89,ru,ёжик в тумане,113493442,0,assistant_100k
+89,ru,ёжик в тумане,117872531,0,assistant_100k
+89,ru,ёжик в тумане,119659950,0,assistant_100k
+89,ru,ёжик в тумане,120051558,0,assistant_100k
+89,ru,ёжик в тумане,130780501,0,assistant_100k
+89,ru,ёжик в тумане,132747933,0,assistant_100k
+89,ru,ёжик в тумане,137303925,0,assistant_100k
+89,ru,ёжик в тумане,139692143,0,assistant_100k
+89,ru,ёжик в тумане,141185722,0,assistant_100k
+89,ru,ёжик в тумане,141620438,0,assistant_100k
+89,ru,ёжик в тумане,142018714,0,assistant_100k
+89,ru,ёжик в тумане,142267957,0,assistant_100k
+89,ru,ёжик в тумане,142267959,0,assistant_100k
+89,ru,ёжик в тумане,142316639,0,assistant_100k
+89,ru,ёжик в тумане,143589040,0,assistant_100k
+89,ru,ёжик в тумане,144366407,0,assistant_100k
+89,ru,ёжик в тумане,144366427,0,assistant_100k
+89,ru,ёжик в тумане,144441109,0,assistant_100k
+89,ru,ёжик в тумане,144724365,0,assistant_100k
+89,ru,ёжик в тумане,145209912,1,assistant_100k
+89,ru,ёжик в тумане,145270732,0,assistant_100k
+89,ru,ёжик в тумане,145271558,0,assistant_100k
+89,ru,ёжик в тумане,145271559,0,assistant_100k
+89,ru,ёжик в тумане,145595699,0,assistant_100k
+89,ru,ёжик в тумане,145906389,0,assistant_100k
+89,ru,ёжик в тумане,145907684,0,assistant_100k
+89,ru,ёжик в тумане,145916849,0,assistant_100k
+89,ru,ёжик в тумане,145934343,0,assistant_100k
+89,ru,ёжик в тумане,146030173,0,assistant_100k
+90,ru,мухомор в лесу,16141123,0,assistant_100k
+90,ru,мухомор в лесу,25613929,1,assistant_100k
+90,ru,мухомор в лесу,26906140,1,assistant_100k
+90,ru,мухомор в лесу,107517081,0,assistant_100k
+90,ru,мухомор в лесу,113493442,0,assistant_100k
+90,ru,мухомор в лесу,119158121,1,assistant_100k
+90,ru,мухомор в лесу,119170048,0,assistant_100k
+90,ru,мухомор в лесу,119170056,0,assistant_100k
+90,ru,мухомор в лесу,123545910,0,assistant_100k
+90,ru,мухомор в лесу,123545911,0,assistant_100k
+90,ru,мухомор в лесу,130780501,0,assistant_100k
+90,ru,мухомор в лесу,137303925,0,assistant_100k
+90,ru,мухомор в лесу,137581786,0,assistant_100k
+90,ru,мухомор в лесу,139303021,1,assistant_100k
+90,ru,мухомор в лесу,139692143,0,assistant_100k
+90,ru,мухомор в лесу,141111558,1,assistant_100k
+90,ru,мухомор в лесу,141605817,0,assistant_100k
+90,ru,мухомор в лесу,142315900,1,assistant_100k
+90,ru,мухомор в лесу,143811243,0,assistant_100k
+90,ru,мухомор в лесу,144277191,0,assistant_100k
+90,ru,мухомор в лесу,144366424,0,assistant_100k
+90,ru,мухомор в лесу,145113397,1,assistant_100k
+90,ru,мухомор в лесу,145157287,0,assistant_100k
+90,ru,мухомор в лесу,145175762,1,assistant_100k
+90,ru,мухомор в лесу,145175823,1,assistant_100k
+90,ru,мухомор в лесу,145175837,1,assistant_100k
+90,ru,мухомор в лесу,145175840,1,assistant_100k
+90,ru,мухомор в лесу,145175972,1,assistant_100k
+90,ru,мухомор в лесу,145175973,1,assistant_100k
+90,ru,мухомор в лесу,145914206,0,assistant_100k
+90,ru,мухомор в лесу,146030169,0,assistant_100k
+90,ru,мухомор в лесу,146030173,0,assistant_100k
+91,ru,старый паровоз,27492114,0,assistant_100k
+91,ru,старый паровоз,50941372,0,assistant_100k
+91,ru,старый паровоз,113493442,0,assistant_100k
+91,ru,старый паровоз,117872613,0,assistant_100k
+91,ru,старый паровоз,119869745,1,assistant_100k
+91,ru,старый паровоз,121836434,1,assistant_100k
+91,ru,старый паровоз,130860001,1,assistant_100k
+91,ru,старый паровоз,130860003,1,assistant_100k
+91,ru,старый паровоз,130860022,1,assistant_100k
+91,ru,старый паровоз,133220289,0,assistant_100k
+91,ru,старый паровоз,133220291,0,assistant_100k
+91,ru,старый паровоз,136299411,0,assistant_100k
+91,ru,старый паровоз,137303925,0,assistant_100k
+91,ru,старый паровоз,137653339,0,assistant_100k
+91,ru,старый паровоз,138572398,1,assistant_100k
+91,ru,старый паровоз,139068489,1,assistant_100k
+91,ru,старый паровоз,139692143,0,assistant_100k
+91,ru,старый паровоз,142747566,0,assistant_100k
+91,ru,старый паровоз,143118665,0,assistant_100k
+91,ru,старый паровоз,143343689,0,assistant_100k
+91,ru,старый паровоз,143811243,0,assistant_100k
+91,ru,старый паровоз,144158378,1,assistant_100k
+91,ru,старый паровоз,144366407,0,assistant_100k
+91,ru,старый паровоз,144366427,0,assistant_100k
+91,ru,старый паровоз,145335537,1,assistant_100k
+91,ru,старый паровоз,145673913,0,assistant_100k
+91,ru,старый паровоз,145734169,0,assistant_100k
+91,ru,старый паровоз,145914206,0,assistant_100k
+91,ru,старый паровоз,146030169,0,assistant_100k
+91,ru,старый паровоз,146048937,0,assistant_100k
+91,ru,старый паровоз,146065527,1,assistant_100k
+91,ru,старый паровоз,146065711,1,assistant_100k
+91,ru,старый паровоз,146161031,1,assistant_100k
+91,ru,старый паровоз,146161035,1,assistant_100k
+92,ru,воздушный змей на пляже,69324417,0,assistant_100k
+92,ru,воздушный змей на пляже,93769208,0,assistant_100k
+92,ru,воздушный змей на пляже,113493442,0,assistant_100k
+92,ru,воздушный змей на пляже,119659950,0,assistant_100k
+92,ru,воздушный змей на пляже,121206188,0,assistant_100k
+92,ru,воздушный змей на пляже,123521281,0,assistant_100k
+92,ru,воздушный змей на пляже,130780501,0,assistant_100k
+92,ru,воздушный змей на пляже,131067731,0,assistant_100k
+92,ru,воздушный змей на пляже,131280367,0,assistant_100k
+92,ru,воздушный змей на пляже,135958439,0,assistant_100k
+92,ru,воздушный змей на пляже,137303925,0,assistant_100k
+92,ru,воздушный змей на пляже,139692143,0,assistant_100k
+92,ru,воздушный змей на пляже,139986165,0,assistant_100k
+92,ru,воздушный змей на пляже,141991605,0,assistant_100k
+92,ru,воздушный змей на пляже,142578831,0,assistant_100k
+92,ru,воздушный змей на пляже,142578834,0,assistant_100k
+92,ru,воздушный змей на пляже,142830873,0,assistant_100k
+92,ru,воздушный змей на пляже,143052134,0,assistant_100k
+92,ru,воздушный змей на пляже,143118665,0,assistant_100k
+92,ru,воздушный змей на пляже,143811243,0,assistant_100k
+92,ru,воздушный змей на пляже,144366407,0,assistant_100k
+92,ru,воздушный змей на пляже,144406257,0,assistant_100k
+92,ru,воздушный змей на пляже,144412481,0,assistant_100k
+92,ru,воздушный змей на пляже,144441109,0,assistant_100k
+92,ru,воздушный змей на пляже,144606726,0,assistant_100k
+92,ru,воздушный змей на пляже,144606727,0,assistant_100k
+92,ru,воздушный змей на пляже,145904566,0,assistant_100k
+92,ru,воздушный змей на пляже,145925624,0,assistant_100k
+92,ru,воздушный змей на пляже,145925625,0,assistant_100k
+92,ru,воздушный змей на пляже,145925631,0,assistant_100k
+92,ru,воздушный змей на пляже,145925632,0,assistant_100k
+92,ru,воздушный змей на пляже,145925638,0,assistant_100k
+92,ru,воздушный змей на пляже,145925639,0,assistant_100k
+92,ru,воздушный змей на пляже,145925645,0,assistant_100k
+92,ru,воздушный змей на пляже,145941103,0,assistant_100k
+92,ru,воздушный змей на пляже,145958643,0,assistant_100k
+92,ru,воздушный змей на пляже,146058850,0,assistant_100k
+92,ru,воздушный змей на пляже,146087183,0,assistant_100k
+93,ru,букет подсолнухов,67043169,0,assistant_100k
+93,ru,букет подсолнухов,68945043,0,assistant_100k
+93,ru,букет подсолнухов,70810824,0,assistant_100k
+93,ru,букет подсолнухов,71231852,0,assistant_100k
+93,ru,букет подсолнухов,71827699,0,assistant_100k
+93,ru,букет подсолнухов,90188369,0,assistant_100k
+93,ru,букет подсолнухов,108505547,1,assistant_100k
+93,ru,букет подсолнухов,113493442,0,assistant_100k
+93,ru,букет подсолнухов,118826084,1,assistant_100k
+93,ru,букет подсолнухов,130780501,0,assistant_100k
+93,ru,букет подсолнухов,133687612,0,assistant_100k
+93,ru,букет подсолнухов,136237832,0,assistant_100k
+93,ru,букет подсолнухов,136391060,0,assistant_100k
+93,ru,букет подсолнухов,137303925,0,assistant_100k
+93,ru,букет подсолнухов,137309935,0,assistant_100k
+93,ru,букет подсолнухов,137712946,1,assistant_100k
+93,ru,букет подсолнухов,138280640,0,assistant_100k
+93,ru,букет подсолнухов,139692143,0,assistant_100k
+93,ru,букет подсолнухов,144366407,0,assistant_100k
+93,ru,букет подсолнухов,144366424,0,assistant_100k
+93,ru,букет подсолнухов,144441109,0,assistant_100k
+93,ru,букет подсолнухов,144586237,1,assistant_100k
+93,ru,букет подсолнухов,145285087,0,assistant_100k
+93,ru,букет подсолнухов,145327634,0,assistant_100k
+93,ru,букет подсолнухов,145712997,0,assistant_100k
+93,ru,букет подсолнухов,145818596,0,assistant_100k
+93,ru,букет подсолнухов,145838055,0,assistant_100k
+93,ru,букет подсолнухов,145914206,0,assistant_100k
+93,ru,букет подсолнухов,146030169,0,assistant_100k
+93,ru,букет подсолнухов,146030173,0,assistant_100k
+93,ru,букет подсолнухов,146071951,0,assistant_100k
+94,ru,снеговик во дворе,99932038,1,assistant_100k
+94,ru,снеговик во дворе,99932040,1,assistant_100k
+94,ru,снеговик во дворе,109064583,1,assistant_100k
+94,ru,снеговик во дворе,109148809,1,assistant_100k
+94,ru,снеговик во дворе,109440924,0,assistant_100k
+94,ru,снеговик во дворе,111171016,0,assistant_100k
+94,ru,снеговик во дворе,113493442,0,assistant_100k
+94,ru,снеговик во дворе,113972176,0,assistant_100k
+94,ru,снеговик во дворе,115106568,1,assistant_100k
+94,ru,снеговик во дворе,121081571,0,assistant_100k
+94,ru,снеговик во дворе,136347491,1,assistant_100k
+94,ru,снеговик во дворе,137303925,0,assistant_100k
+94,ru,снеговик во дворе,138070345,0,assistant_100k
+94,ru,снеговик во дворе,139692143,0,assistant_100k
+94,ru,снеговик во дворе,139942776,0,assistant_100k
+94,ru,снеговик во дворе,140045239,1,assistant_100k
+94,ru,снеговик во дворе,140045240,1,assistant_100k
+94,ru,снеговик во дворе,142116282,0,assistant_100k
+94,ru,снеговик во дворе,143052134,0,assistant_100k
+94,ru,снеговик во дворе,143118665,0,assistant_100k
+94,ru,снеговик во дворе,143811243,0,assistant_100k
+94,ru,снеговик во дворе,144366407,0,assistant_100k
+94,ru,снеговик во дворе,144366424,0,assistant_100k
+94,ru,снеговик во дворе,144370556,0,assistant_100k
+94,ru,снеговик во дворе,144441109,0,assistant_100k
+94,ru,снеговик во дворе,144525026,0,assistant_100k
+94,ru,снеговик во дворе,144525027,0,assistant_100k
+94,ru,снеговик во дворе,144525035,0,assistant_100k
+94,ru,снеговик во дворе,145270540,0,assistant_100k
+94,ru,снеговик во дворе,145270543,0,assistant_100k
+94,ru,снеговик во дворе,145270544,0,assistant_100k
+94,ru,снеговик во дворе,145646913,0,assistant_100k
+94,ru,снеговик во дворе,145914206,0,assistant_100k
+95,ru,тигр в джунглях,10115131,1,assistant_100k
+95,ru,тигр в джунглях,32806929,0,assistant_100k
+95,ru,тигр в джунглях,61613658,1,assistant_100k
+95,ru,тигр в джунглях,112233041,0,assistant_100k
+95,ru,тигр в джунглях,113493442,0,assistant_100k
+95,ru,тигр в джунглях,117658285,1,assistant_100k
+95,ru,тигр в джунглях,119221215,1,assistant_100k
+95,ru,тигр в джунглях,119258797,0,assistant_100k
+95,ru,тигр в джунглях,119258867,0,assistant_100k
+95,ru,тигр в джунглях,120445318,1,assistant_100k
+95,ru,тигр в джунглях,128171189,1,assistant_100k
+95,ru,тигр в джунглях,130780501,0,assistant_100k
+95,ru,тигр в джунглях,136334583,0,assistant_100k
+95,ru,тигр в джунглях,136554699,1,assistant_100k
+95,ru,тигр в джунглях,137303925,0,assistant_100k
+95,ru,тигр в джунглях,138630732,0,assistant_100k
+95,ru,тигр в джунглях,138884785,0,assistant_100k
+95,ru,тигр в джунглях,139692143,0,assistant_100k
+95,ru,тигр в джунглях,140824371,0,assistant_100k
+95,ru,тигр в джунглях,141662096,0,assistant_100k
+95,ru,тигр в джунглях,142683443,0,assistant_100k
+95,ru,тигр в джунглях,143811243,0,assistant_100k
+95,ru,тигр в джунглях,144366424,0,assistant_100k
+95,ru,тигр в джунглях,144889537,0,assistant_100k
+95,ru,тигр в джунглях,145743104,0,assistant_100k
+95,ru,тигр в джунглях,145914206,0,assistant_100k
+95,ru,тигр в джунглях,145994972,1,assistant_100k
+95,ru,тигр в джунглях,146030169,0,assistant_100k
+95,ru,тигр в джунглях,146030173,0,assistant_100k
+95,ru,тигр в джунглях,146046869,0,assistant_100k
+95,ru,тигр в джунглях,146178509,0,assistant_100k
+96,ru,деревенская улица зимой,43296263,1,assistant_100k
+96,ru,деревенская улица зимой,113493442,0,assistant_100k
+96,ru,деревенская улица зимой,113862415,1,assistant_100k
+96,ru,деревенская улица зимой,136237832,0,assistant_100k
+96,ru,деревенская улица зимой,136391060,0,assistant_100k
+96,ru,деревенская улица зимой,137303925,0,assistant_100k
+96,ru,деревенская улица зимой,137653339,0,assistant_100k
+96,ru,деревенская улица зимой,138280640,0,assistant_100k
+96,ru,деревенская улица зимой,139434271,1,assistant_100k
+96,ru,деревенская улица зимой,139692143,0,assistant_100k
+96,ru,деревенская улица зимой,140679729,0,assistant_100k
+96,ru,деревенская улица зимой,141010898,0,assistant_100k
+96,ru,деревенская улица зимой,141125207,0,assistant_100k
+96,ru,деревенская улица зимой,141416040,1,assistant_100k
+96,ru,деревенская улица зимой,143118665,0,assistant_100k
+96,ru,деревенская улица зимой,143495660,1,assistant_100k
+96,ru,деревенская улица зимой,143811243,0,assistant_100k
+96,ru,деревенская улица зимой,144366427,0,assistant_100k
+96,ru,деревенская улица зимой,144370556,1,assistant_100k
+96,ru,деревенская улица зимой,144713921,0,assistant_100k
+96,ru,деревенская улица зимой,144825687,1,assistant_100k
+96,ru,деревенская улица зимой,145037635,1,assistant_100k
+96,ru,деревенская улица зимой,145166005,1,assistant_100k
+96,ru,деревенская улица зимой,145270544,0,assistant_100k
+96,ru,деревенская улица зимой,145462908,0,assistant_100k
+96,ru,деревенская улица зимой,145463382,0,assistant_100k
+96,ru,деревенская улица зимой,145826476,1,assistant_100k
+96,ru,деревенская улица зимой,145904566,0,assistant_100k
+96,ru,деревенская улица зимой,145904567,0,assistant_100k
+96,ru,деревенская улица зимой,145904570,0,assistant_100k
+96,ru,деревенская улица зимой,146030169,0,assistant_100k
+96,ru,деревенская улица зимой,146048941,0,assistant_100k
+96,ru,деревенская улица зимой,146087137,0,assistant_100k
+97,ru,корабль викингов,9188140,1,assistant_100k
+97,ru,корабль викингов,44900197,0,assistant_100k
+97,ru,корабль викингов,94270910,0,assistant_100k
+97,ru,корабль викингов,98790965,0,assistant_100k
+97,ru,корабль викингов,113493442,0,assistant_100k
+97,ru,корабль викингов,115854745,0,assistant_100k
+97,ru,корабль викингов,126611834,0,assistant_100k
+97,ru,корабль викингов,134170078,0,assistant_100k
+97,ru,корабль викингов,137303925,0,assistant_100k
+97,ru,корабль викингов,139322855,1,assistant_100k
+97,ru,корабль викингов,139322856,1,assistant_100k
+97,ru,корабль викингов,139658733,0,assistant_100k
+97,ru,корабль викингов,139692143,0,assistant_100k
+97,ru,корабль викингов,140947577,1,assistant_100k
+97,ru,корабль викингов,141620438,0,assistant_100k
+97,ru,корабль викингов,142430889,1,assistant_100k
+97,ru,корабль викингов,143344861,0,assistant_100k
+97,ru,корабль викингов,143588297,0,assistant_100k
+97,ru,корабль викингов,144003894,0,assistant_100k
+97,ru,корабль викингов,144366407,0,assistant_100k
+97,ru,корабль викингов,144366424,0,assistant_100k
+97,ru,корабль викингов,144441109,0,assistant_100k
+97,ru,корабль викингов,145334932,0,assistant_100k
+97,ru,корабль викингов,145516576,0,assistant_100k
+97,ru,корабль викингов,145516578,0,assistant_100k
+97,ru,корабль викингов,145596983,1,assistant_100k
+97,ru,корабль викингов,145597009,1,assistant_100k
+97,ru,корабль викингов,145597052,1,assistant_100k
+97,ru,корабль викингов,145597084,1,assistant_100k
+97,ru,корабль викингов,146030169,0,assistant_100k
+97,ru,корабль викингов,146030173,0,assistant_100k
+97,ru,корабль викингов,146107097,0,assistant_100k
+98,ru,портрет девушки с веснушками,23617449,0,assistant_100k
+98,ru,портрет девушки с веснушками,105993435,1,assistant_100k
+98,ru,портрет девушки с веснушками,113493442,0,assistant_100k
+98,ru,портрет девушки с веснушками,119195041,0,assistant_100k
+98,ru,портрет девушки с веснушками,130780501,0,assistant_100k
+98,ru,портрет девушки с веснушками,137303925,0,assistant_100k
+98,ru,портрет девушки с веснушками,139692143,0,assistant_100k
+98,ru,портрет девушки с веснушками,141619346,0,assistant_100k
+98,ru,портрет девушки с веснушками,142007979,1,assistant_100k
+98,ru,портрет девушки с веснушками,143367323,1,assistant_100k
+98,ru,портрет девушки с веснушками,143432605,0,assistant_100k
+98,ru,портрет девушки с веснушками,143811243,0,assistant_100k
+98,ru,портрет девушки с веснушками,144013041,1,assistant_100k
+98,ru,портрет девушки с веснушками,144056944,0,assistant_100k
+98,ru,портрет девушки с веснушками,144366407,0,assistant_100k
+98,ru,портрет девушки с веснушками,144366424,0,assistant_100k
+98,ru,портрет девушки с веснушками,144441109,0,assistant_100k
+98,ru,портрет девушки с веснушками,144453351,0,assistant_100k
+98,ru,портрет девушки с веснушками,144957520,1,assistant_100k
+98,ru,портрет девушки с веснушками,145401895,0,assistant_100k
+98,ru,портрет девушки с веснушками,145445403,0,assistant_100k
+98,ru,портрет девушки с веснушками,145787919,0,assistant_100k
+98,ru,портрет девушки с веснушками,145787923,0,assistant_100k
+98,ru,портрет девушки с веснушками,145797785,1,assistant_100k
+98,ru,портрет девушки с веснушками,145798356,0,assistant_100k
+98,ru,портрет девушки с веснушками,145799038,0,assistant_100k
+98,ru,портрет девушки с веснушками,145799686,0,assistant_100k
+98,ru,портрет девушки с веснушками,145799784,1,assistant_100k
+98,ru,портрет девушки с веснушками,145799788,0,assistant_100k
+98,ru,портрет девушки с веснушками,145799804,1,assistant_100k
+98,ru,портрет девушки с веснушками,145800346,0,assistant_100k
+98,ru,портрет девушки с веснушками,145814449,0,assistant_100k
+98,ru,портрет девушки с веснушками,145900457,1,assistant_100k
+98,ru,портрет девушки с веснушками,145917523,0,assistant_100k
+98,ru,портрет девушки с веснушками,146030169,0,assistant_100k
+98,ru,портрет девушки с веснушками,146030173,0,assistant_100k
+98,ru,портрет девушки с веснушками,146076242,1,assistant_100k
+98,ru,портрет девушки с веснушками,146094293,1,assistant_100k
+98,ru,портрет девушки с веснушками,146179755,0,assistant_100k
+99,ru,замок из песка,5642402,0,assistant_100k
+99,ru,замок из песка,113493442,0,assistant_100k
+99,ru,замок из песка,126967207,0,assistant_100k
+99,ru,замок из песка,126967209,0,assistant_100k
+99,ru,замок из песка,130780501,0,assistant_100k
+99,ru,замок из песка,135303997,0,assistant_100k
+99,ru,замок из песка,135990017,1,assistant_100k
+99,ru,замок из песка,136237832,0,assistant_100k
+99,ru,замок из песка,136391060,0,assistant_100k
+99,ru,замок из песка,136618994,0,assistant_100k
+99,ru,замок из песка,137216797,0,assistant_100k
+99,ru,замок из песка,137303925,0,assistant_100k
+99,ru,замок из песка,139357770,1,assistant_100k
+99,ru,замок из песка,139692143,0,assistant_100k
+99,ru,замок из песка,139933705,1,assistant_100k
+99,ru,замок из песка,141594064,0,assistant_100k
+99,ru,замок из песка,143118665,0,assistant_100k
+99,ru,замок из песка,143523974,0,assistant_100k
+99,ru,замок из песка,143811243,0,assistant_100k
+99,ru,замок из песка,144277188,0,assistant_100k
+99,ru,замок из песка,144579762,0,assistant_100k
+99,ru,замок из песка,144635568,1,assistant_100k
+99,ru,замок из песка,144659376,0,assistant_100k
+99,ru,замок из песка,145533690,1,assistant_100k
+99,ru,замок из песка,145735458,0,assistant_100k
+99,ru,замок из песка,145987372,0,assistant_100k
+99,ru,замок из песка,145994484,0,assistant_100k
+99,ru,замок из песка,146030169,0,assistant_100k
+99,ru,замок из песка,146030173,0,assistant_100k
+99,ru,замок из песка,146075697,1,assistant_100k
+99,ru,замок из песка,146087183,0,assistant_100k
+99,ru,замок из песка,146091124,1,assistant_100k
+99,ru,замок из песка,146092594,1,assistant_100k

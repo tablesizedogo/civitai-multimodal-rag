@@ -1,0 +1,10 @@
+# CPU-only torch: pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu
+torch>=2.4
+torchvision>=0.19
+open_clip_torch>=2.26
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+scipy>=1.11
+numpy>=1.26
+pillow>=10.0
+gradio>=4.40

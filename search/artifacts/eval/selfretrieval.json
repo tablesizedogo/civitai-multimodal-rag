@@ -1,0 +1,281 @@
+{
+ "n_sample": 1000,
+ "seed": 0,
+ "variants": {
+  "trunc10": {
+   "n": 1000,
+   "A": {
+    "R@1": 0.596,
+    "R@5": 0.84,
+    "R@10": 0.88,
+    "R@100": 0.977,
+    "R@1_lenient": 0.706,
+    "R@5_lenient": 0.866,
+    "R@10_lenient": 0.903,
+    "R@100_lenient": 0.982,
+    "sec": 0.8
+   },
+   "B": {
+    "R@1": 0.513,
+    "R@5": 0.744,
+    "R@10": 0.803,
+    "R@100": 0.935,
+    "R@1_lenient": 0.609,
+    "R@5_lenient": 0.771,
+    "R@10_lenient": 0.817,
+    "R@100_lenient": 0.937,
+    "sec": 19.6
+   },
+   "C": {
+    "R@1": 0.075,
+    "R@5": 0.174,
+    "R@10": 0.199,
+    "R@100": 0.359,
+    "R@1_lenient": 0.097,
+    "R@5_lenient": 0.191,
+    "R@10_lenient": 0.225,
+    "R@100_lenient": 0.397,
+    "sec": 51.0
+   },
+   "D": {
+    "R@1": 0.296,
+    "R@5": 0.593,
+    "R@10": 0.721,
+    "R@100": 0.909,
+    "R@1_lenient": 0.375,
+    "R@5_lenient": 0.655,
+    "R@10_lenient": 0.769,
+    "R@100_lenient": 0.916,
+    "sec": 50.5
+   },
+   "E": {
+    "R@1": 0.087,
+    "R@5": 0.164,
+    "R@10": 0.198,
+    "R@100": 0.361,
+    "R@1_lenient": 0.114,
+    "R@5_lenient": 0.187,
+    "R@10_lenient": 0.227,
+    "R@100_lenient": 0.395,
+    "sec": 40.7
+   },
+   "F": {
+    "R@1": 0.285,
+    "R@5": 0.585,
+    "R@10": 0.716,
+    "R@100": 0.91,
+    "R@1_lenient": 0.36,
+    "R@5_lenient": 0.643,
+    "R@10_lenient": 0.756,
+    "R@100_lenient": 0.917,
+    "sec": 57.0
+   }
+  },
+  "bag50": {
+   "n": 1000,
+   "A": {
+    "R@1": 0.824,
+    "R@5": 0.955,
+    "R@10": 0.977,
+    "R@100": 0.998,
+    "R@1_lenient": 0.962,
+    "R@5_lenient": 0.989,
+    "R@10_lenient": 0.99,
+    "R@100_lenient": 0.999,
+    "sec": 0.7
+   },
+   "B": {
+    "R@1": 0.715,
+    "R@5": 0.91,
+    "R@10": 0.939,
+    "R@100": 0.989,
+    "R@1_lenient": 0.848,
+    "R@5_lenient": 0.94,
+    "R@10_lenient": 0.952,
+    "R@100_lenient": 0.992,
+    "sec": 21.9
+   },
+   "C": {
+    "R@1": 0.15,
+    "R@5": 0.27,
+    "R@10": 0.336,
+    "R@100": 0.583,
+    "R@1_lenient": 0.182,
+    "R@5_lenient": 0.305,
+    "R@10_lenient": 0.377,
+    "R@100_lenient": 0.626,
+    "sec": 31.9
+   },
+   "D": {
+    "R@1": 0.477,
+    "R@5": 0.812,
+    "R@10": 0.905,
+    "R@100": 0.982,
+    "R@1_lenient": 0.583,
+    "R@5_lenient": 0.882,
+    "R@10_lenient": 0.944,
+    "R@100_lenient": 0.99,
+    "sec": 60.7
+   },
+   "E": {
+    "R@1": 0.142,
+    "R@5": 0.289,
+    "R@10": 0.355,
+    "R@100": 0.585,
+    "R@1_lenient": 0.166,
+    "R@5_lenient": 0.324,
+    "R@10_lenient": 0.395,
+    "R@100_lenient": 0.628,
+    "sec": 39.4
+   },
+   "F": {
+    "R@1": 0.482,
+    "R@5": 0.819,
+    "R@10": 0.906,
+    "R@100": 0.981,
+    "R@1_lenient": 0.589,
+    "R@5_lenient": 0.882,
+    "R@10_lenient": 0.944,
+    "R@100_lenient": 0.987,
+    "sec": 64.4
+   }
+  },
+  "paraphrase": {
+   "n": 300,
+   "A": {
+    "R@1": 0.757,
+    "R@5": 0.917,
+    "R@10": 0.943,
+    "R@100": 0.973,
+    "R@1_lenient": 0.903,
+    "R@5_lenient": 0.943,
+    "R@10_lenient": 0.957,
+    "R@100_lenient": 0.973,
+    "sec": 0.2
+   },
+   "B": {
+    "R@1": 0.53,
+    "R@5": 0.75,
+    "R@10": 0.81,
+    "R@100": 0.937,
+    "R@1_lenient": 0.64,
+    "R@5_lenient": 0.79,
+    "R@10_lenient": 0.82,
+    "R@100_lenient": 0.94,
+    "sec": 7.3
+   },
+   "C": {
+    "R@1": 0.303,
+    "R@5": 0.52,
+    "R@10": 0.6,
+    "R@100": 0.79,
+    "R@1_lenient": 0.353,
+    "R@5_lenient": 0.567,
+    "R@10_lenient": 0.64,
+    "R@100_lenient": 0.827,
+    "sec": 13.8
+   },
+   "D": {
+    "R@1": 0.56,
+    "R@5": 0.783,
+    "R@10": 0.84,
+    "R@100": 0.967,
+    "R@1_lenient": 0.657,
+    "R@5_lenient": 0.847,
+    "R@10_lenient": 0.9,
+    "R@100_lenient": 0.977,
+    "sec": 16.7
+   },
+   "E": {
+    "R@1": 0.303,
+    "R@5": 0.557,
+    "R@10": 0.607,
+    "R@100": 0.783,
+    "R@1_lenient": 0.367,
+    "R@5_lenient": 0.593,
+    "R@10_lenient": 0.63,
+    "R@100_lenient": 0.827,
+    "sec": 12.1
+   },
+   "F": {
+    "R@1": 0.56,
+    "R@5": 0.783,
+    "R@10": 0.857,
+    "R@100": 0.967,
+    "R@1_lenient": 0.65,
+    "R@5_lenient": 0.84,
+    "R@10_lenient": 0.897,
+    "R@100_lenient": 0.977,
+    "sec": 19.2
+   }
+  }
+ },
+ "examples": {
+  "trunc10": [
+   {
+    "id": 1990446,
+    "query": "barry allen the flash on wheelchair moving at supersonic speed"
+   },
+   {
+    "id": 2770240,
+    "query": "detailed russian flag coat of arms eagle on armor glowing"
+   },
+   {
+    "id": 2938516,
+    "query": "dark green prasiolite amethyst crystal glowing darkness swirling pulsating energy"
+   },
+   {
+    "id": 6833394,
+    "query": "beautiful girl smile happy close up detailed eyes looking at"
+   },
+   {
+    "id": 8164832,
+    "query": "the tea cup on table inside swirl splashes waves close-up"
+   }
+  ],
+  "bag50": [
+   {
+    "id": 1990446,
+    "query": "wheelchair speed flash speed speed motion electricity moving realistic cinematic flame"
+   },
+   {
+    "id": 2770240,
+    "query": "soviet futuristic Ismail glowing low coat people 2077 style cyberpunk robotic detailed background"
+   },
+   {
+    "id": 2938516,
+    "query": "storytelling energy green lighting sharp vivid colors appeal subject-background druzy texture glowing amethyst isolation flair 16k detail"
+   },
+   {
+    "id": 6833394,
+    "query": "smile freckles interior hair:1.3 ginger muted eyes looking girl"
+   },
+   {
+    "id": 8164832,
+    "query": "colors tea flora inside table masterpeace gold pearl"
+   }
+  ],
+  "paraphrase": [
+   {
+    "id": 2770240,
+    "query": "A futuristic Russian cityscape with glowing robotic eyes and cyberpunk elements."
+   },
+   {
+    "id": 8164832,
+    "query": "A close-up of a tea cup on a table with swirling splashes of liquid inside, in muted colors with pearl and gold accents."
+   },
+   {
+    "id": 12132632,
+    "query": "A coffee cup transformed into a luxurious beach paradise, with a winding path leading to a sunset and a tropical landscape."
+   },
+   {
+    "id": 26921427,
+    "query": "A goth girl with black hair and purple/pink highlights on a magazine cover, lying on a wooden table."
+   },
+   {
+    "id": 30216612,
+    "query": "A close-up of a fantasy woman in leather and bronze armor, with long bleached hair and side profile, in a vivid, surreal color gradient."
+   }
+  ]
+ }
+}

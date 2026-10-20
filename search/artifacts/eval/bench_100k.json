@@ -1,0 +1,62 @@
+{
+ "index_sizes": {
+  "corpus_rows_total": 100167,
+  "corpus_rows_indexed": 97993,
+  "A_bm25_vocab": 127812,
+  "A_bm25_nnz": 4857559,
+  "A_bm25_MB": 37.5,
+  "B_dim": 384,
+  "B_faiss_MB_fp32": 143.5,
+  "B_npy_MB_fp16": 73.4,
+  "C_dim": 512,
+  "C_faiss_MB_fp32": 191.4,
+  "C_npy_MB_fp16": 97.8,
+  "E_dim": 512,
+  "E_faiss_MB_fp32": 191.4,
+  "E_npy_MB_fp16": 97.8
+ },
+ "image_query_latency": {
+  "image_query_C": {
+   "p50_ms": 36.1,
+   "p95_ms": 45.4,
+   "n": 50
+  },
+  "image_query_E": {
+   "p50_ms": 33.0,
+   "p95_ms": 47.3,
+   "n": 50
+  }
+ },
+ "embedding_build": {
+  "clip_image": {
+   "items": 30000,
+   "seconds": 342,
+   "per_s": 87.8,
+   "log": "artifacts/clip.log"
+  },
+  "mclip_image": {
+   "items": 30000,
+   "seconds": 309,
+   "per_s": 97.0,
+   "log": "artifacts/mclip.log"
+  },
+  "clip_image_incremental_100k": {
+   "items": 18809,
+   "seconds": 255,
+   "per_s": 73.8,
+   "log": "artifacts/emb_final.log"
+  },
+  "mclip_image_incremental_100k": {
+   "items": 41729,
+   "seconds": 484,
+   "per_s": 86.2,
+   "log": "artifacts/emb_final.log"
+  },
+  "text_e5_incremental_100k": {
+   "items": 70294,
+   "seconds": 864,
+   "per_s": 81.4,
+   "log": "artifacts/emb_final.log"
+  }
+ }
+}

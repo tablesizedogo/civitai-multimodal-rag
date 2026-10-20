@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+artifacts/*
+!artifacts/eval/
+data/
+*.npy
+*.faiss
+*.log

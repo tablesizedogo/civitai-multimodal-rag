@@ -1,0 +1,58 @@
+# --- data (images belong to their Civitai authors; rebuild with collect.py) ---
+images/
+images_other/
+orphans_interrupted/
+snap/
+popularity/
+meta*.jsonl
+state*.json
+manual_remove.txt
+*.log
+mon*.sh
+watchdog.sh
+__pycache__/
+*.pyc
+
+# old collector versions / one-off scripts kept locally
+collect_v*.py
+collect_v1_backup.py
+grids.py
+grids_100k.py
+report.py
+report_*.txt
+sample_grid*.jpg
+sample_grid*.json
+WRAPUP_NOTES.md
+RAG_GEN_NOTES.md
+
+# --- search package ---
+search/.venv/
+search/README_30k_backup.md
+search/README_ru_100k_backup.md
+search/artifacts_30k_backup/
+# large computed artifacts (embeddings, chunks, flags)
+search/artifacts/*.npy
+search/artifacts/*_chunks/
+search/artifacts/*.txt
+search/artifacts/*.log
+search/artifacts/clean_flags*.jsonl
+search/artifacts/*.png
+search/artifacts/eval_chain.sh
+search/artifacts/eval/grids/
+search/artifacts/eval/label_sheets/
+search/artifacts/eval/*.jpg
+search/artifacts/eval/*_30k.json
+search/artifacts/eval/text2img_results.json
+search/artifacts/eval/text2img_results_ml.json
+search/artifacts/eval/text2img_p10*.json
+search/artifacts/eval/text_latency.json
+search/artifacts/eval/text_latency_ml.json
+search/artifacts/eval/index_sizes.json
+search/eval/labeling_sheet.csv
+
+# HF Space build output (embeddings + metadata, ~300 MB)
+space/build/
+
+# local models
+models/
+*.gguf
