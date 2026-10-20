@@ -6,12 +6,15 @@ metric outputs (`artifacts/eval/`).
 
 See the [top-level README](../README.md) for the architecture, results, how to run and limitations.
 
-Quick start (from this folder):
+Quick start with the prebuilt index (from this folder, no collection needed):
 
 ```bash
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu \
     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
-export CIVITAI_DATA_DIR=..          # folder with meta.jsonl + images/ (built by ../collect.py)
-PYTHONPATH=. python -m civitai_search.app --port 7860
+python -m civitai_search.fetch_prebuilt      # ~410 MB from huggingface.co/datasets/AER6/civitai-multimodal-rag-data
+python -m civitai_search.app --port 7860     # thumbnails load from the Civitai CDN
 ```
+
+With a self-collected corpus (built by `../collect.py`), set `CIVITAI_DATA_DIR=..` (folder with `meta.jsonl` +
+`images/`) instead of fetching the bundle; see the top-level README for the full pipeline.

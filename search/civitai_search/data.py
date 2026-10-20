@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from functools import lru_cache
 from pathlib import Path
 
-from .config import DATA_DIR, META_PATH
+from .config import DATA_DIR, META_PATH, REMOTE_IMAGES
 
 
 @dataclass
@@ -24,11 +24,13 @@ class Item:
     seed: int | None
     loras: list
     has_comfy_workflow: bool
-    image_url: str = ""  # Civitai CDN (width=512) - used when the local file is absent (HF Space)
+    image_url: str = ""  # Civitai CDN thumbnail (width=512) - used when the local file is absent (prebuilt bundle)
 
     def image_ref(self) -> str:
-        """Local path if the image is on disk, otherwise the CDN URL."""
-        return str(self.path) if self.path.exists() else (self.image_url or str(self.path))
+        """Local path if the image is on disk, otherwise the Civitai CDN URL."""
+        if self.image_url and (REMOTE_IMAGES or not self.path.exists()):
+            return self.image_url
+        return str(self.path)
 
 
 def _row_to_item(r: dict) -> Item:

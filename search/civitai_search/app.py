@@ -138,8 +138,9 @@ def main() -> None:
     ap.add_argument("--share", action="store_true")
     ap.add_argument("--no-llm", action="store_true", help="search tab only")
     args = ap.parse_args()
-    from .config import DATA_DIR
+    from .config import ART_DIR, DATA_DIR, USE_PREBUILT
 
+    print(f"corpus: {'prebuilt bundle' if USE_PREBUILT else 'self-collected'} | data {DATA_DIR} | artifacts {ART_DIR}")
     build_demo(not args.no_llm).launch(server_port=args.port, share=args.share, allowed_paths=[str(DATA_DIR)],
                                         css=CSS)
 

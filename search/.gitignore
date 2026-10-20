@@ -6,3 +6,4 @@ data/
 *.npy
 *.faiss
 *.log
+prebuilt/

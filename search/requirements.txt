@@ -8,3 +8,5 @@ scipy>=1.11
 numpy>=1.26
 pillow>=10.0
 gradio>=4.40
+huggingface_hub>=0.24
+llama-cpp-python>=0.3   # prompt assistant; CPU wheels: --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu

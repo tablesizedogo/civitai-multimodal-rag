@@ -18,9 +18,41 @@ generation settings, plus a **retrieval-augmented prompt assistant** that runs f
 |---|---|---|
 | ![text search](docs/screenshots/search_text_ru.png) | ![image search](docs/screenshots/search_image.png) | ![assistant](docs/screenshots/assistant.png) |
 
-> **Licensing.** The images and prompts belong to their authors on Civitai. **This repository ships code and the
-> collection scripts only, with no images and no metadata dump.** You can rebuild the corpus with `collect.py`
-> through the public Civitai API.
+## Quick start (no collection needed)
+
+Run the full app (Search tabs + Prompt assistant) on your machine with the **prebuilt index** from the public
+Hugging Face dataset [AER6/civitai-multimodal-rag-data](https://huggingface.co/datasets/AER6/civitai-multimodal-rag-data).
+No token, no GPU and no image download needed. Tested with Python 3.13 on Linux, CPU only.
+
+```bash
+git clone https://github.com/tablesizedogo/civitai-multimodal-rag.git
+cd civitai-multimodal-rag/search
+python -m venv .venv && . .venv/bin/activate
+pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu \
+    --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+python -m civitai_search.fetch_prebuilt      # ~410 MB: metadata + embeddings -> search/prebuilt/
+python -m civitai_search.app --port 7860     # open http://localhost:7860  (add --no-llm for search only)
+```
+
+* **What you get:** 97,965 indexed images (the 100k corpus after cleaning: text-only banners, near-duplicates and a
+  final SFW pass removed). `fetch_prebuilt` checks that `meta.jsonl`, `ids.txt` and all embedding matrices line up.
+* **Downloads:** Python packages about 1.7 GB (CPU torch), the bundle about 410 MB (`meta.jsonl` 135 MB + CLIP,
+  mCLIP and e5 embeddings 100 + 100 + 75 MB, fp16). Models are fetched from the Hugging Face Hub on first start:
+  CLIP ViT-B/32 0.6 GB, multilingual CLIP 1.5 GB, multilingual-e5-small 0.5 GB, and Qwen2.5-1.5B-Instruct GGUF 1.1 GB
+  on the first assistant call. `fetch_prebuilt --models` downloads them all up front (about 3.7 GB).
+* **Images:** thumbnails (512 px) are loaded from the Civitai CDN (`image.civitai.com`) in your browser, and every
+  result links to its Civitai page. Images deleted by their authors will no longer show.
+* **Resources:** about 6 GB of RAM with all retrievers and the LLM loaded; cold start about 1 min.
+* The same strict SFW guard is active: NSFW queries are refused in both tabs.
+* The app picks the bundle automatically when no self-collected corpus (`../meta.jsonl` or `CIVITAI_DATA_DIR`) is
+  present. Force it with `CIVITAI_USE_PREBUILT=1` (or `=0` for your own corpus).
+
+> **Licensing.** The images and prompts belong to their authors on Civitai. **This repository contains code only**
+> (collector, indexing, retrieval, app, evaluation), with no images. The prebuilt
+> [dataset](https://huggingface.co/datasets/AER6/civitai-multimodal-rag-data) hosts only derived embeddings and slim
+> metadata (prompt, generation settings, author name) with links to the original Civitai pages; it contains no
+> images. Authors may request removal of their images by opening a discussion on the dataset page. You can also
+> rebuild the corpus from scratch with `collect.py` through the public Civitai API.
 
 ---
 
@@ -258,6 +290,9 @@ The app with all six retrievers and the LLM loaded uses about 6 GB of RAM, and a
 
 ## How to run
 
+This is the full pipeline (collect → embed → app). To skip steps 1–2, use the prebuilt index from
+[Quick start](#quick-start-no-collection-needed).
+
 ```bash
 # 0. environment (CPU-only torch)
 cd search
@@ -292,7 +327,9 @@ python -m civitai_search.dataset_stats
 ```
 
 Environment variables: `CIVITAI_DATA_DIR`, `CIVITAI_ART_DIR` (artifacts), `LLM_GGUF` (local GGUF path) or
-`LLM_REPO`/`LLM_FILE`, `LLM_THREADS`.
+`LLM_REPO`/`LLM_FILE`, `LLM_THREADS`. Prebuilt bundle: `CIVITAI_USE_PREBUILT` (`1` / `0` / unset = auto),
+`CIVITAI_PREBUILT_DIR` (default `search/prebuilt`), `CIVITAI_PREBUILT_REPO`, and `CIVITAI_REMOTE_IMAGES=1` to show
+Civitai CDN thumbnails even when local images exist.
 
 ## Repository layout
 
@@ -310,6 +347,7 @@ search/
     retrieval.py           methods A–F
     generate.py            RAG prompt assistant (llama.cpp, schema-constrained JSON, post-check)
     app.py                 Gradio demo (Search + Prompt assistant)
+    fetch_prebuilt.py      Quick start: download the prebuilt index (HF dataset) into search/prebuilt/
     eval_text2img.py       P@10 / nDCG@10 / MRR, pooled labels, contact sheets, agreement
     import_labels.py       raw labels -> qrels CSV
     labeler.py             Gradio relevance labeler
