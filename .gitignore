@@ -56,3 +56,4 @@ space/build/
 # local models
 models/
 *.gguf
+space/

@@ -20,8 +20,7 @@ generation settings, plus a **retrieval-augmented prompt assistant** that runs f
 
 > **Licensing.** The images and prompts belong to their authors on Civitai. **This repository ships code and the
 > collection scripts only, with no images and no metadata dump.** You can rebuild the corpus with `collect.py`
-> through the public Civitai API. The planned Hugging Face Space would host only embeddings and slim metadata, and
-> it would show thumbnails directly from the Civitai CDN with a link to each original page (see [space/DEPLOY.md](space/DEPLOY.md)).
+> through the public Civitai API.
 
 ---
 
@@ -70,7 +69,7 @@ them makes up more than 3% of the corpus. SD 1.5 and video models were skipped.
 
 ### Strict SFW filtering
 
-The corpus is meant to be safe for a portfolio demo, so filtering errs on the side of dropping images:
+The corpus is meant to be safe for a public portfolio project, so filtering errs on the side of dropping images:
 
 1. **API level:** `nsfw=None`, `browsingLevel=1`.
 2. **Record level:** keep only `nsfwLevel == "None"`, `browsingLevel == 1`, `nsfw == false`. All 100,167 records
@@ -320,7 +319,6 @@ search/
     bench.py, dataset_stats.py, viz.py
   eval/                    queries, preliminary labels, generation ideas
   artifacts/eval/          metrics JSON / review files (embeddings are not committed)
-space/                     Hugging Face Space bundle builder + deployment notes (not deployed)
 docs/                      screenshots + screenshot script
 ```
 
