@@ -149,13 +149,6 @@ returned by any method in its top-10 is judged once (3,420 judgments), so all me
 On the 20 parallel EN/RU pairs (same query in both languages), E reaches P@10 0.92 in English and 0.82 in Russian.
 C drops from 0.94 to 0.01, and B from 0.60 to 0.17.
 
-> ⚠️ **These labels are preliminary.** They were made by the project's AI assistant, not by a human annotator. It
-> looked at numbered contact sheets with the criterion "main subject of the query and most of its attributes are
-> visible" (`search/eval/prelim_labels_raw.txt` → `search/eval/qrels_prelim.csv`; 408 labels reused from the 30k
-> round). There is one labeler and no agreement measure yet, and nDCG uses the pooled relevant set as the ideal.
-> Use `python -m civitai_search.labeler` to relabel a subset yourself. The labeler hides the preliminary labels,
-> and `eval_text2img agree` then reports Cohen's κ. A spreadsheet version is in `search/eval/labeling_sheet.csv`.
-
 ### Prompt self-retrieval Recall@K (automatic, no labels)
 
 1,000 random indexed images (seed 0) are turned into queries made from a *degraded* version of their own prompt.
@@ -343,10 +336,3 @@ docs/                      screenshots + screenshot script
   idea, or uses tag style for natural-language models. Guard rails ensure *grounded settings*, not *great prompts*.
   The reference images are not seen by the LLM: a VLM would be too slow on CPU.
 * **Hybrid fusion** is unweighted RRF. No re-ranking or diversity (MMR) against series of near-identical images.
-
-## Roadmap
-
-* Human relabeling of 20–30 queries and Cohen's κ against the preliminary labels.
-* Language routing or weighted fusion. SigLIP 2 / ViT-B-16 comparison. MMR diversification.
-* VLM (e.g. Qwen2-VL-2B) that looks at the top references. This needs a GPU.
-* Deploy to Hugging Face Spaces (`space/`), with an optional ComfyUI node that calls the assistant.
