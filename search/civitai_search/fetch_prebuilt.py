@@ -1,6 +1,6 @@
 """Quick start: download the prebuilt index instead of collecting and embedding 100k images.
 
-    python -m civitai_search.fetch_prebuilt               # ~410 MB: metadata + embeddings
+    python -m civitai_search.fetch_prebuilt               # ~400 MB: metadata + embeddings
     python -m civitai_search.fetch_prebuilt --models      # + CLIP, mCLIP, e5 and the GGUF LLM (~3.7 GB)
 
 Source: the public Hugging Face dataset https://huggingface.co/datasets/AER6/civitai-multimodal-rag-data

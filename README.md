@@ -30,13 +30,13 @@ cd civitai-multimodal-rag/search
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu \
     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
-python -m civitai_search.fetch_prebuilt      # ~410 MB: metadata + embeddings -> search/prebuilt/
+python -m civitai_search.fetch_prebuilt      # ~400 MB: metadata + embeddings -> search/prebuilt/
 python -m civitai_search.app --port 7860     # open http://localhost:7860  (add --no-llm for search only)
 ```
 
 * **What you get:** 97,965 indexed images (the 100k corpus after cleaning: text-only banners, near-duplicates and a
   final SFW pass removed). `fetch_prebuilt` checks that `meta.jsonl`, `ids.txt` and all embedding matrices line up.
-* **Downloads:** Python packages about 1.7 GB (CPU torch), the bundle about 410 MB (`meta.jsonl` 135 MB + CLIP,
+* **Downloads:** Python packages about 1.7 GB (CPU torch), the bundle about 400 MB (`meta.jsonl` 135 MB + CLIP,
   mCLIP and e5 embeddings 100 + 100 + 75 MB, fp16). Models are fetched from the Hugging Face Hub on first start:
   CLIP ViT-B/32 0.6 GB, multilingual CLIP 1.5 GB, multilingual-e5-small 0.5 GB, and Qwen2.5-1.5B-Instruct GGUF 1.1 GB
   on the first assistant call. `fetch_prebuilt --models` downloads them all up front (about 3.7 GB).

@@ -12,7 +12,7 @@ Quick start with the prebuilt index (from this folder, no collection needed):
 python -m venv .venv && . .venv/bin/activate
 pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cpu \
     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
-python -m civitai_search.fetch_prebuilt      # ~410 MB from huggingface.co/datasets/AER6/civitai-multimodal-rag-data
+python -m civitai_search.fetch_prebuilt      # ~400 MB from huggingface.co/datasets/AER6/civitai-multimodal-rag-data
 python -m civitai_search.app --port 7860     # thumbnails load from the Civitai CDN
 ```
 
